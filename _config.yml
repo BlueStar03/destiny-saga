@@ -1,0 +1,4 @@
+remote_theme: zbule/bluestar-theme
+
+plugins:
+  - jekyll-remote-theme
