@@ -534,4 +534,490 @@ With this, Zephyr operatives can poetically report **what** the sky does and **h
 
 ---
 
+Understood—let’s remove the “Object alone” entry. Here’s the revised **Identities** snippet:
+
+---
+
+## 👤 **Identities – People, Places & Roles**
+
+### 🔹 1. Individual & Group Encoding
+
+| **Form**                                                                       | **Meaning**                                                                                                |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Colored Object**<br>*(red stone, blue leaf, lavender sand)*                  | An **unimportant** individual                                                                              |
+| **Plural Object**<br>*(red leaves, turquoise bells)*                           | A **group** of unimportant individuals                                                                     |
+| **Action-Adjective + Object**<br>*(ringing bell, trailing leaf)*               | An **important** individual                                                                                |
+| **Color + Object + Verb**<br>*(the red leaf trails, the turquoise bell rings)* | An unimportant person **becoming important**<br>—subsequent mentions drop the color (e.g. “trailing leaf”) |
+
+> **Examples:**
+>
+> * **Red lamp** → Store keeper
+> * **Falling stone** → General Lan
+> * **Falling stones** → General Lan’s army
+> * **Blue bridge** → A random person under surveillance
+> * **Blue bridge laughs** → That person is now important (Captain of the Guard)
+> * **Laughing bridge** → Captain of the Guard
+
+> *Note: Pure object words (e.g. “leaf”, “stone”) carry no identifier on their own—they’re just poetic padding unless modified.*
+> *Note: Actual “who” each symbol refers to is shared through a separate secure channel.*
+
+---
+
+### 🔸 2. Place Encoding
+
+| **Form**                                                                             | **Meaning**             |
+| ------------------------------------------------------------------------------------ | ----------------------- |
+| **Material/Texture + Object**<br>*(wooden lamp, tin candle, smooth rock, spiny cup)* | A specific **location** |
+
+> **Examples:**
+>
+> * **Wooden lamp** → Town center
+> * **Tin candle** → Guard barracks
+> * **Smooth rock** → Palace
+> * **Spiny cup** → Kelly Hill
+
+---
+
+### ✴️ 3. Participant Roles
+
+| **Keyword** | **Role**                                      |
+| ----------- | --------------------------------------------- |
+| **moon**    | Writer of the message (*Zephyr Murmur*)       |
+| **sun**     | Intended recipient (*Zephyr Whisper/Silence*) |
+| **star**    | Spy (*Zephyr Rumor*)                          |
+| **twinkle** | Assassin (*Zephyr Hush*)                      |
+| **comet**   | Courier (*Echo*)                              |
+| **aurora**  | Thunder Ops member                            |
+| **nova**    | The Queen                                     |
+| **meteor**  | Enemy                                         |
+
+> **Usage Examples:**
+>
+> * *“Moon flows into canyon road”* → Writer is moving east.
+> * *“Star hues the trailing leaf”* → Spy assigns a new ID to that important person.
+> * *“Meteor strikes behind the smooth rock”* → Enemy attacked the palace under foggy conditions.
+
+---
+
+With these patterns, Zephyr Code can reference anyone or anywhere in your world—**all through the poetry itself**.
+
+---
+
+---
+
+## ⚔️ **Movement – Advance, Stationary & Retreat**
+
+Zephyr Code conveys **agent movement** via **action verbs** applied to established **identifiers**. Verbs themselves **cannot** double as identifiers—this avoids ambiguity. Destination or direction may be given via location anchors or cardinal keywords.
+
+---
+
+### 🔹 1. Forward Movement Verbs
+
+| **Verbs**                     | **Meaning**                                                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------- |
+| **fail**, **flow**, **swing** | The subject is **moving** in the specified direction or toward the specified location |
+
+* **Syntax:**
+
+  ```
+  <Identifier> <verb> [to/into/…] <Destination or Direction>
+  ```
+* **If no direction given:** movement is understood but undirected.
+
+> **Examples:**
+>
+> * “Red sand fails” → *Red Sand* is moving (direction unspecified)
+> * “Blue grass flows to rocky boot” → Lt. Dan is moving **toward West Town**
+> * “Falling stones swing far from the mountain” → Gen. Lan’s army is moving **north**
+
+---
+
+### 🔸 2. Stationary Verbs
+
+| **Verbs**                      | **Meaning**                                           |
+| ------------------------------ | ----------------------------------------------------- |
+| **float**, **shift**, **rise** | The subject is **holding position**, staying in place |
+
+> **Examples:**
+>
+> * “Blue grasses float” → Lt. Dan’s army remains in place
+> * “Falling stone shifts on the bay road” → Gen. Lan is stationary **west** from here
+
+---
+
+### 🔹 3. Retreat (Reverse Movement) Verbs
+
+| **Verbs**                      | **Meaning**                                                                         |
+| ------------------------------ | ----------------------------------------------------------------------------------- |
+| **calm**, **rush**, **strike** | The subject is **retreating**, moving **away** from the given direction or location |
+
+* When a retreat verb pairs with a direction keyword, **invert** that direction:
+
+  * *mountain rush* → retreating **south**
+  * *canyonside calm* → retreating **west by west-southwest**
+
+> **Examples:**
+>
+> * “Mountain rush” → retreating **south**
+> * “Blue grass calms to rocky boot” → Lt. Dan is **retreating away from West Town**
+> * “Falling stones strike far from the mountain” → Gen. Lan’s army retreats **southward**
+
+---
+
+### 🧠 Notes & Edge Cases
+
+1. **Identifier Requirement:** Verbs must attach to a **valid identifier** (e.g., *trailing leaf*, *blue bridge*).
+2. **No-verb Adjectives:** Phrases like *floating grass* or *swinging grass* do **not** encode movement.
+3. **Compound Directions:** Combine with the full **Directions** syntax:
+
+   * “Flow into canyonside swamp” → move **east by southeast**
+4. **Chaining:** Multiple movement verbs in one poem are read sequentially—good for multi-phase operations.
+5. **Ambiguity Safeguard:** Use **padding** around movement lines if interception risk is high.
+
+---
+
+---
+
+## 🛟 **Resources & Help – Aid Requests & Resource Status**
+
+Zephyr Code lets operatives **call for assistance**, report **resource availability**, and signal **supply trends**—all hidden in poetic verse.
+
+---
+
+### 🔹 1. Help Requests
+
+| **Help Marker**                                                                        | **Meaning: Send Help** |
+| -------------------------------------------------------------------------------------- | ---------------------- |
+| **cloud**, **smoke**, **flag**, **banner**, **river**, **valley**, **field**, **hill** | “Send help”            |
+
+* **Location Anchor Required:**
+  Must appear on the same line as a **location anchor** (`road`, `way`, `trail`).
+  Without an anchor, it does **not** request help.
+
+| **Anchor**       | **Interpretation**          |
+| ---------------- | --------------------------- |
+| road, way, trail | “Here” = where to send help |
+
+* **Aid Type via Animal Class:**
+  Immediately follow the help marker (and anchor) with an **animal** to specify the kind of aid:
+
+  | **Animal Class** | **Aid Type**      |
+  | ---------------- | ----------------- |
+  | Furred           | Personnel support |
+  | Feathered        | Food & supplies   |
+  | Scaled           | Armaments         |
+  | Aquatic          | Medical aid       |
+
+> **Examples:**
+>
+> * *“down the valley road, a snake slithers by”*
+>   – valley + road → send help here
+>   – snake (scaled) → **send weapons**
+> * *“the clouded mountain nests eagles flight”*
+>   – cloud → send help
+>   – mountain (north) → north from here
+>   – eagle (feathered) → **send food**
+
+---
+
+### 🔸 2. Resource Availability & Status
+
+#### a. **Resource Presence at Locations**
+
+When an **animal** appears **with a place identifier** (e.g., `wooden lamp`, `smooth rock`), it signals that resource is available **there**:
+
+| **Place ID, Animal**                  | **Meaning**                    |
+| ------------------------------------- | ------------------------------ |
+| *“On the metal lamp, the bird sings”* | Food & supplies at town center |
+| *“At the smooth rock, fish gather”*   | Medical aid at the palace      |
+
+#### b. **Resource Status for Individuals**
+
+When an **animal** appears **with a person identifier** (e.g., `trailing leaf`, `blue bridge`), it signals that person’s resource status:
+
+| **Person ID Animal**                    | **Meaning**                                |
+| --------------------------------------- | ------------------------------------------ |
+| *“Trailing lamp burns the harsh fish”*  | That person’s health has **improved**      |
+| *“Blue bridge shrinks the dull lizard”* | That person’s armaments have **decreased** |
+
+#### c. **Trend Modifiers**
+
+Use **trend keywords** adjacent to the animal to indicate **increase** or **decrease**:
+
+| **Trend**    | **Keywords**                    | **Effect**   |
+| ------------ | ------------------------------- | ------------ |
+| **Positive** | harsh, bask, laze, savor, dream | **Increase** |
+| **Negative** | hush, cover, toil, shun, dread  | **Decrease** |
+
+> **Examples:**
+>
+> * *“bayside lizard basks in the sun”*
+>   – bayside → west from here
+>   – lizard (scaled) → armaments
+>   – basks → **increased**
+>   → **Armaments west of here have increased**
+> * *“blue bridge hushes the fish”*
+>   – blue bridge → person under surveillance
+>   – fish (aquatic) → medical aid
+>   – hush → **decreased**
+>   → **That person’s health has declined**
+
+---
+
+### 🧠 Notes
+
+* **Help vs. Resource:** A **help marker** + anchor always **trumps** a resource reading.
+* **Line Scope:** All keywords must appear on the **same line** (or within a period‐extended scope).
+* **Padding & Nullifiers:** You can pad help/resource lines with neutral verse or nullifiers to conceal true intent.
+
+---
+
+---
+
+## 🕵️ **Surveillance – Status Markers**
+
+Zephyr Code lets operatives track the **observation status** of any identifier (person or place) through dedicated **surveillance verbs**. These markers report initial contact, loss, reacquisition, long-term absence, reassignment, errors, and corrections.
+
+---
+
+### 🔺 Status Verbs & Meanings
+
+| **Verb(s)**               | **Meaning**                                                             |
+| ------------------------- | ----------------------------------------------------------------------- |
+| **Hues**                  | **First assignment** of this identifier (or reassignment after release) |
+| **Whitens**, **Lightens** | Surveillance **reacquired**—target has been spotted again               |
+| **Blackens**, **Darkens** | Surveillance **lost**—target is no longer observed                      |
+| **Greys**, **Dulls**      | **6+ months** unobserved—ID is nearing expiration                       |
+| **Shade**                 | **Release** the identifier—no longer linked to the original target      |
+| **Tints**                 | **Possible error** or protocol breach—observation may be incorrect      |
+| **Tones**                 | **Correction** or **confirmation** of previous report                   |
+
+---
+
+### 🧪 Examples
+
+1. **Assignment & Reacquisition**
+
+   * “The rolling hammer hues the flame” → *Rolling Hammer* is now the prince
+   * “The rolling hammer lightens on the fire” → Prince has been spotted again
+
+2. **Loss & Expiration Warning**
+
+   * “The rolling hammer darkens in frost” → Surveillance on prince is lost
+   * “The rolling hammer dulls with time” → No sighting for 6 months; ID will expire soon
+
+3. **Release & Reuse**
+
+   * “The rolling hammer shades the waves” → *Rolling Hammer* is released from the prince
+   * “The red flower hues in clouds” → *Red Flower* becomes a new ID
+
+4. **Error & Correction**
+
+   * “The rolling hammer tints in stardust swirls” → Observation uncertain or protocol error
+   * “In rolling hammer tones falling stone moss” → Correction: it was *Falling Stone* (General Lan)
+
+---
+
+### 🧠 Notes & Workflow
+
+1. **Lifecycle Flow:**
+
+   1. **Hues** → first assignment
+   2. **Whitens/Lightens** → positive sighting
+   3. **Blackens/Darkens** → lost sighting
+   4. **Greys/Dulls** → 6+ months lost
+   5. **Shade** → release ID
+   6. **Tints** → flag possible error
+   7. **Tones** → confirm or correct
+
+2. **Protocol Enforcement:**
+
+   * Use **Tints** whenever unsure or protocol may have been violated.
+   * Follow with **Tones** to affirm or correct that doubt.
+
+3. **Verb Position:**
+
+   * These verbs function as **action markers**—they should be the **main verb** of a line.
+   * Do **not** use them inside literal blocks unless nullified.
+
+---
+
+---
+
+## 🛑 **Literal Overrides – Bypass & Block Modes**
+
+Zephyr Code normally encodes every line symbolically, but there are clear mechanisms to **suspend** encoding and read content **literally** when clarity or alternate encryption is required.
+
+---
+
+### 🔹 1. Single-Line Literal (“of”)
+
+* **Trigger:** A line beginning with **`of`** (alone, in lowercase)
+* **Effect:** The **entire line** is read **literally**—no keywords, triggers, or functions apply.
+
+> **Examples:**
+>
+> ```
+> of north of the valley  
+> ```
+>
+> → Exactly “north of the valley.”
+>
+> ```
+> of thirteen dead  
+> ```
+>
+> → Exactly “thirteen dead.”
+
+**Notes:**
+
+* Only counts if **`of`** is the **first word**.
+* Does **not** apply to the **title**.
+* Any other occurrence of “of” in a line is processed normally.
+
+---
+
+### 🔸 2. Multi-Line Literal Blocks (“of this” … “that”)
+
+#### a. **Start Block**
+
+* **Triggers:**
+
+  * **`of this`** (routine/priority flash not recommended)
+  * **`flash of this`**, **`immediate of this`**, **`flash of that`** (urgency applied literally)
+* Must appear as the **very first words** of a line.
+* **Everything** after that line—across **multiple lines**—is read **literally** until the block is closed.
+
+#### b. **End Block**
+
+* A line whose **last word** is exactly **`that`**, with **no trailing text**, terminates the literal block.
+* **Only** a standalone final-word `that` counts. Mid-line `that` is part of the literal text.
+
+> **Example:**
+>
+> ```
+> flash of this
+> 12 dead, 30 injured
+> Immediate evacuation requested
+> Enemy sighted at southern pass that
+> Mountain road flows with ash
+> ```
+>
+> – Lines 1–3 are literal.
+> – Line 4 ends in `that` → block closes.
+> – Line 5 resumes normal encoding.
+
+**Notes:**
+
+* If **no** terminating `that` is ever found, the **rest of the message** remains literal.
+* **Flash** or **Immediate** urgency blocks unencoded content are acceptable; **Routine** or **Priority** blocks are discouraged or flagged for review.
+* Within literal blocks, **other encodings** (e.g., acrostics, steganography) may still be used.
+
+---
+
+### 🔹 3. Nullifiers Inside Literal Blocks
+
+* **Nullifier keywords** (`ain’t`, `yonder`, `reckon`, `holler`, `y’all`) placed **anywhere** on a **literal-block** line **reactivate** Zephyr encoding **for that line** only.
+* This allows a **single coded line** to be planted inside an otherwise literal section (often used for misinformation or hidden signals).
+
+> **Example:**
+>
+> ```
+> of this
+> All engines ready
+> The red leaf ain’t in the bay
+> The blue bridge holler in canyon way
+> that
+> ```
+>
+> – Line 2: literal.
+> – Line 3: nullifier on literal-start line → ignore (literal).
+> – Line 4: `holler` nullifies literal mode → standard encoding applies (blue bridge → east).
+
+---
+
+### 🧠 Key Takeaways
+
+1. **`of`** = single-line literal override.
+2. **`of this` … `that`** = multi-line literal block.
+3. **Nullifiers** within a literal block flip that line back to code.
+4. **Use judiciously**: literal overrides trade security for clarity or alternative encoding.
+
+---
+
+---
+
+## 🚫 **Padding & Nullifiers**
+
+In Zephyr Code, **padding lines** and **nullifier keywords** are essential for **misdirection** and **security**, making encoded lines harder to detect and providing a way to **cancel** encoding when needed.
+
+---
+
+### 🔹 1. Padding Lines
+
+* **Definition:** Lines that contain **no trigger words**, **no special keywords**, and thus encode **nothing**.
+* **Purpose:**
+
+  * **Break up** patterns of encoded content
+  * **Blend** intelligence into ordinary verse
+  * **Delay** or **confuse** interceptors
+* **Best Practice:**
+
+  * Include **at least one** padding line **every 2–3 lines** of encoded content
+  * Vary placement: opening, middle, or closing of stanzas
+  * Write them as **natural poetic imagery**
+
+> *Example Padding Line:*
+> “The grass grows green upon the summit”
+
+---
+
+### 🔸 2. Nullifier Keywords
+
+| **Keyword** | **Effect**                        |
+| ----------- | --------------------------------- |
+| ain’t       | Cancels all encoding on that line |
+| yonder      | Cancels all encoding on that line |
+| reckon      | Cancels all encoding on that line |
+| holler      | Cancels all encoding on that line |
+| y’all       | Cancels all encoding on that line |
+
+* **Mechanism:** If **any** nullifier appears **anywhere** on the line, **ignore** all other code triggers on that line.
+* **Strategic Uses:**
+
+  * **Misinformation:** Plant decoy lines to mislead interceptors
+  * **Shielding:** Make real encoded lines look similar so they’re skipped
+  * **Conditional activation:** Only use when interception risk is high
+
+> *Example:*
+>
+> * “The running mouse ain’t in the swamp” → **No encoding** (nullified)
+> * Interceptor might skip: “The trailing leaf ain’t in the bay” (also nullified) → **Misses** real “trailing leaf” west message
+
+---
+
+### 🔹 3. Nullifiers Inside Literal Blocks
+
+* Within an **`of this … that`** block, a nullifier on a line **reactivates** standard Zephyr encoding **for that line only**.
+* **Use Case:** Embed a hidden code line amid literal text (e.g., a fallback signal or a trap).
+
+> *Example:*
+>
+> ```
+> of this
+> All is calm and still
+> The blue bridge holler in canyon way
+> That
+> ```
+>
+> – Line 2: literal (no nullifier)
+> – Line 3: `holler` cancels literal-block → standard encoding applies (blue bridge → east)
+
+---
+
+### 🧠 Key Takeaways
+
+* **Padding** hides patterns; use it liberally.
+* **Nullifiers** cancel encoding on demand; use sparingly for decoys or high-risk scenarios.
+* **Inside literal blocks**, nullifiers flip that line back to code, enabling nuanced misinformation or hidden instructions.
 
