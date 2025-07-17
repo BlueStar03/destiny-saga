@@ -24,6 +24,7 @@ title: Zephyr Code
 | le   |  `l`   |
 | Ti   |  `T`   |
 
+---
 
 ### Voice
 
@@ -33,30 +34,31 @@ title: Zephyr Code
 | `'`  | Bell Voice |
 | `*` | Whistle Voice |
 
-| usage  | Meaning |
-| ---- | ------ |
-| `DRM `  |  DoReMi in Bell voice |
-| `'DRM `  | DoReMi in Bell voice |
-| `*DRM` | DoReMi in Whistle Voice  |
-| `*D'RM` | Do in whistle voice, ReMi in Bell voice |
+
+- `DRM` :  DoReMi in Bell voice 
+- `'DRM` : DoReMi in Bell voice 
+- `*DRM` : DoReMi in Whistle Voice  
+- `*D'RM` : Do in whistle voice, ReMi in Bell voice 
+
+---
 
 ### Octave
 
 | Octave Marker | Semitone Shift |
 | ------------- | -------------- |
-| `\\`          | –24 (lower)    |
-| `\`           | –12 (low)      |
+| `\\` or`¡¡`   | –24 (lower)    |
+| `\` or `¡`    | –12 (low)      |
 | (none) or `#` | +0  (natural)  |
-| `//`          | +24 (high)     |
-| `/`           | +12 (higher)   |
+| `/` or  `!`   | +12 (high)     |
+| `//` or `!!`  | +24 (higher)   |
 
-| usage  | Meaning |
-| ---- | ------ |
-| `DRM `  |  DoReMi in natural octave |
-| ` /DRM `  | DoReMi in high octave |
-| `//DR#M` | DoRe in higher octave, Mi in natural cotave  |
-| `D\R\\M` | Do in natural octave, Re in low octave, Mi in lower octave |
 
+- `DRM` :  DoReMi in natural octave 
+- ` /DRM ` : DoReMi in high octave 
+- `//DR#M` : DoRe in higher octave, Mi in natural cotave  
+- `D\R\\M` : Do in natural octave, Re in low octave, Mi in lower octave 
+
+---
 
 ### Lenght
 
@@ -69,13 +71,14 @@ title: Zephyr Code
 | `__`   | 4 beats  |
 
 
-| usage  | Meaning |
-| ---- | ------ |
-| `DRM `  |  DoReMi in 1 beat in lenght |
-| `DR:M `  | DoRe are 1 beat each, Mi in half beat |
-| `::D::RM ` | Do and Re in quarter beat, Mi in one feat  |
-| `__DR_M ` | Do in quad beat, Re in one beat, Mi in double beat |
-| `_DR:M ` | Do in double beat, Re in one beat, Mi in half beat |
+
+- `DRM`  :  DoReMi in 1 beat in lenght 
+- `DR:M`  : DoRe are 1 beat each, Mi in half beat 
+- `::D::RM` : Do and Re in quarter beat, Mi in one beat  
+- `__DR_M` : Do in quad beat, Re in one beat, Mi in double beat 
+- `_DR:M` : Do in double beat, Re in one beat, Mi in half beat 
+
+---
 
 ### Rest
 
@@ -84,18 +87,18 @@ title: Zephyr Code
 | none   | 1 rest   |
 | `.`    | 1 rest   |
 
-| usage  | Meaning |
-| ---- | ------ |
-| `DRM `  |  DoReMi with no rests |
-| `DR M `  | DoRe, rest, Mi |
-| `DR.M ` | DoRe, rest, Mi  |
-| `D.R..M ` | Do, rest, Re, rest,rest, Mi|
-| `D.R_.M ` | Do, rest, Re, double rest, Mi|
-| `D.R::.M ` | Do, rest, Re, quarter rest, Mi|
-| `D.R:: M ` | Do, rest, Re, quarter rest, Mi|
-| `D.R::.::M ` | Do, rest, Re, quarter rest, quarter Mi|
+
+- `DRM`  :  DoReMi with no rests 
+- `DR M`  : DoRe, rest, Mi 
+- `DR.M` : DoRe, rest, Mi  
+- `D.R..M` : Do, rest, Re, rest,rest, Mi
+- `D.R_.M` : Do, rest, Re, double rest, Mi
+- `D.R::.M` : Do, rest, Re, quarter rest, Mi
+- `D.R:: M` : Do, rest, Re, quarter rest, Mi
+- `D.R::.::M` : Do, rest, Re, quarter rest, quarter Mi
 
 
+---
 
 ## DoTi mode
 
@@ -126,6 +129,8 @@ title: Zephyr Code
 - `*:D:T sd R` : 70, 1
 - `*:D:T M M d` : 3, 3, 0
 
+---
+
 ### Letters
 
 | High | letter |   | Natural | letter |   | Low  | letter |
@@ -146,6 +151,7 @@ title: Zephyr Code
 - `':D:T RMF` : QON
 - `':D:T \Tl/s#d\l` : START
 
+---
 
 ### Nink Names
 
@@ -158,6 +164,8 @@ Nink names start with at least one letter, followed by numbers: D935, T983, B137
 - `':D*:T '/s#*lrM` : A923
 - `':D*:T '/d\S#*sls` : GW797
 
+---
+
 #### Nink name normalization
 Nink names are often normalized to make them easier to pronounce or remember. This can involve substituting parts of the name based on how they sound when spoken, or by using visual similarities between letters and numbers. For example, the number "4" resembles the letter "A" and, when pronounced, "four" can be used in place of "F" or "FO".
 
@@ -167,6 +175,8 @@ Nink names are often normalized to make them easier to pronounce or remember. Th
 - `KR157` : Krista
 - `A923` : Anya
 - `GW797` : Gwen
+
+---
 
 ### Foreign Name
 
@@ -186,6 +196,8 @@ used to adress others that are not Nink. the vowels are considere. they are mape
 - Leonardo : `*:D':T lDFS`
 - Sonia : `*:D':T SMd`
 
+---
+
 ## Voice Properties
 
 Each Nink has unique properties that shape their vocal characteristics:
@@ -198,7 +210,7 @@ Each Nink has unique properties that shape their vocal characteristics:
 
 > Name: D935 - "Dimiri"  
 > Natural Tone: C3  
-> Whistle Offest: 0  
+> Whistle Offset: 0  
 > Fourth Octave: Higher  
 > Full Range: : C2 - B5  
-> Note: Shift -4 when speaking to M174 - "Mila"  
+> Note: He tends to Shift -4 when speaking to M174 - "Mila"  
