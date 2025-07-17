@@ -186,7 +186,7 @@ used to adress others that are not Nink. the vowels are considere. they are mape
 - Leonardo : `*:D':T lDFS`
 - Sonia : `*:D':T SMd`
 
-
+## Voice Properties
 
 Each Nink has unique properties that shape their vocal characteristics:
 
