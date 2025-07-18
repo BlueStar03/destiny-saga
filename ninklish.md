@@ -5,9 +5,14 @@ title: Zephyr Code
 
 # 📘 **Ninklish**
 
+The Nink are a people whose speech differs from others; instead of conventional language, they communicate using bells and whistles. Their unique vocal abilities have led to the development of a language tailored to these sounds.
+
 ## Notation
 
+To facilitate the study of Ninklish, a specialized notation system has been created. The details of this system are documented below.
+
 ### Solfage
+Nink Solfage is a system that assigns unique symbols to musical phonemes, enabling the Nink to communicate using bells and whistles. Each phoneme (Do, Re, Mi, etc.) is represented by a specific letter, allowing for precise notation of their language. 
 
 | Note | Symbol |
 | ---- | ------ |
@@ -28,6 +33,8 @@ title: Zephyr Code
 
 ### Voice
 
+Ninks communicate using two primary vocal modes: bell voice and whistle voice. These modes can be switched freely during conversation, and the notation system specifies which voice is active and indicates any changes between them.
+
 | Symbol | Meaning |
 | ---- | ------ |
 | (none)   |  default Bell voice   |
@@ -43,6 +50,8 @@ title: Zephyr Code
 ---
 
 ### Octave
+
+Ninks typically communicate using a three-octave vocal range. Upon reaching adulthood, they gain a fourth octave, which can expand their range either lower or higher. Octave markers in the notation indicate when the vocal range shifts; all subsequent notes remain in the new octave until another marker changes it.
 
 | Octave Marker | Semitone Shift |
 | ------------- | -------------- |
@@ -62,6 +71,8 @@ title: Zephyr Code
 
 ### Lenght
 
+Ninks pronounce a note with a duration of 1 beat, typically at 140 bpm, though this tempo varies among individuals. They may shorten or lengthen notes as needed. The notation specifies the duration for each subsequent note.
+
 | Marker | Duration |
 | ------ | -------- |
 | none   | 1 beat   |
@@ -69,8 +80,6 @@ title: Zephyr Code
 | `::`   | ¼ beat   |
 | `_`    | 2 beats  |
 | `__`   | 4 beats  |
-
-
 
 - `DRM`  :  DoReMi in 1 beat in lenght 
 - `DR:M`  : DoRe are 1 beat each, Mi in half beat 
@@ -80,7 +89,22 @@ title: Zephyr Code
 
 ---
 
+#### Tempo
+
+| Term         |      BPM Range |
+| ------------ | -------------: |
+| **Toll**     |    20 – 60 BPM | 
+| **Gong**     |    60 – 80 BPM | 
+| **Slide**    |   80 – 100 BPM | 
+| **peal**     |  100 – 140 BPM | 
+| **clash**    |  140 – 180 BPM | 
+| **trill**    |  180 – 220 BPM |
+| **roll**     |  220 – 280 BPM | 
+
+
 ### Rest
+
+Rests in Ninklish indicate pauses or silences between notes, allowing for rhythmic separation and phrasing in speech. A rest can be marked by a space or a dot (`.`) in the notation. Multiple rests can be combined for longer pauses, and rests can be assigned durations using length markers, just like notes. 
 
 | Marker | Duration |
 | ------ | -------- |
@@ -102,6 +126,8 @@ title: Zephyr Code
 
 ## DoTi mode
 
+By default, Nink notes are interpreted as words. However, there are situations where they need to represent something other than words. "DoTi" is a term in Ninklish that signals the following notes should be interpreted differently. DoTi mode continues until a double pause or a longer rest occurs, which ends the mode.
+
 | Mode              | Notation  |
 | ----------------- | --------- |
 | **Numbers**       | `*:D:T`   |
@@ -109,7 +135,9 @@ title: Zephyr Code
 | **Nink Names**    | `':D*:T`  |
 | **Foreign Names** | `*:D':T`  |
 
-### Numbers
+### Numbers `*:D:T`
+
+Cardinal numbers are always conveyed in whistle voice and use the natural octave. They are primarily used for counting.
 
 | Note   | Digit |
 | ------ | ----- |
@@ -131,11 +159,14 @@ title: Zephyr Code
 
 ---
 
-### Letters
+### Letters `':D:T`
+
+Ninks use a distinct system for ordinal numbers, separate from their cardinal numbers. There are 26 ordinal levels, each mapped to a letter of the alphabet. Ordinals are always pronounced in bell voice and utilize notes from both the low and high octaves.
+
 
 | High | letter |   | Natural | letter |   | Low  | letter |
 |------|--------|---|---------|--------|---|------|--------|
-| `/s` | A      |   | `l`     | I      |   | `\T` | S      |
+| `/S` | A      |   | `l`     | I      |   | `\T` | S      |
 | `/f` | B      |   | `L`     | J      |   | `\l` | T      |
 | `/F` | C      |   | `s`     | K      |   | `\L` | U      |
 | `/M` | D      |   | `S`     | L      |   | `\s` | V      |
@@ -153,14 +184,14 @@ title: Zephyr Code
 
 ---
 
-### Nink Names
+### Nink Names `':D*:T`
 
-Nink names start with at least one letter, followed by numbers: D935, T983, B137, KR1574, A923, GW797. 
+Nink names start with at least one order (letter), followed by a count (number) : D935, T983, B137, KR1574, A923, GW797. 
 
 - `':D*:T '/M#*lMf` : D935
 - `':D*:T '\l#*lLM` : T983
 - `':D*:T '/f#*RMs` : B137
-- `':D*:T 'sd#*Rfs` : KR157
+- `':D*:T 'sd*Rfs` : KR157
 - `':D*:T '/s#*lrM` : A923
 - `':D*:T '/d\S#*sls` : GW797
 
@@ -178,9 +209,8 @@ Nink names are often normalized to make them easier to pronounce or remember. Th
 
 ---
 
-### Foreign Name
-
-used to adress others that are not Nink. the vowels are considere. they are maped to the twelve notes. any note that matches is acceptable. 
+### Foreign Name `*:D':T`
+Used to address individuals who are not Nink. Vowels in the name are considered and mapped to the twelve notes; any note that corresponds to a vowel is acceptable.
 
 | Vowel | Options              |
 | ----- | -------------------- |
