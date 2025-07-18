@@ -209,11 +209,10 @@ Nink names are often normalized to make them easier to pronounce or remember. Th
 
 ---
 
-### Foreign Name `*:D':T`
-Used to address individuals who are not Nink. Vowels in the name are considered and mapped to the twelve notes; any note that corresponds to a vowel is acceptable.
+Used to represent names of individuals who are not Nink. When encoding a foreign name, each vowel in the name is mapped to one or more corresponding notes, as shown in the table above. Any note associated with a vowel is valid, and the speaker may freely choose between bell or whistle voice for each note.
 
-| Vowel | Options              |
-| ----- | -------------------- |
+| Vowel | Options             |
+| ----- | ------------------- |
 | A     | `d` , `F`           |
 | E     | `R` , `l`           |
 | I     | `r`, `M`, `f` , `T` |
@@ -238,9 +237,83 @@ Each Nink has unique properties that shape their vocal characteristics:
 - **Full Range:** Calculated from the natural tone, spanning –12 semitones for the lowest note and +23 for the highest. If a fourth octave is developed, –12 is added for a lower octave or +12 for a higher octave. The whistle range is derived by applying the whistle offset to the full range.
 - **Personal Shift:** Ninks can modulate their voices by shifting their natural note, affecting both bell and whistle voices equally. This does not alter their full range. Attempting notes outside their range may strain their voice.
 
-> Name: D935 - "Dimiri"  
+> Name: D935 - "Dimitri"  
 > Natural Tone: C3  
 > Whistle Offset: 0  
 > Fourth Octave: Higher  
-> Full Range: : C2 - B5  
+> Full Range: C2 - B5  
+> Pace: Trill
 > Note: He tends to Shift -4 when speaking to M174 - "Mila"  
+
+## Vocabulary
+
+|          | English         | Singular   |        | Plural      |
+|----------|-----------------|------------|--------|-------------|
+| 1st person | **I / me**      | `D`        | **we / us** | `:D:D`     |
+| 2nd person | **you**         | `d`        | **you all**  | `:d:d`     |
+| 3rd person | **he / she**    | `R`        | **they / them** | `:R:R`     |
+
+
+| | **water**  | `DSR`    | | `DS:R:S` |
+| | **friend** | `MRS`    | | `MR:S:S` |
+| | **enemy**  | `sRf`    | | `sR:f:f` |
+
+
+| Base Note | Base Meaning        | Negative (`:X:down`)     | Positive (`:X:up`)         |
+| --------- | ------------------- | ------------------------ | -------------------------- |
+| **F**     | to hear/understand  | `:F:M` (“not hear”/no)   | `:F:f` (“hear”/yes)        |
+| **s**     | to sense/experience | `:s:S` (“lose,” sadness) | `:s:L` (“win,” joy)        |
+| **R**     | to speak/state      | `:R:d` (“silence/kill”)  | `:R:r` (“shout/born”)      |
+| **L**     | to do/act/work      | `:L:s` (“laze/rest”)     | `:L:l` (“be active/awake”) |
+| **l**     | to possess/belong   | `:l:L` (“give/not have”) | `:l:T` (“receive/acquire”) |
+| **M**     | to eat/drink        | `:M:r` (“starve/suffer”) | `:M:F` (“feast/heal”)      |
+| **T**     | to stop/finish      | `:T:l` (“don’t stop”)    | `:T:/D` (“STOP NOW”)       |
+
+
+| Connector        | Notation | Meaning      |
+| ---------------- | -------- | ------------ |
+| **and**          | `f`      | conjunction  |
+| **or**           | `:f:S`   | disjunction  |
+| **either (xor)** | `:f:F`   | exclusive or |
+| **not**          | `:f:f`   | negation     |
+
+
+| Control   | Notation | Meaning            |
+| --------- | -------- | ------------------ |
+| **if**    | `S`      | conditional “if …” |
+| **then**  | `:S:s`   | “then”             |
+| **else**  | `:S:f`   | “else”             |
+| **while** | `:S:S`   | “while” (loop)     |
+
+
+
+### Common Ninklish Words
+
+| Ninklish | Meaning               | Plural (`:X:X`)     | Pitch Up (Positive)      | Pitch Down (Negative) |
+| -------- | --------------------- | ------------------- | ------------------------ | --------------------- |
+| **Dd**   | friend                | `D:d:d` “friends”   | `D:d:R` “ally”           | `D:d:D` “frenemy”     |
+| **Rd**   | rival                 | `R:d:d` “rivals”    | `R:d:R` “challenger”     | `R:d:D` “enemy”       |
+| **MD**   | food                  | `M:D:D` “meals”     | `M:D:d` “delicious”      | `M:D:T` “spoiled”     |
+| **sL**   | water                 | `s:L:L` “beverages” | `s:L:l` “medicine”       | `s:L:s` “poison”      |
+| **lL**   | tool                  | `l:L:L` “tools”     | (none)                   | (none)                |
+| **Dl**   | house / dwelling      | `D:l:l` "village"   | `D:l:T` “home”           | `D:l:L` “prison”      |
+| **ST**   | day / light           | `S:T:T` “days”      | `S:T:d` “dawn”           | `S:T:l` “dusk”        |
+| **dr**   | dark / night          | `d:r:r` “nights”    | `d:r:M` “midnight”       | `d:r:R` “daylight”    |
+| **sT**   | sky / above           | `s:T:T` “skies”     | `s:T:d` “Calm”           | `s:T:l` “Windy”       |
+| **Lf**   | land / ground / below | `L:f:f` “lands”     | `L:f:S` “fertile ground” | `L:f:F` “barren land” |
+| **LR**   | thought / to think    | `L:R:R` “ideas”     | `L:R:r` “insight”        | `L:R:d` “confusion”   |
+| **TS**   | time / present        | `T:S:S` “NOW”       | `T:S:s` “future”         | `T:S:f` “past”        |
+| **TT**   | warning / danger      | `T:T:T` “warnings”  | none                     | none                  |
+| **LL**   | parent                | `L:L:L` “family”    | `L:L:l` “mother”         | `L:L:s` “father”      |
+| **DT**   | (encode) shift        | none                | none                     | none                  |
+
+
+lLl
+lLs
+
+| Clan Word | Meaning       | Pattern  | Note Value | Population   | Direction |
+| --------- | ------------- | -------- | ---------- | ------------ | --------- |
+| **RTR**   | The Tree      | Re–Ti–Re | 2–12–2     | North Tree   | North     |
+| **MTM**   | The Caverns   | Mi–Ti–Mi | 4–12–4     | East Caverns | East      |
+| **FTF**   | The Waterfall | Fa–Ti–Fa | 5–12–5     | South Falls  | South     |
+| **STS**   | The Cliff     | So–Ti–So | 7–12–7     | West Cliffs  | West      |
