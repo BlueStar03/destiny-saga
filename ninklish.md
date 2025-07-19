@@ -251,6 +251,12 @@ Each Nink has unique properties that shape their vocal characteristics:
 the meaning of a base word can be changed by the manner the last note is pronounced. this is marked by an accent mark: ` ~ `(tilde) , ` ´ ` (acute) and `` ` ``(grave) marks. alternatively, " := "," :+ ", and " :- " can be appended after the modified note. This is used to indicate if the pronounciation of the note would be doubled, pitched up, or pitched down. in effect, the modified note in question is split from on beat to two half beats. the first half be note is the same as the original. the second half note is either the same note, one semitone higher, or one semitone lower.
 
 
+| Script | Typed  | speech  |
+|--------|--------|---------|
+| DRM̃    | DRM:=  | DR:M:M  |
+| DRḾ    | DRM:+  | DR:M:F  |
+| DRM̀    | DRM:-  | DR:M:r  |
+
 
 while it depends on the root word, typically a double note indicates plural. it can also make it grater, bigger, or even the opposite. pitch up notes tend to signify agreement, good, increasing or one variant. pitched down indicated disagreement, bad, decreasing, or another variant.
 
@@ -273,6 +279,88 @@ while it depends on the root word, typically a double note indicates plural. it 
 
 ## Vocabulary
 
+### one beat words
+
+| Word | Base                | ( := ) | Double      | ( :+ )  | Pitch Up      | ( :- ) | Pitch Down    |
+|------|---------------------|--------|-------------|---------|---------------|--------|---------------|
+| `D`  | I / me              | `:D:D` | we / us     |         | --            |        | --            |
+| `d`  | you                 | `:d:d` | you all     |         | --            |        | --            |
+| `R`  | he / she / it       | `:R:R` | they / them |         | --            |        | --            |
+| `r`  | to speak/state      |        | --          | `:r:M`  | shout/born    | `:r:R` | silence/die   |
+| `M`  | to eat/drink        |        | --          | `:M:F`  | feast/heal    | `:M:r` | starve/suffer |
+| `F`  | to hear/understand  |        | --          | `:F:f`  | no            | `:F:M` | yes           |
+| `f`  | and                 | `:f:f` | not         | `:f:S`  | or            | `:f:F` | either        |
+| `S`  | if                  | `:S:S` | while       | `:S:s`  | then          | `:S:f` | else          |
+| `s`  | to sense/experience |        | --          | `:s:L`  | joy           | `:s:S` | sad           |
+| `L`  | to do/act/work      |        | --          | `:L:l`  | active/ awake | `:L:s` | laze/ rest    |
+| `l`  | to possess/belong   |        | --          | `:l:T`  | receive/ take | `:l:L` | give/ lose    |
+| `T`  | to stop/finish      |        | --          | `:T:/D` | dont stop     | `:T:l` | STOP NOW      |
+
+
+### two beat words
+
+
+| Base Word | Meaning          | ( := )  | Double             | ( :+ )   | Pitch Up                        | ( :- )   | Pitch Down                       |
+|-----------|------------------|---------|--------------------|----------|---------------------------------|----------|----------------------------------|
+| **`Dd`**  | friend           | `D:d:d` |    "friends"       | `D:d:R`  |   "ally"                        | `D:d:D`  |   "frenemy"                      |
+| **`Rd`**  | rival            | `R:d:d` |    "rivals"        | `R:d:R`  |   "challenger"                  | `R:d:D`  |  "enemy"                         |
+| **`MD`**  | food             | `M:D:D` |    "meal"          | `M:D:d`  |   "delicious"                   | `M:D:\T` |   "spoiled"                      |
+| **`sL`**  | water            | `s:L:L` |    "beverage"      | `s:L:l`  |   "medicine"                    | `s:L:s`  |   "poison"                       |
+| **`lL`**  | tool             | `l:L:L` |    "tools"         | `l:L:l`  |   "masterwork tool"             | `l:L:s`  |   "broken tool"                  |
+| **`Dl`**  | home             | `D:l:l` |    "village"       | `D:l:T`  |   "sanctuary"                   | `D:l:L`  |   "prison"                       |
+| **`ST`**  | day / light      | `S:T:T` |    "days"          | `S:T:/D` |   "dawn / morning"              | `S:T:l`  |  "dusk / twilight"               |
+| **`dr`**  | dark / night     | `d:r:r` |    "nights"        | `d:r:M`  |    "midnight"                   | `d:r:R`  |   "shadow"                       |
+| **`sT`**  | sky / above      | `s:T:T` |    "skies"         | `s:T:/D` |    "heavens / zenith"           | `s:T:l`  |   "storm / overcast"             |
+| **`Lf`**  | land / ground    | `L:f:f` |    "lands"         | `L:f:S`  |  "fertile ground"               | `L:f:F`  |   "barren land"                  |
+| **`fS`**  | Sun              | `f:S:S` |    "Noon"          | `f:S:s`  |   "Sunrise/ Morning"            | `f:S:f`  |  "Sunset/ Twilight"              |
+| **`Sf`**  | Moon / Full Moon | `S:f:f` |   "New Moon"       | `S:f:S`  |   "Waxing Moon / First Quarter" | `S:f:F`  |    "Waning Moon / Third Quarter" |
+| **`LR`**  | thought          | `L:R:R` |  "ideas"           | `L:R:r`  |   "insight"                     | `L:R:d`  |   "confusion"                    |
+| **`TS`**  | time / present   | `T:S:S` |  "NOW"             | `T:S:s`  |   "future"                      | `T:S:f`  |    "past"                        |
+| **`TT`**  | warning / danger | `T:T:T` |   "calamity"       | `T:T:/D` |  "foreboding"                   | `T:T:l`  |  "all-clear / safety"            |
+| **`LL`**  | parent           | `L:L:L` |    "family / clan" | `L:L:l`  |   "mother"                      | `L:L:s`  |    "father"                      |
+| **`DT`**  | (encode) shift   |         | (none)             |          | (none)                          |          | (none)                           |
+
+
+### Three Beat words
+
+| Word      | Base           | ( := ) | Double | ( :+ ) | Pitch Up | ( :- ) | Pitch Down |
+|-----------|----------------|--------|--------|--------|----------|--------|------------|
+| **`lLl`** | weapon         |        | --     |        | --       |        | --         |
+| **`lLs`** | instrument     |        | --     |        | --       |        | --         |
+| **`RTR`** | The North Tree |        | --     |        | --       |        | --         |
+| **`STS`** | Eastern Cliffs |        | --     |        | --       |        | --         |
+| **`FTF`** | Southern Falls |        | --     |        | --       |        | --         |
+| **`MTM`** | West Caverns   |        | --     |        | --       |        | --         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+---
+
+---
+
+
+# WIP Notes
+
+
+| note | base | double | Pitch Up | Pitch down|
+|--
+|
+|
+|
+
 |          | English         | Singular   |        | Plural      |
 |----------|-----------------|------------|--------|-------------|
 | 1st person | **I / me**      | `D`        | **we / us** | `:D:D`     |
@@ -280,9 +368,7 @@ while it depends on the root word, typically a double note indicates plural. it 
 | 3rd person | **he / she**    | `R`        | **they / them** | `:R:R`     |
 
 
-| | **water**  | `DSR`    | | `DS:R:S` |
-| | **friend** | `MRS`    | | `MR:S:S` |
-| | **enemy**  | `sRf`    | | `sR:f:f` |
+
 
 
 | Base Note | Base Meaning        | Negative (`:X:down`)     | Positive (`:X:up`)         |
@@ -342,3 +428,26 @@ while it depends on the root word, typically a double note indicates plural. it 
 | **MTM**   | The Caverns   | Mi–Ti–Mi | 4–12–4     | East Caverns | East      |
 | **FTF**   | The Waterfall | Fa–Ti–Fa | 5–12–5     | South Falls  | South     |
 | **STS**   | The Cliff     | So–Ti–So | 7–12–7     | West Cliffs  | West      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | **water**  | `DSR`    | | `DS:R:S` |
+| | **friend** | `MRS`    | | `MR:S:S` |
+| | **enemy**  | `sRf`    | | `sR:f:f` |
