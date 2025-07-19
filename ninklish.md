@@ -245,6 +245,32 @@ Each Nink has unique properties that shape their vocal characteristics:
 > Pace: Trill
 > Note: He tends to Shift -4 when speaking to M174 - "Mila"  
 
+
+## Grammar
+
+the meaning of a base word can be changed by the manner the last note is pronounced. this is marked by an accent mark: ` ~ `(tilde) , ` ´ ` (acute) and `` ` ``(grave) marks. alternatively, " := "," :+ ", and " :- " can be appended after the modified note. This is used to indicate if the pronounciation of the note would be doubled, pitched up, or pitched down. in effect, the modified note in question is split from on beat to two half beats. the first half be note is the same as the original. the second half note is either the same note, one semitone higher, or one semitone lower.
+
+
+
+while it depends on the root word, typically a double note indicates plural. it can also make it grater, bigger, or even the opposite. pitch up notes tend to signify agreement, good, increasing or one variant. pitched down indicated disagreement, bad, decreasing, or another variant.
+
+
+| Base Note | Double (:=) | Pitch Up (:+) | Pitch Down (:-) |
+| :-------: | :---------: | :-----------: | :-------------: |
+|   **D**   |  D̃  `:D:D` |   D́  `:D:d`  |    D̀  `:D:\T`  |
+|   **d**   |  d̃  `:d:d` |   d́  `:d:R`  |    d̀  `:d:D`   |
+|   **R**   |  R̃  `:R:R` |   Ŕ  `:R:r`  |    R̀  `:R:d`   |
+|   **r**   |  r̃  `:r:r` |   ŕ  `:r:M`  |    r̀  `:r:R`   |
+|   **M**   |  M̃  `:M:M` |   Ḿ  `:M:F`  |    M̀  `:M:r`   |
+|   **F**   |  F̃  `:F:F` |   F́  `:F:f`  |    F̀  `:F:M`   |
+|   **f**   |  f̃  `:f:f` |   f́  `:f:S`  |    f̀  `:f:F`   |
+|   **S**   |  S̃  `:S:S` |   Ś  `:S:s`  |    S̀  `:S:f`   |
+|   **s**   |  s̃  `:s:s` |   ś  `:s:L`  |    s̀  `:s:S`   |
+|   **L**   |  L̃  `:L:L` |   Ĺ  `:L:l`  |    L̀  `:L:s`   |
+|   **l**   |  l̃  `:l:l` |   ĺ  `:l:T`  |    l̀  `:l:L`   |
+|   **T**   |  T̃  `:T:T` |   T́  `:T:/D` |    T̀  `:T:l`   |
+
+
 ## Vocabulary
 
 |          | English         | Singular   |        | Plural      |
@@ -308,8 +334,7 @@ Each Nink has unique properties that shape their vocal characteristics:
 | **DT**   | (encode) shift        | none                | none                     | none                  |
 
 
-lLl
-lLs
+
 
 | Clan Word | Meaning       | Pattern  | Note Value | Population   | Direction |
 | --------- | ------------- | -------- | ---------- | ------------ | --------- |
