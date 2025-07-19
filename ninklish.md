@@ -344,15 +344,15 @@ while it depends on the root word, typically a double note indicates plural. it 
 
 
 
-
+.
 ---
-
+.
 ---
-
+.
 ---
+.
 
-
-# WIP Notes
+## WIP Notes
 
 
 | note | base | double | Pitch Up | Pitch down|
