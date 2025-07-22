@@ -1021,3 +1021,64 @@ In Zephyr Code, **padding lines** and **nullifier keywords** are essential for *
 * **Nullifiers** cancel encoding on demand; use sparingly for decoys or high-risk scenarios.
 * **Inside literal blocks**, nullifiers flip that line back to code, enabling nuanced misinformation or hidden instructions.
 
+
+## ⚔️ **Outcomes – Casualties & Recovery**
+
+Zephyr operatives use **poetic modifiers** to report **losses**, **destruction**, and **new gains**—all concealed within existing numeric triggers.
+
+---
+
+### 🔹 1. Negative Outcomes (Casualties & Destruction)
+
+* **Modifiers:**
+
+  * **glint**, **lit**, **light**, **spark**, **shine**
+* **Paired with:** **’till’** (or **’till**\`)
+* **Effect:** Indicates **death** (for people/groups) or **destruction** (for places).
+* **Numeric encoding:**
+
+  * If used with a **numeric trigger** (e.g. `from`, `and`, etc.), the line encodes the **number of dead** or **units destroyed** via the trigger’s function.
+  * If used alone with a **location** (no trigger), it simply reports the place’s destruction.
+
+> **Examples:**
+>
+> * *“Glint ’till dawn from cold drops”*
+>   – Trigger: `from` → Cat(cold=1, drops=1) = **11** → **11 dead**
+> * *“Blue grass lit ’till the swamp way”*
+>   – “lit ’till” + “swamp way” → Lt. Dan is **dead**, last seen **south**.
+> * *“Rocky boot shine ’till dawn”*
+>   – No trigger → West Town is **destroyed**.
+
+---
+
+### 🔸 2. Positive Outcomes (New & Rebuilt)
+
+* **Modifiers:**
+
+  * **glint**, **lit**, **light**, **spark**, **shine**
+* **Paired with:** **’yet’**
+* **Effect:** Indicates something **new**, **found**, **created**, or **rebuilt**.
+* **Numeric encoding:**
+
+  * With a **numeric trigger**, yields the **quantity** of new individuals or items.
+  * Standalone at a **place**, reports the place has been **rebuilt** or **restocked**.
+
+> **Examples:**
+>
+> * *“from rainbow so / spark yet tonight”*
+>   – Line 1: `from rainbow so` → Cat(2,0) = **20**
+>   – Line 2: “spark yet” → **20 new individuals here**
+> * *“Rocky boot shine yet thru”*
+>   – No trigger → **West Town has been rebuilt**.
+
+---
+
+### 🧠 Notes & Edge Cases
+
+* **Line breaks matter:** For two‐line examples, use `/` or a period to scope triggers correctly.
+* **Modifiers before triggers** retain numeric functions; **after triggers**, they count by syllable/override like any other operand.
+* **Casualty vs. Destruction:** When paired with a **person/group identifier**, “’till” always signals death; when paired with a **place identifier**, it signals destruction.
+* **Recovery vs. Arrival:** Similarly, “’yet” with a place = rebuilt; with a person/group = new arrivals or reinforcements.
+
+This section completes the reporting of **negative and positive outcomes** in Zephyr Code. Let me know if you’d like sample verses or further elaboration!
+
