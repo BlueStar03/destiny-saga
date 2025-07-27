@@ -10,7 +10,7 @@ The Elements created Threa. Earth, Water, Fire and Wind.
 ---
 
 Earth, Water, Fire, and Wind are more like names. A simple way to explain their nature.
-Fire is Radiance. just like fire radiates light and heat, or even a smile or a frown radiates happiness or sadness. 
+Fire is Radiance. just like fire radiates light and heat, or even a smile or a frown radiates happiness or sadness.
 Wind is Force. like how wind pushes against the mountains or thought pull on the body.
 Earth is Firmness. That which holds shape. Like a rock, or a mountain, or bones and flesh.
 Water is Fluidity. That which moves. Like the rives and oceans and blood
@@ -33,7 +33,7 @@ Ice and Lightning are the Neo Elements. They both are "Children" and best friend
 
 ---
 
-because Earth and Water, Firm and Flow, Ice is matter, existence, what can be acted upon. 
+because Earth and Water, Firm and Flow, Ice is matter, existence, what can be acted upon.
 Fire and Wind, Radiance and force, Lightning is energy, action, what acts upon.
 
 ---
@@ -42,14 +42,12 @@ Ice made the plant, life that is acted upon. Lightning made animals, life that a
 
 ---
 
-then together, Ice and Lighting created Sentience, life that can act and be acted upon. these were the Nawa. the First people. from seeing the creation of the Nawa, Fire and Wind created the Aetha, and Earth and Water created the Dreavi. 
+then together, Ice and Lighting created Sentience, life that can act and be acted upon. these were the Nawa. the First people. from seeing the creation of the Nawa, Fire and Wind created the Aetha, and Earth and Water created the Dreavi.
 
 ---
 
 On their appearance:
 They look as if they’re made of Eura. It seems to flow upward from their legs, through their bodies, and branch out into their arms and head. This gives them an ethereal, ghostlike appearance. These Eural wisps have an immaterial glow that shimmers in their respective colors: red for Fire, magenta for Wind, green for Earth, cyan for Water, blue for Ice, and yellow for Lightning.
-
-
 
 ---
 
@@ -64,125 +62,3 @@ Water's body is that of a youthful woman. Her cyan wisps flow and splash across 
 Ice's body is that of a young boy. His blue wisps crystallize into snowflakes, and crystal spikes crown his head.
 
 Lightning's body is that of a young, energetic girl. Her yellow wisps crackle across her body, and bolts of lightning shoot down from her head.
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----

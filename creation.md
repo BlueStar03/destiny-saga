@@ -5,7 +5,7 @@ title: Creation
 
 # Creation
 
-I will describe The Creation of Threa. 
+I will describe The Creation of Threa.
 
 ---
 
@@ -16,7 +16,6 @@ From the Void, the elements emerged. Earth, Water, Fire, and Wind each formed th
 In the end, they all failed. Each one tried to shape a world—and each one fell short. Earth’s world stayed still, paralyzed by fear. Nothing changed, and eventually, it collapsed. Water’s world was restless. She drifted from one idea to the next, never settling, never allowing anything to take root. Fire’s world burned too hot. It consumed everything, leaving nothing behind. Wind’s world was scattered—here one moment, gone the next. Directionless, fleeting.
 
 No matter what they did, none of their worlds held together. So they gave up. One by one, they let go and left their creations behind.
-
 
 ---
 
@@ -43,7 +42,6 @@ Ice and Lightning entered Threa. To them, the whole world was a playground, and 
 But that wasn’t enough. Together, they created something new: the first people. The first race to walk Threa—the Nawa.
 
 Their creation stirred something in the elders. Moved by what their children had done, Earth and Water came together to shape the Dreavi. Fire and Wind followed, giving rise to the Aetha.
-
 
 ---
 
@@ -82,7 +80,6 @@ Wind caught sight of what he was doing and scolded him for meddling. But Fire pu
 Before long, Earth and Water joined them. Earth observed the methods Fire and Wind had used to create the Lor and the Aria. With that understanding, he formed a new race—the Dis Com, the people of Earth.
 
 Water, swept up in the excitement, shaped the Ma Hir, the people of Water.
-
 
 ---
 
@@ -349,8 +346,6 @@ Meanwhile, the Pures and the Unions have forged their own destinies across the w
 Fragments of this history still survive, scattered across countless myths.
 
 ---
-
-
 
 ---
 

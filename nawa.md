@@ -71,8 +71,6 @@ Instead, they would feel it clearly: something is right.
 
 ---
 
-
-
 ---
 
 This is designed for a video game. The Nawa serve as a diegetic explanation for custom characters. Any race option other than Nawa represents their assumed form.

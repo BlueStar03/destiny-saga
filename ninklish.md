@@ -324,28 +324,15 @@ while it depends on the root word, typically a double note indicates plural. it 
 | **`FTF`** | Southern Falls |        | --     |        | --       |        | --         |
 | **`MTM`** | West Caverns   |        | --     |        | --       |        | --         |
 
-
-
-
-
-
-
-
-
-
-
-
-
-.
 ---
-.
+
 ---
-.
+
 ---
-.
+
+---
 
 ## WIP Notes
-
 
 | note | base | double | Pitch Up | Pitch down|
 |--
@@ -359,9 +346,7 @@ while it depends on the root word, typically a double note indicates plural. it 
 | 2nd person | **you**         | `d`        | **you all**  | `:d:d`     |
 | 3rd person | **he / she**    | `R`        | **they / them** | `:R:R`     |
 
-
-
-
+---
 
 | Base Note | Base Meaning        | Negative (`:X:down`)     | Positive (`:X:up`)         |
 | --------- | ------------------- | ------------------------ | -------------------------- |
@@ -373,6 +358,7 @@ while it depends on the root word, typically a double note indicates plural. it 
 | **M**     | to eat/drink        | `:M:r` (“starve/suffer”) | `:M:F` (“feast/heal”)      |
 | **T**     | to stop/finish      | `:T:l` (“don’t stop”)    | `:T:/D` (“STOP NOW”)       |
 
+---
 
 | Connector        | Notation | Meaning      |
 | ---------------- | -------- | ------------ |
@@ -381,6 +367,7 @@ while it depends on the root word, typically a double note indicates plural. it 
 | **either (xor)** | `:f:F`   | exclusive or |
 | **not**          | `:f:f`   | negation     |
 
+---
 
 | Control   | Notation | Meaning            |
 | --------- | -------- | ------------------ |
@@ -389,7 +376,7 @@ while it depends on the root word, typically a double note indicates plural. it 
 | **else**  | `:S:f`   | “else”             |
 | **while** | `:S:S`   | “while” (loop)     |
 
-
+---
 
 ### Common Ninklish Words
 
@@ -411,8 +398,7 @@ while it depends on the root word, typically a double note indicates plural. it 
 | **LL**   | parent                | `L:L:L` “family”    | `L:L:l` “mother”         | `L:L:s` “father”      |
 | **DT**   | (encode) shift        | none                | none                     | none                  |
 
-
-
+---
 
 | Clan Word | Meaning       | Pattern  | Note Value | Population   | Direction |
 | --------- | ------------- | -------- | ---------- | ------------ | --------- |
@@ -421,24 +407,7 @@ while it depends on the root word, typically a double note indicates plural. it 
 | **FTF**   | The Waterfall | Fa–Ti–Fa | 5–12–5     | South Falls  | South     |
 | **STS**   | The Cliff     | So–Ti–So | 7–12–7     | West Cliffs  | West      |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 | | **water**  | `DSR`    | | `DS:R:S` |
 | | **friend** | `MRS`    | | `MR:S:S` |

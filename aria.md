@@ -134,7 +134,7 @@ That said, there are times when a man’s touch is specifically needed for certa
 ---
 
 Much of the Communication the Echoes carry are Poems. Zephyr Ops encodes messages in poems. to an untrained reader, they appear like surreal poems .
-The lines 
+The lines
 
 > Above Goat's Laught
 >
@@ -143,7 +143,7 @@ The lines
 > uproar tac drop silence
 
 may appear like nonsense, but to Whisper, it read "Flash Priority, Clear Skies, North from my position, between 11:58am and 12:02pm.
-it is a complex cipher of markers, triggers, decoys, coded words and algorithms that Murmurs write their reports with. 
+it is a complex cipher of markers, triggers, decoys, coded words and algorithms that Murmurs write their reports with.
 
 ---
 
@@ -307,7 +307,7 @@ Aria medical personnel wear a distinct uniform: a capeless, salmon-colored ensem
 
 ---
 
-the clergy. The first entry job in the clergy is basically recording everything for the business. They are not employed by the business, but the state assign them to the business. They make records of relevant actions of the business. 
+the clergy. The first entry job in the clergy is basically recording everything for the business. They are not employed by the business, but the state assign them to the business. They make records of relevant actions of the business.
 
 ---
 
@@ -365,7 +365,7 @@ As men age, they remain tied to the household, taken care of alongside their wiv
 
 ---
 
-### **Aria Class Breakdown**
+## **Aria Class Breakdown**
 
 * **Poor-Class Peasants**
   Constantly moving from job to job or unemployed, with no stable income.
@@ -458,17 +458,16 @@ In the Shadowgrounds, usable farmland is limited due to constant shadow and weak
 | **Cross**   | Fair      | Great      | None      | Low       | Great     | Good      | Fair        | One Hand   | +Critical Rate                                                 |
 | **Thunder** | Great     | Fair       | Great     | Good      | Low       | Low       | Great       | Two Handed | Unblockable Charge, Splash on Charge, Stagger on Ranged Strike |
 
-
 ---
 
-The Aria uses the boomerang as their weapon. 
+The Aria uses the boomerang as their weapon.
 the Base is the V shape airfoil with a sharpened edge
 Stick is the more common variant; it is the airfoil with a slight bent. It has no edge.
 Winged is a W shaped airfoil, it has a further range
 Ring is a circular edge. can have an optional bar for a handle. since it has no points, it has no pierce damage.
 Disc is a solid circle, the added mass adds blunt damage, and like Ring variant, no edge, no pierce.
 Cross has four points, so it has better pierce.
-Thunder are large airfoils, they dont fly as far, but are greate in melee combat. 
+Thunder are large airfoils, they dont fly as far, but are greate in melee combat.
 
 ---
 
@@ -492,77 +491,3 @@ Chainmail Cape Liner: Chainmail that lines existing capes or can be used on its 
 Plated Cape: Metal plates layered into a cape. Properly shaped, they can enhance flight.
 
 Feather Steel Cape: Metal plates shaped like thick feathers. Layering these plates improves cape flexibility, counteracting the added weight of the feathers.
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
-
-
-
----
