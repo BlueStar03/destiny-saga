@@ -8,6 +8,7 @@ title: Index
 - [Elements](elements)
 - [Nawa](nawa)
 - [Aetha and Dreavi](aetha-dreavi)
+- [Aria](aria)
 - [Ma Hir](ma-hir)
 - [Duga](duga)
 - [Zephyr Code](zephyr_code)
