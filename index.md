@@ -16,6 +16,7 @@ title: Index
   - [Zephyr Code](zephyr_code)
 - [Dis Com](dis-com)
 - [Ma Hir](ma-hir)
+- [Frill](frill)
 - [Duga](duga)
 - [Mort](mort)
 - [Lauril](lauril)
