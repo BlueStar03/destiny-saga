@@ -24,7 +24,7 @@ title: Index
 - [Jin](jin)
 - [Murai](murai)
 - [Imoh](imoh)
-- [Corlee](corle)
+- [Corlee](corlee)
 - [Rowlf](rowlf)
 - [Nink](nink)
   - [Ninklish](ninklish)
