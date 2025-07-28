@@ -5,21 +5,15 @@ title: Index
 
 # Index
 
-<ul>
-  {% for page in site.pages %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## second
-
 - [Creation](creation)
 - [World of Threa](threa-world)
 - [Elements](elements)
+
 - [Nawa](nawa)
 - [Aetha and Dreavi](aetha-dreavi)
 - [Lor](lor)
 - [Aria](aria)
+  - [Zephyr Code](zephyr_code)
 - [Dis Com](dis-com)
 - [Ma Hir](ma-hir)
 - [Duga](duga)
@@ -33,10 +27,11 @@ title: Index
 - [Corlee](corle)
 - [Rowlf](rowlf)
 - [Nink](nink)
+  - [Ninklish](ninklish)
 - [Redn](redn)
 - [Kapopa](kapopa)
-- [Zephyr Code](zephyr_code)
-- [Ninklish](ninklish)
+
+
 
 ## Third
 
@@ -47,4 +42,10 @@ title: Index
     <li><a href="{{ p.url }}">{{ p.title }}</a></li>
   {% endif %}
 {% endfor %}
+</ul>
+
+<ul>
+  {% for page in site.pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
 </ul>
