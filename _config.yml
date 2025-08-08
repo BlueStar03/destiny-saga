@@ -12,7 +12,7 @@ accent_color: blue
 content_max: 68em  
 
 nav:
-  - title: .🏠 Home
+  - title: 🏠 Home
     url: /
 
 plugins:
