@@ -6,7 +6,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 1: Dawn of War Celebrations
+## Scene 1: Dawn of War Celebrations
 
 **Shot 1: Establishing Shot of the Capital Town**
 
@@ -37,7 +37,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 2: Lira’s Home Arrival
+## Scene 2: Lira’s Home Arrival
 
 **Shot 1: Moonlit Sky Transition**
 
@@ -81,7 +81,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 3: Farewell at the Village Outskirts
+## Scene 3: Farewell at the Village Outskirts
 
 **Shot 1: Establishing Shot of Village Outskirts**
 
@@ -158,7 +158,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 4: Establishing the War Band
+## Scene 4: Establishing the War Band
 
 **Shot 1: Establishing the War Band**
 
@@ -185,7 +185,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 5: Kara Taking Over the Shop
+## Scene 5: Kara Taking Over the Shop
 
 **Shot 1: Customer Request**
 
@@ -219,7 +219,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 6: Victories and Losses
+## Scene 6: Victories and Losses
 
 **Shot 1: End of the Fight**
 
@@ -256,7 +256,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 7: Training and Village Raid
+## Scene 7: Training and Village Raid
 
 **Shot 1: Training in the Village**
 
@@ -320,7 +320,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 8: Ambush and Lira’s Injury
+## Scene 8: Ambush and Lira’s Injury
 
 **Shot 1: Celebration of Victory**
 
@@ -370,7 +370,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 9: The End of War Season
+## Scene 9: The End of War Season
 
 **Shot 1: Full Moon**
 
@@ -414,7 +414,7 @@ title: Niro's Story II
 
 ---
 
-### Scene 10: Return to the Village
+## Scene 10: Return to the Village
 
 **Shot 1: Wide Shot of the Village**
 
@@ -589,7 +589,7 @@ increasing tension in Lira’s voice.
 
 ---
 
-### Scene 11: Flashback to the Raid
+## Scene 11: Flashback to the Raid
 
 **Shot 1: Kara's Perspective**
 
@@ -701,7 +701,7 @@ increasing tension in Lira’s voice.
 
 ---
 
-### Scene 12: Planting the Seedling
+## Scene 12: Planting the Seedling
 
 **Shot 1: Fading In**
 
