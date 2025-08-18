@@ -6,6 +6,8 @@ title: Keala's Story
 
 ---
 
+---
+
 ## one
 
 Keala and Brani had just finished eating gruel. what otherwise would have been a tasteless paste, today had i bit of sweetness. Keala had smuggled some crushed berries and shared some with Brani. the overseer rang the bell, announcing the end of the meal break. they got up, along side all the other miners present, and started getting ready to head for the next assignment
@@ -336,6 +338,10 @@ an act
 she was putting an act. my cover is that i asked for days off. 
 ...
 why an act? to whom? 
+
+---
+
+
 
 ---
 
