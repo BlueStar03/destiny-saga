@@ -100,7 +100,7 @@ with my sisters, my mother. i had accepted their loss. it was just a part of lif
 ## nine
 
 Why? why are we here? Why are we even mining this? we don't even use luftstose. just leave it buried in the ground. leave it in the ground, instead of use. the cook hesitated for a bit. my word rang true. he then said, we play an important part in the lives of others. we may not feel their appreciation, but it is no less important.
-i look out of the window, up into the sky. the giant cloudland that looms over this land. were all the rock we extract go to. the reason we are here. the reason she is gone, they all are.
+i look out of the window, up into the sky. the giant Skyrealm that looms over this land. were all the rock we extract go to. the reason we are here. the reason she is gone, they all are.
 
 ---
 
@@ -299,7 +299,7 @@ it was the bribe. what i paid her. to keep Brani safe
 she gets up, her figure towering over mine
 -"is that not why you are here? about your friend?"
 -"I.. I" i steel myself "I paid you" i look at her. "to keep her SAFE"
--"the tell me little puff, who should have taken her spot?"
+-"then tell me little puff, who should have taken her spot?"
 who would have taken her spot?
 -"you did pay me to keep her safe. you paid me to put someone else in danger"
 -"no.. i .. Brani"
@@ -338,4 +338,5 @@ she was putting an act. my cover is that i asked for days off.
 why an act? to whom? 
 
 ---
+
 
