@@ -5,9 +5,13 @@ title: Index
 
 # Index
 
+## World
+
 - [Creation](creation)
 - [World of Threa](threa-world)
 - [Elements](elements)
+
+## Peoples
 
 - [Nawa](nawa)
 - [Aetha and Dreavi](aetha-dreavi)
@@ -32,6 +36,15 @@ title: Index
 - [Redn](redn)
 - [Kapopa](kapopa)
 
+## Stories
+
+- [Niro's Story](niro-story-1)
+- [Niro's Story 2](niro-story-2)
+- [Niro's Story 3](niro-story-3)
+- [Lyndi's Chronicle](lyndis-chronicle)
+- [Keala's Story](keala-story)
+
+---
 
 
 ## Third
