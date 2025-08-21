@@ -33,7 +33,7 @@ title: Lyndi's Chronicle
 
 ---
 
-**Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action)**
+## **Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action)**
 
 - **Scene Setup**: The screen fades in from white, panning down to reveal the area in front of the head nurse's office in a hospital.
 - **Narrative**: Lannet startles Lyndi, causing her to drop her clipboard. Lannet picks it up and hands it back to Lyndi.
@@ -49,7 +49,7 @@ title: Lyndi's Chronicle
 
 ---
 
-**Act 2: Walk to the First Room - Walk Tutorial**
+## **Act 2: Walk to the First Room - Walk Tutorial**
 
 - **Narrative**: Lannet tells Lyndi to follow her. They both walk to the first room.
 - **Prompt**: "Follow me"
@@ -59,7 +59,7 @@ title: Lyndi's Chronicle
 - Impact on Lannet:
   - Increase Frustration: Lannet having to drag Lyndi to the first room (Fail walk tutorial)
 
-**Act 3: Clean the Room - Action Tutorial**
+## **Act 3: Clean the Room - Action Tutorial**
 
 - **Narrative**: Lyndi and Lannet enter a room with eight empty beds. Lannet cleans the four on the left, and Lyndi does the same to the ones on the right. They take the charts, and pick up and place the pillows on the beds.
 - **Prompt**: "I'll take the four on the left, you take care of the four beds on the right."
@@ -70,7 +70,7 @@ title: Lyndi's Chronicle
   - **Increase Frustration**: Each bed on the right side of the room that Lannet had to finish
   - **Increase Respect**: not triggering struggle state 
 
-**Act 4: Mr. Kendri - Dialogue Tutorial**
+## **Act 4: Mr. Kendri - Dialogue Tutorial**
 
 - **Narrative**: Lyndi and Lannet go to the next room. There are four patients, two on the left, two on the right. Lannet tells Lyndi to take care of the two on the right, while she takes care of the other two. One of Lyndi's patients is sleeping, and all that is needed is to update the chart. The other patient is Mr. Kendri. Lyndi and Mr. Kendri exchange pleasantries, and Lyndi makes sure he is taken care of. Once they are both done, Lyndi and Lannet leave the room.
 - **Prompt**: "I'll handle the left side, you take care of the rest."
@@ -83,7 +83,7 @@ title: Lyndi's Chronicle
   - **Decrease Frustration**: If Lyndi doesn't trigger the struggle state.
   - **Increase Respect**: Not triggering struggle state. Having a conversation with Mr. Kendri beyond the minimum "How are you feeling" without taking too long for Lannet to interrupt it. Talking to Mr. Kendri before checking his chart
 
-**Act 5: The Ward - Practice**
+## **Act 5: The Ward - Practice**
 
 - **Narrative**: Lannet and Lyndi arrive at the ward, a large open room with 60 beds, organized in 4 rows of 15. Not all beds are occupied. There are two veteran nurses present. They instruct Lannet and Lyndi to help them check the patients.
   - **Row Selection**: There are two center rows and two outer rows.
@@ -121,7 +121,7 @@ title: Lyndi's Chronicle
   - **Decrease Frustration**: Not triggering the struggle state.
   - **Increase Respect**: Fulfilling additional tasks and requests from the patients, finishing her row.
 
-**Act 6: Going Upstairs - Hidden Subtle Dialogue Tutorial**
+## **Act 6: Going Upstairs - Hidden Subtle Dialogue Tutorial**
 
 - **Narrative**: After the ward, Lyndi and Lannet head to the stairwell and proceed up to the second floor.
 - **Hidden Element**: During the ascent, a subtle dialogue prompt appears, indicating that Lyndi has something to say. Holding the dialogue button to bring up the ring menu is the only way to engage in this conversation.
@@ -173,7 +173,8 @@ title: Lyndi's Chronicle
   - **Somber options** decrease her frustration.
   - **Reflective options** increase her respect.
 ---
-**Act 6: Going Upstairs - Hidden Subtle Dialogue Tutorial**
+
+## **Act 6: Going Upstairs - Hidden Subtle Dialogue Tutorial**
 
 - **Narrative**: After the ward, Lyndi and Lannet head to the stairwell and proceed up to the second floor.
 - **Hidden Element**: During the ascent, a subtle dialogue prompt appears, indicating that Lyndi has something to say. Holding the dialogue button to bring up the ring menu is the only way to engage in this conversation.
@@ -228,7 +229,8 @@ title: Lyndi's Chronicle
   - **Decrease Frustration**: Not having the conversation, choosing somber dialogue options, or ending the conversation with "Never mind."
   - **Increase Respect**: Choosing reflective dialogue options.
 ---
-**Act 7: Private Rooms - Advanced Tutorial**
+
+## **Act 7: Private Rooms - Advanced Tutorial**
 
 - **Narrative**: Lyndi and Lannet arrive at a hall on the second floor, with three doors on the left and three on the right. These lead to private rooms reserved for important individuals. Lannet takes the three on the right, while Lyndi takes the three on the left.
 - **Prompt**: "You will check on Mr. Roth, Ms. Liya, and Mr. Gregor on the left."
@@ -255,7 +257,7 @@ title: Lyndi's Chronicle
 
 
 
-**Act 7.1: Mr. Roth**
+### **Act 7.1: Mr. Roth**
 
 - **Narrative**: Mr. Roth is a wealthy donor to the hospital. There isn't really anything wrong with him; he's just taking a "vacation" to get away from it all. He is happy and cheerful. There are various tasks, requests, and dialogue options that can be completed. The bare minimum is to check his chart and ask if he is feeling well. Everything else is optional.
 
@@ -320,7 +322,7 @@ title: Lyndi's Chronicle
 
   - When engaging in the "vacation" conversation, there will be three replies available for Lyndi, chosen from the ring menu, to branch out the conversation. Mr. Roth will respond accordingly, and the conversation will end either naturally, when Lyndi announces her departure, or if she just leaves without finishing it.
 ---
-**Act 7.2: Ms. Liya**
+### **Act 7.2: Ms. Liya**
 
 - **Narrative**: Ms. Liya is not a wealthy or particularly influential person but was once a nurse at the hospital. She volunteered to serve in the war effort, where she lost her leg. She is now wheelchair-bound and recovering. The hospital administrator placed her in a private room as an expression of gratitude for her sacrifice. Like Mr. Roth, she has five tasks for Lyndi, which are given one at a time.
 
@@ -370,7 +372,7 @@ title: Lyndi's Chronicle
 
 ---
 
-**Act 7.3a: Mr. Gregor (Does Not Pass Away)**
+### **Act 7.3a: Mr. Gregor (Does Not Pass Away)**
 
 - **Narrative**: Mr. Gregor is a wealthy banker, known for his strong personality. He recently suffered a heart attack and is now recovering. He is headstrong and stubborn, though a bit more reflective since his heart attack. Mr. Gregor is in a wheelchair and has a pet dog with him.
 
@@ -427,7 +429,7 @@ title: Lyndi's Chronicle
 
 ---
 
-**Act 7.3b: Mr. Gregor's Passing**
+#### **Act 7.3b: Mr. Gregor's Passing**
 
 **Mr. Gregor's Passing Timeline**: Mr. Gregor is set to pass away some time after the beginning of the narrative. The narrative differs depending on which stage Lyndi is present during.
 
@@ -526,7 +528,7 @@ Additionally, if Lyndi and Lannet witness Mr. Gregor's passing, any uncompleted 
 
 ---
 
-**Act 8: Reporting Back - Quick Reaction Tutorial**
+## **Act 8: Reporting Back - Quick Reaction Tutorial**
 
 - **Narrative**: Regardless of how Act 7 unfolded, Lyndi and Lannet start heading back to the head nurse's office. They both go down the stairs. While walking down a corridor, a medical team rushes a patient down the hallway, shouting for people to clear the way. A quick reaction prompt appears. If Lyndi presses the action button, she successfully gets out of the way. If she fails, Lannet shoves Lyndi out of the way, scattering their collected charts.
 
@@ -559,7 +561,7 @@ Additionally, if Lyndi and Lannet witness Mr. Gregor's passing, any uncompleted 
 
 ---
 
-**Act 9: The Nurse's Office - Report**
+## **Act 9: The Nurse's Office - Report**
 
 - **Narrative**: Upon arriving at the head nurse's office, both Lyndi and Lannet turn in their collected charts. If the charts were scattered in the previous act, some charts may be missing. Lannet will collect most but not all of them, which affects the report. If her frustration level is high enough, she will remark on every area in which Lyndi failed; otherwise, she will remain silent.
 
@@ -608,7 +610,7 @@ Additionally, if Lyndi and Lannet witness Mr. Gregor's passing, any uncompleted 
 
 ---
 
-**Act 10: Break - Free Roam**
+## **Act 10: Break - Free Roam**
 
 - **Narrative**: Lyndi and Lannet are free for a period of time. Lannet goes to the cafeteria and gets something to eat, then goes to a corner of the cafeteria, grabs a book, and starts eating and reading. She will stay like this for the entirety of the break. Lyndi can join her, but Lannet will grow frustrated and remain unresponsive to Lyndi's dialogue. Lyndi can also eat anywhere else, and Lannet will be fine with that. Lyndi is also free to explore anywhere in the hospital.
 
@@ -742,9 +744,10 @@ During Act 10, Lyndi can explore various areas of the hospital and engage in dif
  
   ---
 
-**Act 11: The Administrator's Office - Call for Volunteers**
+## **Act 11: The Administrator's Office - Call for Volunteers**
 
-**Act 11.1: Outside the Administrator's Office - Hidden Eavesdrop Tutorial**
+### **Act 11.1: Outside the Administrator's Office - Hidden Eavesdrop Tutorial**
+
 - **Narrative**: Before the break is over, Lannet and four other nurses start showing up. All five wait until the bell rings. Lannet waits on her own, while the other four gossip with each other. They also graduated with Lyndi and Lannet. 
 - **Action**: Lyndi can arrive at any point before the bell rings and may engage in conversation with the other four nurses. She can exchange pleasantries, or if she stands near them, she may listen in on their conversation. They are talking about the war effort and how scared they are. Lyndi can also start a conversation with Lannet, but she is unresponsive. 
 - **Lannet's Responses**:
@@ -752,7 +755,8 @@ During Act 10, Lyndi can explore various areas of the hospital and engage in dif
   - If her frustration is high, she will castigate not only Lyndi but also the other four nurses, with comments like, "You all need to get a grip. We have a job to do."
 - **Bell Rings**: When the bell starts ringing, the doors to the administrator's office open, and the nurses are let in. Any ongoing conversations are immediately dropped.
 
-**Act 11.2a: The Call - Volunteers Requested**
+### **Act 11.2a: The Call - Volunteers Requested**
+
 - **Narrative**: Once the bell stops ringing, the administrator steps out of the room and closes the door. The nurses are left with the director of the nursing school, who they all graduated from. 
   - Director: "Please, gather close. I have to talk to you all." 
   - The nurses line up, leaving a gap for Lyndi next to Lannet. Once the nurses are lined up, the director continues:
@@ -764,7 +768,7 @@ During Act 10, Lyndi can explore various areas of the hospital and engage in dif
 - **Exiting**: Lyndi can exit with them or remain in the office. After a moment, the director will tell Lyndi to leave the office. When Lyndi leaves, the door closes, and once she exits the hall, the screen fades to black.
 - **Staying in the Hall**: If Lyndi chooses to stay in the hall after the announcement, Lannet will exit the office after some time, which will transition to Act 12.
 
-**Act 11.2b: Late - Forced Selection**
+### **Act 11.2b: Late - Forced Selection**
 - **Narrative**: If Lyndi is not present when the bell rings, ending the break, the nurses enter the administrator's office. Once the bell stops, the administrator exits and closes the door. Up until that point, Lyndi can still enter the office, and Act 11.2a will happen. If Lyndi does not make it by the time the administrator closes the doors, Act 11.2b will play out. 
 - **Late Arrival**: The administrator proceeds to the cafeteria. If, at any point, he crosses paths with Lyndi, he will comment, "She will have to decide," referring to the director. 
 - **Outcome**: After some time, the meeting concludes, and the nurses exit. The director did not ask for volunteers. If Lyndi is outside the office, the nurses and Lannet will tell Lyndi to go inside, where the director is waiting for her.
@@ -789,9 +793,10 @@ During Act 10, Lyndi can explore various areas of the hospital and engage in dif
   
 ---
 
-**Act 12: Goodbye**
+## **Act 12: Goodbye**
 
-**Act 12a: Lannet’s Departure**
+### **Act 12a: Lannet’s Departure**
+
 - **Narrative**: This act triggers after Act 11.2a if Lannet volunteers to go to the front. When she exits the administrator's office, she walks down the hallway towards the main stairs. Lyndi can follow her.
 - **Engagement**: Attempting to engage Lannet in conversation (press, long-press, or dialogue ring menu) will prompt standard greetings, which Lannet will dismiss with, "I don't have time."
   - **Subtle Dialogue Prompt**: At this point, a subtle dialogue prompt appears, allowing Lyndi to say, "Let me take your place."
@@ -805,7 +810,8 @@ During Act 10, Lyndi can explore various areas of the hospital and engage in dif
         - **Neutral**: "I need to get ready."
         - **High Respect**: "You are a great nurse, and you will do great here. Follow your path, and I'll follow mine. I need to get my things in order."
 
-**Act 12b: Lannet’s Final Words**
+### **Act 12b: Lannet’s Final Words**
+
 - **Trigger**: Occurs if Lyndi volunteers for the front in Act 11.2b because Lannet’s frustration is maxed out and she didn’t step forward.
 - **Conversation Dynamics**:
   - As Lyndi exits the office, Lannet is waiting outside. She begins trying to express her respect and thoughts to Lyndi.
@@ -817,7 +823,7 @@ During Act 10, Lyndi can explore various areas of the hospital and engage in dif
 
 ---
 
-**Epilogue A: Lannet’s Departure**
+## **Epilogue A: Lannet’s Departure**
 
 - **Narrative**: The screen fades back to the outside of the hospital. A group of nurses has gathered, and a carriage is waiting. The director and Lannet walk down the line of nurses toward the carriage, with Lyndi among the group. As they reach the end, just before boarding the carriage, Lannet pauses.
   
@@ -838,7 +844,7 @@ During Act 10, Lyndi can explore various areas of the hospital and engage in dif
 
 ---
 
-**Epilogue B: Lyndi’s Departure**
+## **Epilogue B: Lyndi’s Departure**
 
 - **Trigger**: This epilogue occurs if Lyndi was not present for the meeting and was chosen to volunteer or if she stepped forward in Act 11.2b when Lannet’s frustration was maxed out.
   
