@@ -552,26 +552,26 @@ title: Lyndi's Chronicle - Draft 2
 
 *Two sets: core needs first, then extra requests.*
 
-**First Set (Core Needs)**
+**First Set**
 
-1) **Fetch Medicine and Water** — *“Could you get me my medicine? …and a glass of water.”*  
+- **Fetch Medicine and Water** — *“Could you get me my medicine? …and a glass of water.”*  
    Lyndi retrieves the medicine, pours water, and hands both to him.
-2) **Adjust Footrest** — *“My footrest is uncomfortable.”* → **Hold** action to adjust the wheelchair footrest.
-3) **Fetch a Blanket** — *“I’m a little chilly.”* → Retrieve and place the blanket over him.
-4) **Take Him to the Window** — *“I’d like a better view.”* → Push the wheelchair closer to the window.
-5) **Open the Curtains** — *“Would you open the curtains a bit more?”* → **Hold** to pull; or **Jump** to reach the rope then **Tap** action to pull.  
+- **Adjust Footrest** — *“My footrest is uncomfortable.”* → **Hold** action to adjust the wheelchair footrest.
+- **Fetch a Blanket** — *“I’m a little chilly.”* → Retrieve and place the blanket over him.
+- **Take Him to the Window** — *“I’d like a better view.”* → Push the wheelchair closer to the window.
+- **Open the Curtains** — *“Would you open the curtains a bit more?”* → **Hold** to pull; or **Jump** to reach the rope then **Tap** action to pull.  
    *Flavor if jump used:* *“You certainly make up for height with enthusiasm, Nurse.”*
 
-**Second Set (Extra Requests)**
+**Second Set**
 
-6) **Close the Curtains a Bit** — *“Actually, it’s a bit too bright now.”* → Adjust curtains.
-7) **Reposition Wheelchair** — *“Back near my side table.”* → Move him back.
-8) **Clean the Side Table** — *“It’s a bit cluttered.”* → **Hold** to tidy and dispose of rubbish.
-9) **Fetch a Flower from Outside** — *“There’s a flower I’d like from that tree.”*  
-   - **Fulfill** – Go outside, **Jump** to shake the branch, collect the fallen flower, bring it to him.  
-   - **Promise** – *“I’ll take care of it for you.”* (completes the task immediately).  
-   - **Extra Dialog** – *“Why do you want the flower?”* → *“The dog likes it.”*
-10) **Fetch a Book** — *“Could you grab that book? I feel like reading.”* → Hand him the book.
+- **Close the Curtains a Bit** — *“Actually, it’s a bit too bright now.”* → Adjust curtains.
+- **Reposition Wheelchair** — *“Back near my side table.”* → Move him back.
+- **Clean the Side Table** — *“It’s a bit cluttered.”* → **Hold** to tidy and dispose of rubbish.
+- **Fetch a Flower from Outside** — *“There’s a flower I’d like from that tree.”*  
+  - **Fulfill** – Go outside, **Jump** to shake the branch, collect the fallen flower, bring it to him.  
+  - **Promise** – *“I’ll take care of it for you.”* (completes the task immediately).  
+  - **Extra Dialog** – *“Why do you want the flower?”* → *“The dog likes it.”*
+- **Fetch a Book** — *“Could you grab that book? I feel like reading.”* → Hand him the book.
 
 **Additional Conversations**
 
@@ -780,7 +780,7 @@ title: Lyndi's Chronicle - Draft 2
 
 ---
 
-### Lannet’s Critical Lines (by Act & Trigger)
+**Lannet’s Critical Lines**
 
 - **Act 1 – Lyndi gets startled** → *“Lyndi is skittish.”*
 - **Act 2 – Lannet drags Lyndi to the first room** → *“Lacks motivation.”*
@@ -1089,29 +1089,29 @@ If Lannet is critical, Deliah adds:\
 
 ---
 
-#### Impact on Lannet
-
-**Increase Frustration**
-
-- Lyndi being late or absent.
-- Attempting to talk to Lannet when she’s already frustrated.
-
-**Decrease Frustration**
-
-- Arriving early and exchanging pleasantries with the other nurses.
-- Standing by Lannet when the director speaks.
-
-**Increase Respect**
-
-- Every attempt Lyndi makes to step forward, even if she ultimately can’t.
+> **Impact on Lannet**
+>
+> - **Increase Frustration**
+>
+>   - Lyndi being late or absent.
+>   - Attempting to talk to Lannet when she’s already frustrated.
+>
+> - **Decrease Frustration**
+>
+>   - Arriving early and exchanging pleasantries with the other nurses.
+>   - Standing by Lannet when the director speaks.
+>
+> - **Increase Respect**
+>
+>   - Every attempt Lyndi makes to step forward, even if she ultimately can’t.
 
 ---
+
+## **Act 12: Goodbye**
 
 ### **Act 12a: Goodbye Lannet**
 
----
-
-## **Narrative**
+**Narrative**
 
 This act begins after Act 11.2a, when Lannet volunteers to go to the front. The director asks Lyndi to step outside while he goes over details with Lannet.
 
@@ -1121,9 +1121,7 @@ This act begins after Act 11.2a, when Lannet volunteers to go to the front. The 
   - Wait until Lannet exits → follow her to the lobby, ending without incident.
   - Attempt to speak to Lannet (twice) → unlocks the **subtle dialog prompt.**
 
----
-
-### **Initial Exchange**
+**Initial Exchange**
 
 After waiting, Lannet exits the office.
 
@@ -1142,9 +1140,7 @@ Lannet stops, turns back, and glares at her:
 
 This begins their **final conversation**.
 
----
-
-### **Conversation Dynamics**
+**Conversation Dynamics**
 
 - Lannet begins with her current **frustration** and **respect** values carried over from earlier acts.
 - Lyndi’s replies can:
@@ -1153,27 +1149,21 @@ This begins their **final conversation**.
 - **Threshold Rule:** If frustration passes a set threshold, the conversation ends abruptly.
 - If frustration is managed or reduced, the conversation continues further down the hallway.
 
----
-
-## **Hallway Mechanics**
+**Hallway Mechanics**
 
 - Unlike the stairwell conversation in Act 6, this scene’s pacing varies with dialog choices.
 - Lannet may stop, move closer to Lyndi, or walk farther away during lines.
 - Lyndi must **stay near Lannet** to continue.
 - If the conversation ends because Lyndi falls behind (distance too great), this adds to **Lannet’s frustration.**
 
----
-
-## **Threads of Conversation**
+**Threads of Conversation**
 
 Each **thread** represents a progression of related replies.
 
 - Once a thread is exhausted, it disappears, leaving a blank slot in the ring menu.
 - Unlock conditions control which threads appear (see below).
 
----
-
-### **Threads and Replies**
+**Threads and Replies**
 
 **1. Stay for Your Family**
 
@@ -1225,9 +1215,7 @@ Each **thread** represents a progression of related replies.
 
 She runs off, visibly upset.
 
----
-
-## **End Conversation Replies**
+**End Conversation Replies**
 
 - **High Frustration:**
   > “Just shut up, Lyndi. I don’t want to hear it. I told you I hate nosy people.”
@@ -1236,18 +1224,14 @@ She runs off, visibly upset.
 - **High Respect:**
   > “You are a great nurse, and you will do great here. Follow your path, and I’ll follow mine. I need to get my things in order.”
 
----
-
-## **Unlock Criteria (Examples)**
+**Unlock Criteria (Examples)**
 
 - Asking Ms. Liya *“How did you lose your leg?”* → unlocks **Nurse and War**.
 - Talking with Ms. Liya in the garden → adds more replies to that thread.
 - Speaking with a ward veteran → unlocks another reply.
 - Multiple conditions can stack (e.g., Ms. Liya + a veteran unlocks two replies at once).
 
----
-
-## **Frustration vs Respect Balance**
+**Frustration vs Respect Balance**
 
 - **Frustration** is cumulative (input, distance, hostile choices).
 - **Respect** is a counterweight: higher respect raises the frustration threshold, making it harder for Lannet to end the talk abruptly.
@@ -1255,7 +1239,7 @@ She runs off, visibly upset.
 
 ---
 
-## Act 12b: Goodbye, Lyndi
+### Act 12b: Goodbye, Lyndi
 
 **Trigger**
 
@@ -1292,7 +1276,7 @@ She runs off, visibly upset.
 
 ---
 
-## **Act 12: Aftermath**
+### **Act 12: Aftermath**
 
 **Narrative Flow**
 
