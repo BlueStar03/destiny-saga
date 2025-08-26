@@ -1,4 +1,9 @@
-# Lyndi
+---
+layout: default
+title: Lyndi's Chronicle - Draft 2
+---
+
+# Lyndi's Chronicle
 
 ---
 
