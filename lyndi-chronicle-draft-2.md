@@ -1254,7 +1254,7 @@ She runs off, visibly upset.
 
 ---
 
-### Conversation (High Respect)
+**Conversation (High Respect)**
 
 - For once, Lannet initiates. Lyndi may interrupt or let her finish.
 
