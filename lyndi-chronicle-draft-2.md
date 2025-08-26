@@ -417,7 +417,7 @@ title: Lyndi's Chronicle - Draft 2
 
 ---
 
-## Act 7.a: Mr. Roth
+### Act 7.a: Mr. Roth
 
 **Narrative**
 
@@ -472,7 +472,7 @@ title: Lyndi's Chronicle - Draft 2
 
 ---
 
-## Act 7.b: Ms. Liya
+### Act 7.b: Ms. Liya
 
 **Narrative**
 
@@ -521,7 +521,7 @@ title: Lyndi's Chronicle - Draft 2
 
 ---
 
-## Act 7.c: Mr. Gregor
+### Act 7.c: Mr. Gregor
 
 **Narrative**
 
@@ -583,13 +583,13 @@ title: Lyndi's Chronicle - Draft 2
 
 - If Lyndi **barges in**, Gregor refuses to continue until she exits and re-enters with **Knock → Announce → Enter**.
 
-### 7.c (Mn): Full Interaction — Has Not Passed
+#### 7.c (Mn): Full Interaction — Has Not Passed
 
 - Gregor is still alive while Lyndi is with him. The player may complete as many or as few tasks as desired.
 - The next act can begin without Gregor passing; he may pass later (e.g., during Act 8, off-screen).
 - This path mirrors Roth/Liya structurally (long-form bedside care).
 
-### 7.c (Pr): Passing — Present *(Hidden Character Agency Tutorial)*
+#### 7.c (Pr): Passing — Present *(Hidden Character Agency Tutorial)*
 
 **Trigger**
 
@@ -622,7 +622,7 @@ title: Lyndi's Chronicle - Draft 2
 - When the doctor and team arrive, if Lyndi is still crying, the shock snaps her out of it (control restored).  
 - The doctor orders Lyndi and Lannet to leave; the room becomes blocked.
 
-### 7.c (Ab): Passing — Absent
+#### 7.c (Ab): Passing — Absent
 
 **Global Cue**
 
@@ -644,14 +644,14 @@ title: Lyndi's Chronicle - Draft 2
 
 - Lyndi may choose to ignore it and continue elsewhere; Lannet will investigate on her own, find Gregor, and go for the doctor.
 
-### 7.c (Dr): Passing — Doctors Present
+#### 7.c (Dr): Passing — Doctors Present
 
 - Lyndi arrives after Gregor has passed and as the doctors are already inside the room, pronouncing and preparing the body.  
 - If Lyndi tries to enter, they block her and inform her of his passing.  
 - **Short Agency** — Lyndi covers her mouth in shock; Lannet, the doctors, or two quick button presses restore control.  
 - Lannet signals to keep moving, leading to the next act.
 
-### 7.c (Em): Passing — Room Empty
+#### 7.c (Em): Passing — Room Empty
 
 - Too much time has passed; Gregor has already been taken to the morgue.  
 - **Room State** — the dog remains inside, anxious but no longer barking. Lannet does not investigate further since the barking has stopped.  
@@ -665,7 +665,7 @@ title: Lyndi's Chronicle - Draft 2
 
 ---
 
-## Act 7.d: Aftermath
+### Act 7.d: Aftermath
 
 **Narrative**
 
@@ -855,108 +855,108 @@ If Lannet is critical, Deliah adds:\
 
 ---
 
-## Hospital Interactions
+### Hospital Interactions
 
 *(Free-roam locations and light interactions; Dialog capitalization and Tap/Hold grammar omitted here for readability.)*
 
-### Main Lobby
+#### Main Lobby
 
 - Chat with receptionist; brief chats with waiting patients (water only).
 
-### Consulting Rooms
+#### Consulting Rooms
 
 - Speak with available doctors; small fetch requests.
 
-### Infirmary (two additional rooms)
+#### Infirmary (two additional rooms)
 
 - Short patient chats; fulfill simple requests.
 
-### Wards
+#### Wards
 
 - Minor needs along aisles (dropped items, comfort, small requests).
 - Three veterans share brief war memories.
 
-### Surgery (Gallery, 2F)
+#### Surgery (Gallery, 2F)
 
 - Observe an operation from the gallery.
 
-### Pediatric Ward
+#### Pediatric Ward
 
 - Light, short games and friendly chats with children.
 
-### First Floor Nurse Station
+#### First Floor Nurse Station
 
 - Chat with stationed nurses.
 
-### Administrative Offices (Clerk, Administrator, Records)
+#### Administrative Offices (Clerk, Administrator, Records)
 
 - Administrator’s Office closed; nurses gather after second bell.
 - Chat with clerk.
 - **Records:** Character Agency blocks most files; charts for Lyndi’s patients are accessible; Lannet’s next-most; others limited.
 
-### Doctor Break Room
+#### Doctor Break Room
 
 - Chat with doctors; one mentions reassignment to the war.
 
-### Convalescent Ward
+#### Convalescent Ward
 
 - Mixed patient temperaments; simple requests.
 
-### Herb Garden / Apothecary (Roof)
+#### Herb Garden / Apothecary (Roof)
 
 - Pharmacist may ask for herb collection.
 - **Preserved flower** available (conversation unlocks only; does not calm the dog).
 
-### Morgue (Basement)
+#### Morgue (Basement)
 
 - View Mr. Gregor’s body; subtle Dialog “Goodbye, Mr. Gregor” triggers brief Character Agency.
 - Speak with staff.
 
-### Laboratory & Custodial Area
+#### Laboratory & Custodial Area
 
 - Short chats with staff.
 
-### Orderly Room (2F)
+#### Orderly Room (2F)
 
 - Hear day-to-day logistics from orderlies.
 
-### Outside Areas (Garden, Courtyard, Pavilion, Fountain)
+#### Outside Areas (Garden, Courtyard, Pavilion, Fountain)
 
 - Relax and brief chats.
 - **Courtyard flowering tree:** climb and shake blossoms. This is a rare **consequence-free** use of Jump/Attack (to climb/shake only).
 
-### Second Floor Nurse Station
+#### Second Floor Nurse Station
 
 - Speak with stationed nurse; Gregor’s attending doctor can affirm Lyndi’s actions (if not ignored earlier).
 
-### Chapel & Bell Tower (2F)
+#### Chapel & Bell Tower (2F)
 
 - Quiet chats; bells mark break stages.
 
-### Lyndi & Lannet’s Room / Nurses’ Quarters
+#### Lyndi & Lannet’s Room / Nurses’ Quarters
 
 - Enter if Lannet isn’t locked inside; subtle Dialog reflection about Lannet.
 - Character Agency applies when touching Lannet’s belongings.
 - Two nurses in quarters; a fourth at the pavilion.
 
-### Cafeteria
+#### Cafeteria
 
 - Sit quietly with Lannet or eat alone; brief kitchen staff chats.
 
 ---
 
-## Side Stories
+### Side Stories
 
 *(Optional narrative threads; no heavy branching.)*
 
-### Conversations
+#### Conversations
 
 - **Dania:** recently seen by a doctor; appreciates Lyndi’s company.
 - **Andrew:** bitter about draft; tone varies if woken in Act 4.
 - **Alora (Stairwell 1):** low mood; Lyndi can escort her back.
 - **Wilma’s patients:** short reflections on warmth and earlier care.
 
-### Opinions on Lannet
+#### Opinions on Lannet
 
 - **Mr. Kendri:** respectful of both nurses.
 - **Ruen:** finds Lannet harsh.
@@ -964,7 +964,7 @@ If Lannet is critical, Deliah adds:\
 - **Ward patients:** mixed views; some prefer efficiency (Lannet/Flannie).
 - **Private patients (Roth, Liya, Tina, Mr. Yara, Ms. Zoe):** range from critical-but-positive to disapproving.
 
-### Private Patients (revisits)
+#### Private Patients (revisits)
 
 - **Roth:** future plans; professional praise for Lannet, net positive.
 - **Liya:** past nursing/war; garden/courtyard outing possible.
@@ -974,14 +974,14 @@ If Lannet is critical, Deliah adds:\
 - **Mr. Yara:** eager to return to work; neutral on Lannet.
 - **Ms. Zoe:** heart attack recovery; knows Gregor and his late wife (flower scent).
 
-### Reactions to Mr. Gregor’s Passing
+#### Reactions to Mr. Gregor’s Passing
 
 - Private patients may comment on barking/commotion.
 - If informed by Lyndi, reactions vary (Tina naive; Zoe reflective; Yara brusque; Roth/Liya compassionate).
 
 ---
 
-## Rolla Side Story
+### Rolla Side Story
 
 **Starting Points:** Begins at passing (Act 7), may thread through Acts 8–10.\
 **Leash & Calming:** Leash Rolla; **fresh flower** behind her ear calms and makes leading easy. **Preserved flower** unlocks talk only.\
@@ -1000,7 +1000,7 @@ If Lannet is critical, Deliah adds:\
 
 ## Act 11: The Administrator’s Office – Call for Volunteers
 
-## Act 11.1: Outside the Administrator’s Office – Hidden Eavesdrop Tutorial
+### Act 11.1: Outside the Administrator’s Office – Hidden Eavesdrop Tutorial
 
 **Narrative**
 
@@ -1024,7 +1024,7 @@ If Lannet is critical, Deliah adds:\
 
 ---
 
-## Act 11.2a: The Call – Volunteers Requested
+### Act 11.2a: The Call – Volunteers Requested
 
 **Narrative**
 
@@ -1053,7 +1053,7 @@ If Lannet is critical, Deliah adds:\
 
 ---
 
-## Act 11.2b: Late – Forced Selection
+### Act 11.2b: Late – Forced Selection
 
 **Narrative**
 
@@ -1071,7 +1071,7 @@ If Lannet is critical, Deliah adds:\
 
 ---
 
-## Additional Notes
+### Additional Notes
 
 **Lannet’s Role**
 
@@ -1089,7 +1089,7 @@ If Lannet is critical, Deliah adds:\
 
 ---
 
-## Impact on Lannet
+#### Impact on Lannet
 
 **Increase Frustration**
 
@@ -1107,7 +1107,7 @@ If Lannet is critical, Deliah adds:\
 
 ---
 
-## **Act 12a: Goodbye Lannet**
+### **Act 12a: Goodbye Lannet**
 
 ---
 
@@ -1123,7 +1123,7 @@ This act begins after Act 11.2a, when Lannet volunteers to go to the front. The 
 
 ---
 
-## **Initial Exchange**
+### **Initial Exchange**
 
 After waiting, Lannet exits the office.
 
@@ -1144,7 +1144,7 @@ This begins their **final conversation**.
 
 ---
 
-## **Conversation Dynamics**
+### **Conversation Dynamics**
 
 - Lannet begins with her current **frustration** and **respect** values carried over from earlier acts.
 - Lyndi’s replies can:
