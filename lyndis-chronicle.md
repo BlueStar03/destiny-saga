@@ -801,7 +801,6 @@ During Act 10, Lyndi can explore various areas of the hospital and engage in dif
 
 ---
 
-
 ## **Chronicle Destiny - List of All Acts**
 
 1. **Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action)**
