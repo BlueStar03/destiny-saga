@@ -415,7 +415,6 @@ title: Lyndi's Chronicle - Draft 2
 > - **Decreased Frustration**
 >   - If Lyndi waits for Lannet’s demonstration or follows proper procedure without prompting.
 
-
 ---
 
 ## Act 7.a: Mr. Roth
@@ -471,8 +470,6 @@ title: Lyndi's Chronicle - Draft 2
 - A new dialog option appears: *“Excuse me, Mr. Roth.”* → Lyndi excuses herself and leaves for Gregor’s room.
 - If Lyndi ignores it, Roth continues normally.
 
-
-
 ---
 
 ## Act 7.b: Ms. Liya
@@ -521,8 +518,6 @@ title: Lyndi's Chronicle - Draft 2
 - Ms. Liya remarks: *“Mr. Gregor’s dog sounds upset. Maybe you should check on him.”*
 - A new dialog option appears: *“Excuse me, Ms. Liya.”* → Lyndi excuses herself and leaves for Gregor’s room.
 - If Lyndi ignores it, Ms. Liya resumes calmly, but the option remains available.
-
-
 
 ---
 
@@ -668,8 +663,6 @@ title: Lyndi's Chronicle - Draft 2
 
 - If Mr. Gregor passes, any uncompleted tasks are ignored and omitted from the report due to the emergency. Lannet does not finish them.
 
-
-
 ---
 
 ## Act 7.d: Aftermath
@@ -696,18 +689,22 @@ title: Lyndi's Chronicle - Draft 2
 > **If Mr. Gregor did not pass during Act 7**
 >
 > **Increased Frustration**
+>
 > - Lyndi interacted with any of Lannet’s assigned doors (Open/Knock/Announce).
 > - Lannet had to wait a long time for Lyndi to finish her rooms.
 >
 > **Decreased Frustration**
+>
 > - Lannet did not have to wait long; pacing remained tight.
 >
 > **Increased Respect**
+>
 > - Lyndi completed her rooms without delaying Lannet.
 >
 > **If Mr. Gregor passed during Act 7**
 >
 > **Increased Respect**
+>
 > - Lannet arrives while Lyndi is visibly crying (and Lannet’s frustration is low); Lannet consoles her.
 >
 > **No other Respect/Frustration changes** stemming from private-room interiors.
@@ -765,7 +762,7 @@ title: Lyndi's Chronicle - Draft 2
 >   - If Lyndi collects more charts than Lannet.
 >   - If Lyndi engages with the subtle dialog about Mr. Gregor’s passing.
 
-
+---
 
 ## Act 9: The Nurse’s Office – Report
 
@@ -1001,7 +998,7 @@ If Lannet is critical, Deliah adds:\
 
 ---
 
-# Act 11: The Administrator’s Office – Call for Volunteers
+## Act 11: The Administrator’s Office – Call for Volunteers
 
 ## Act 11.1: Outside the Administrator’s Office – Hidden Eavesdrop Tutorial
 
@@ -1108,9 +1105,9 @@ If Lannet is critical, Deliah adds:\
 
 - Every attempt Lyndi makes to step forward, even if she ultimately can’t.
 
+---
 
-
-# **Act 12a: Goodbye Lannet**
+## **Act 12a: Goodbye Lannet**
 
 ---
 
@@ -1295,8 +1292,6 @@ She runs off, visibly upset.
 
 ---
 
----
-
 ## **Act 12: Aftermath**
 
 **Narrative Flow**
@@ -1333,65 +1328,64 @@ Once the act ends, the frame shifts upward and fades to black, leading into the 
 
 ---
 
-# **Epilogue**
+## **Epilogue**
 
-* **Trigger**: Acts **11.2b**, **12a**, and **12b** all lead directly into the epilogue.
+- **Trigger**: Acts **11.2b**, **12a**, and **12b** all lead directly into the epilogue.
 
-* **Transition**:
+- **Transition**:
 
-  * After the conclusion of the preceding act, the frame pans upward and fades to black.
-  * In the case of **Act 11.2b**, if Lyndi was not explicitly informed that she had been selected, the text *“Lyndi was selected to support the war effort”* briefly appears on the black screen before fading out.
-  * The epilogue then begins: the screen fades in from black to the outside of the hospital. The frame slowly pans downward, revealing a group of hospital staff gathered outside. A carriage waits nearby, prepared to depart.
+  - After the conclusion of the preceding act, the frame pans upward and fades to black.
+  - In the case of **Act 11.2b**, if Lyndi was not explicitly informed that she had been selected, the text *“Lyndi was selected to support the war effort”* briefly appears on the black screen before fading out.
+  - The epilogue then begins: the screen fades in from black to the outside of the hospital. The frame slowly pans downward, revealing a group of hospital staff gathered outside. A carriage waits nearby, prepared to depart.
 
 ---
 
-## **Epilogue A: Lannet’s Departure**
+### **Epilogue A: Lannet’s Departure**
 
-* **Narrative**: The screen fades back to the outside of the hospital. A group of nurses has gathered, and a carriage waits nearby. The director and Lannet walk down the line of nurses toward the carriage, with Lyndi standing among them. As they reach the end, just before boarding, Lannet pauses.
+- **Narrative**: The screen fades back to the outside of the hospital. A group of nurses has gathered, and a carriage waits nearby. The director and Lannet walk down the line of nurses toward the carriage, with Lyndi standing among them. As they reach the end, just before boarding, Lannet pauses.
 
-* **Lannet’s Action**:
+- **Lannet’s Action**:
 
-  * **High Frustration**: Lannet gets into the carriage without looking back.
-  * **Neutral**: Lannet turns to face the gathered nurses and says, *“Thank you, all of you,”* before boarding the carriage.
-  * **High Respect**: Lannet first addresses the crowd as in the neutral scenario, then approaches Lyndi directly. She says, *“Take care, Lyndi.”* After a pause, she returns to the carriage, ready to depart. A subtle dialog prompt appears, giving Lyndi the chance to respond:
+  - **High Frustration**: Lannet gets into the carriage without looking back.
+  - **Neutral**: Lannet turns to face the gathered nurses and says, *“Thank you, all of you,”* before boarding the carriage.
+  - **High Respect**: Lannet first addresses the crowd as in the neutral scenario, then approaches Lyndi directly. She says, *“Take care, Lyndi.”* After a pause, she returns to the carriage, ready to depart. A subtle dialog prompt appears, giving Lyndi the chance to respond:
 
     **Lyndi’s Possible Replies**:
 
-    * *“Take care, too, Lannet.”*
-    * *“We’ll see each other again, Lannet.”*
-    * *“Thank you, Lannet.”*
+    - *“Take care, too, Lannet.”*
+    - *“We’ll see each other again, Lannet.”*
+    - *“Thank you, Lannet.”*
 
     **Lannet’s Reactions**:
 
-    * If Lyndi says *“Take care, too, Lannet,”* she wipes a single tear from her eye.
-    * If Lyndi says *“We’ll see each other again, Lannet,”* she wipes away tears with both hands.
-    * If Lyndi says *“Thank you, Lannet,”* she lets out a soft snivel before wiping her tears with her sleeve. This option triggers a **quick reaction prompt**: if the player succeeds, Lyndi hugs Lannet before she leaves. This is only available if Lannet’s frustration is low.
+    - If Lyndi says *“Take care, too, Lannet,”* she wipes a single tear from her eye.
+    - If Lyndi says *“We’ll see each other again, Lannet,”* she wipes away tears with both hands.
+    - If Lyndi says *“Thank you, Lannet,”* she lets out a soft snivel before wiping her tears with her sleeve. This option triggers a **quick reaction prompt**: if the player succeeds, Lyndi hugs Lannet before she leaves. This is only available if Lannet’s frustration is low.
 
-* **Carriage Departure**: Regardless of the exchanges, Lannet eventually boards the carriage. The director delivers a few final words to the assembled nurses before climbing aboard as well. The carriage departs, the screen pans upward, and then fades to white, bringing the game to an end.
+- **Carriage Departure**: Regardless of the exchanges, Lannet eventually boards the carriage. The director delivers a few final words to the assembled nurses before climbing aboard as well. The carriage departs, the screen pans upward, and then fades to white, bringing the game to an end.
 
 ---
 
-## **Epilogue B: Lyndi’s Departure**
+### **Epilogue B: Lyndi’s Departure**
 
-* **Trigger**: This epilogue occurs if Lyndi was not present for the meeting and was chosen to volunteer or if she stepped forward in **Act 11.2a** when Lannet’s frustration was maxed out.
+- **Trigger**: This epilogue occurs if Lyndi was not present for the meeting and was chosen to volunteer or if she stepped forward in **Act 11.2a** when Lannet’s frustration was maxed out.
 
-* **Narrative**: The scene mirrors Epilogue A, but the roles are reversed. Lyndi is walking with the director toward the carriage, and Lannet is among the nurses gathered outside.
+- **Narrative**: The scene mirrors Epilogue A, but the roles are reversed. Lyndi is walking with the director toward the carriage, and Lannet is among the nurses gathered outside.
 
-* **Lyndi’s Action**:
+- **Lyndi’s Action**:
 
-  * Before Lyndi can board, a **character agency sequence** occurs, where the player briefly loses control. After two attempts, control is regained, and Lyndi boards the carriage.
+  - Before Lyndi can board, a **character agency sequence** occurs, where the player briefly loses control. After two attempts, control is regained, and Lyndi boards the carriage.
 
-* **Subtle Dialogue**: During the character agency sequence, a subtle dialogue prompt appears, allowing Lyndi to address the gathered nurses and thank them. If Lyndi chooses to speak, and if Lannet’s respect is high, she will step forward and say, *“Take care, Lyndi.”* Another subtle dialogue prompt allows Lyndi to respond:
+- **Subtle Dialogue**: During the character agency sequence, a subtle dialogue prompt appears, allowing Lyndi to address the gathered nurses and thank them. If Lyndi chooses to speak, and if Lannet’s respect is high, she will step forward and say, *“Take care, Lyndi.”* Another subtle dialogue prompt allows Lyndi to respond:
 
   **Possible Replies**:
 
-  * *“Take care, too, Lannet.”*
-  * *“We’ll see each other again, Lannet.”*
-  * *“Thank you, Lannet.”*
+  - *“Take care, too, Lannet.”*
+  - *“We’ll see each other again, Lannet.”*
+  - *“Thank you, Lannet.”*
 
   **Lannet’s Reaction**: Similar to Epilogue A, Lannet wells up and wipes her tears differently based on the response. If Lyndi says *“Thank you, Lannet,”* there is also a **quick reaction prompt** for a hug.
 
-* **Carriage Departure**: After the exchanges, Lyndi boards the carriage, the director addresses the nurses, and the carriage departs. The screen pans up, fades to white, ending the narrative.
+- **Carriage Departure**: After the exchanges, Lyndi boards the carriage, the director addresses the nurses, and the carriage departs. The screen pans up, fades to white, ending the narrative.
 
 ---
-
