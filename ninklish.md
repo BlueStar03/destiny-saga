@@ -68,7 +68,7 @@ Ninks typically communicate using a three-octave vocal range. Upon reaching adul
 
 ---
 
-### Lenght
+### Length
 
 Ninks pronounce a note with a duration of 1 beat, typically at 140 bpm, though this tempo varies among individuals. They may shorten or lengthen notes as needed. The notation specifies the duration for each subsequent note.
 
@@ -80,7 +80,7 @@ Ninks pronounce a note with a duration of 1 beat, typically at 140 bpm, though t
 | `_`    | 2 beats  |
 | `__`   | 4 beats  |
 
-- `DRM`  :  DoReMi in 1 beat in lenght
+- `DRM`  :  DoReMi in 1 beat in length
 - `DR:M`  : DoRe are 1 beat each, Mi in half beat
 - `::D::RM` : Do and Re in quarter beat, Mi in one beat  
 - `__DR_M` : Do in quad beat, Re in one beat, Mi in double beat
@@ -114,7 +114,7 @@ Rests in Ninklish indicate pauses or silences between notes, allowing for rhythm
 - `DRM`  :  DoReMi with no rests
 - `DR M`  : DoRe, rest, Mi
 - `DR.M` : DoRe, rest, Mi  
-- `D.R..M` : Do, rest, Re, rest,rest, Mi
+- `D.R..M` : Do, rest, Re, rest, rest, Mi
 - `D.R_.M` : Do, rest, Re, double rest, Mi
 - `D.R::.M` : Do, rest, Re, quarter rest, Mi
 - `D.R:: M` : Do, rest, Re, quarter rest, Mi
@@ -245,7 +245,7 @@ Each Nink has unique properties that shape their vocal characteristics:
 
 ## Grammar
 
-the meaning of a base word can be changed by the manner the last note is pronounced. this is marked by an accent mark: ` ~ `(tilde) , ` ´ ` (acute) and `` ` ``(grave) marks. alternatively, " := "," :+ ", and " :- " can be appended after the modified note. This is used to indicate if the pronounciation of the note would be doubled, pitched up, or pitched down. in effect, the modified note in question is split from on beat to two half beats. the first half be note is the same as the original. the second half note is either the same note, one semitone higher, or one semitone lower.
+the meaning of a base word can be changed by the manner the last note is pronounced. this is marked by an accent mark: ` ~ `(tilde) , ` ´ ` (acute) and `` ` ``(grave) marks. alternatively, " := "," :+ ", and " :- " can be appended after the modified note. This is used to indicate if the pronunciation of the note would be doubled, pitched up, or pitched down. in effect, the modified note in question is split from on beat to two half beats. the first half be note is the same as the original. the second half note is either the same note, one semitone higher, or one semitone lower.
 
 | Script | Typed  | speech  |
 |--------|--------|---------|
