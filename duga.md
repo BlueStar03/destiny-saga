@@ -158,3 +158,84 @@ one character is Sonia Var. she is the singlet daughter of Dona Luz, and Raul Va
 ---
 
 with Sonia Var's narrative. She will be a player character in a video game which pick up shortly before she becomes a wanderer. she holds that the disdain of the townsfolk towards her stems that she isn't a Corle, the race that populates the town. while still running her shop. the tax enforcers harass her frequently, thou mostly because they are punks, but the townsfolk do nothing 'cause they hold it is well deserve for her ingratitude towards her grandfather. Rose Vito, one of the tax enforcers, successfully takes control over the shop and she leaves and starts wandering. on her travels, she keeps crossing paths with a Frill boy. this grows to a friendly rivalry, becoming a loved one, someone that will trigger the amnesia. she eventually wanders into the colony. learning more about the duga, and their selective amnesia. with this understanding, she goes back to Welst Town, to piece together her story. she eventually deduces that the old abandoned shepherd's house was the house her family settled in. she directly asks various townsfolk on what happens and that is how she learns about grandfather. Additional, now that she understands the duga's selective amnesia, she realizes that the frill boy is destined to be forgotten. Note that this is a minor aspect on her story. it is a side story that the player may choose to explore or not. and the quest becomes available only if the player ever finds the colony first.
+
+---
+
+i want to make terms to describe the packs. rather than saying a pack of 2, something Dublet pack?
+
+Lonet (pack of 1), Dublet(pack of 2), Trilet(pack of 3), Qualet(pack of 4), Quinet(pack of 5), Crounet(pack of 6 or more).
+
+can be shorten to lon, dub, tri, qua, qui and crou. 
+
+Crounet is for packs of 6 or more (Crowd)
+
+there could also be subtypes, to refer to the composition of the pack. 
+lonet: underage, unmarried adult, married, widowed
+Dublet: a couple, parent child, siblings, unrelated (friends or strangers)
+Trilet: two parents and one child, one parent two children, three siblings, at least one unrelated
+Qualet: Two parents, two children, any other relation (any other parent child combination), two families (two are of the same family, couple, siblings, parent-child. and the other two are also related but a different family.) at least one unrelated.
+Quinet: one family, two families, at least one unrelated
+Crounet: one family, more than one family. at least half are unrelated.
+
+---
+
+Lonet - Stray
+- Kit: a lone minor. Could be an orphan, lost, or runaway 
+- Stray: a lone unattached adult 
+- Scrap: an adult with a family. could be their family packs together, or are settled and they returned to wandering. basically, they have somewhere to go, to return 
+- Scruff: they themselves would not know they are widowed. their demeanor would have changed from the passing of their partner. it is the attitude, distant, detached, reserved, that are referred to as crone. being referred to as a crone could be the only clue they have that they once had someone.
+
+Stray is the default slang for Lonet. being that when encountering a pack of one for the first time, one might not know anything about them. once more is known about them, can they be sorted to into the other three. if they are young (no upper eyelid, face markings), if they have a family, or have the scruffy demeanor (detached, distand, pensive, brooding, etc).  this would leave stray for anyone else
+
+---
+
+Dublet - Yoke
+
+Couplet: unwedded couple
+Kindret: a wedded couple
+Kinder: parent-child
+Sibler: siblings, normally twins, but can be two singlets. [maybe kinner]
+Yoker: unrelated. can be strangers or friends
+
+yoke/yoker are the default slang for a dublet
+
+[Brainstorm: maybe some different words. yoke continues the animal theme, while duet can be a musical theme. mabey Kinder would be for parent-child, or Ward... something? should wedded and unwedded couple be separate or the same. couple? partner? doves?]
+
+---
+
+Trilet - Patch
+
+Nap : Two Parents, one Child
+Knit: One parent, two children. can be the result one parent being a scrap or of a Qualet after one parent passes 
+Ruft : three siblings, any age. commonly a result of a Quinet after both parents pass away
+Patch: one can be unrelated, if not all three. so two can be Kindret, Kinder or Kinner
+
+---
+
+Qualet - Stack
+
+Den: Two parents and two children
+Brace: other combination of the same family. one parent, three siblings, four siblings, or one extended member
+Split: two families, either can be Kindret, Kinder or Kinner
+Stack: At least one not of the family
+
+Two parents, two children, any other relation (any other parent child combination), two families (two are of the same family, couple, siblings, parent-child. and the other two are also related but a different family.) at least one unrelated.
+
+---
+
+Quinet - Mash
+
+Lot: one family
+Bunch: two families
+Mash: at least one unrelated 
+
+---
+
+Crounet - Crowd
+
+Band: One Family
+Drift: more than one family
+crowd: at least half unrelated.
+
+
+
