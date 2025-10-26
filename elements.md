@@ -11,9 +11,9 @@ The Elements created Threa. Earth, Water, Fire and Wind.
 
 Earth, Water, Fire, and Wind are more like names. A simple way to explain their nature.
 Fire is Radiance. just like fire radiates light and heat, or even a smile or a frown radiates happiness or sadness.
-Wind is Force. like how wind pushes against the mountains or thought pull on the body.
+Wind is Force. like how wind pushes against the mountains or how thought pull on ideas and the body. 
 Earth is Firmness. That which holds shape. Like a rock, or a mountain, or bones and flesh.
-Water is Fluidity. That which moves. Like the rives and oceans and blood
+Water is Fluidity. That which moves. Like the rivers and oceans and blood
 
 ---
 
@@ -25,7 +25,7 @@ Fire and Earth are "male" Water and Wind are "female". Earth and Water are "Youn
 
 ---
 
-Before Threa, Fire and Wind saw each other as rivals. Earth had a crush on Water, but Water paid him no mind. During the creation of Threa, Fire and Wind worked together, as did Earth and Water. From their work, each couple enjoyed ech others company. From this, emerged Ice and Lightning.
+Before Threa, Fire and Wind saw each other as rivals. Earth had a crush on Water, but Water paid him no mind. During the creation of Threa, Fire and Wind worked together, as did Earth and Water. From their work, each couple enjoyed ech others company. From this, emerged two new elements: Ice and Lightning.
 
 ---
 
