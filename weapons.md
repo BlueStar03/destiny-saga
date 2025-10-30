@@ -158,14 +158,10 @@ Description: The spear is a weapon that excels at pierce damage. It is basically
 - **Harpoon:** Built for superior range. Spears are good to throw, but the harpoon goes farther. It has a short shaft but a long, barbed, hooked tip, plus a handy tether to reel in whatever it hit.
 - **Halberd:** A prestigious weapon. The tip has multiple points and edges, causing damage with every swing.
 
-### Modular Notes
-
 - **Split Shaft:** Allows the shaft to be split and recombined. The split creates short spears.
 - **Bottom Tip:** Replaces the butt with a second tip. Many blunt attacks become pierce or slash.
 - If the spear is split and there is **no** second tip, the second weapon is effectively a **Quarter Bo Staff**.
 - **Tether** can be added to other spears. If added to anything besides a Harpoon, it applies a **–Speed** penalty.
-
-### Tips (interchangeable heads)
 
 Can be used on Base, Short, Long, Heavy, and as the second tip:
 
