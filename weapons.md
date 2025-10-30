@@ -7,6 +7,52 @@ title: Weapons
 
 ---
 
+Rating system:
+It is a visually 5 star system, 9 tier, spread along 0-255 points. used for rated properties (stats) 
+
+| Rating    | Range     | Star    |             |
+|-----------|-----------|---------|-------------|
+| None      | 0         | [☆☆☆☆☆] | No Stars    |
+| Weak      | 1 - 33    | [✦☆☆☆☆] | Dull Star   |
+| Low       | 34 - 68   | [★☆☆☆☆] | One Star    |
+| Fair      | 69 - 105  | [★★☆☆☆] | Two Stars   |
+| Good      | 106 - 144 | [★★★☆☆] | Three Stars |
+| Great     | 145 - 181 | [★★★★☆] | Four Stars  |
+| High      | 182 - 216 | [★★★★★] | Five Stars  |
+| Excellent | 217 - 249 | [★★★★✷] | Shine Star  |
+| Epic      | 250 - 255 | [✷✷✷✷✷] | All Shines  |
+
+☆= Empty star
+✦= Dull star
+★= Full Star
+✷= Shine Star
+
+example:
+"The sharpness of this blade is great" - sharpness refers to slash damage, and its slash damage rating falls between 145 and 181
+
+---
+
+| Condition | Range   | effect       |
+|-----------|---------|--------------|
+| Pristine  | +100%   | +5%          |
+| good      | 50-100% | normal stats |
+| worn      | 25-49%  | -10%         |
+| damaged   | 1 - 24% | -25%         |
+
+---
+
+| Quality  | Value |
+|----------|-------|
+| Crude    | 0     |
+| Rough    | 1     |
+| Basic    | 2     |
+| Refined  | 3     |
+| Superior | 4     |
+| Master   | 5     |
+| Mythic   | 6     |
+
+---
+
 ## Weapon Template  
 Type: {Type} - Weapon of Choice of the {people} 
 Description : - 
@@ -170,8 +216,6 @@ Can be used on Base, Short, Long, Heavy, and as the second tip:
 - **Trident:** +Speed
 - **Crescent:** +Slash; +Bleed
 
-### Materials
-
 The Ma Hir are an underwater people, so they use both surface and marine materials. Marine materials include **Veridia**, **Theel**, **Hardened Silver**, and **Thecalavium** — all of which sound like metals that hum underwater and judge you for breathing air.
 
 ---
@@ -264,3 +308,36 @@ Additional Rules and Notes
 - **Pointed:** +Breach chance on strike
 - **Traction:** Resist Knockdown; +Recovery
 - **Hooked:** +Bleed chance on strike
+
+---
+
+## Scythe
+Type: Scythe - Weapon of Choice of the Mort
+Description : - 
+
+| Variant  | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
+|----------|-------|--------|-------|-------|-------|---------|----------|---------|
+| Base     | Great | Fair   | Fair  | Good  | Fair  | Fair    | Two-Hand | -       |
+| Sickle   | Good  | Low    | Fair  | Fair  | -     | -       | One-Hand | -       |
+| Straight | -     | -      | -     | Great | -     | -       | Two-Hand | -       |
+| Arc      | -     | -      | -     | -     | -     | -       | Two-Hand | -       |
+| Crecent  | -     | -      | -     | -     | -     | -       | Two-Hand | -       |
+| Secant   |       |        |       |       |       |         | Two-Hand |         |
+| Halo     | -     | -      | -     | -     | -     | -       | Two-Hand | -       |
+| Eclipse  | -     | -      | -     | -     | -     | -       | Two-Hand | -       |
+| Helix    |       |        |       |       |       |         |          |         | 
+
+
+Components: part1, part2, [optional]
+
+- Base:     
+- Sickle:   
+- Straight: 
+- Arc:      
+- Crecent:  
+- Secant:   
+- Halo:     
+- Eclipse:  
+- Helix:    
+
+Additional Notes
