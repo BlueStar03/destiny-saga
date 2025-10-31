@@ -53,20 +53,20 @@ example:
 
 ---
 
-## Weapon Template  
-Type: {Type} - Weapon of Choice of the {people} 
-Description : - 
+## Weapon Template
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield    | Effects                               |  
-|---------|-------|--------|-------|-------|-------|-------|---------|----------|---------------------------------------|  
-| Base    | -     | -      | -     | -     | -     | -     | -       | -        | -                                     |  
-| -       | -     | -      | -     | -     | -     | -     | -       | -        | -                                     |  
-| -       | -     | -      | -     | -     | -     | -     | -       | -        | -                                     |  
-| -       | -     | -      | -     | -     | -     | -     | -       | -        | -                                     |  
-| -       | -     | -      | -     | -     | -     | -     | -       | -        | -                                     |  
-| -       | -     | -      | -     | -     | -     | -     | -       | -        | -                                     |  
-| -       | -     | -      | -     | -     | -     | -     | -       | -        | -                                     |  
+Type: {Type} - Weapon of Choice of the {people}
+Description : -
 
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
 
 Components: part1, part2, [optional]
 
@@ -312,32 +312,62 @@ Additional Rules and Notes
 ---
 
 ## Scythe
-Type: Scythe - Weapon of Choice of the Mort
-Description : - 
 
-| Variant  | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
-|----------|-------|--------|-------|-------|-------|---------|----------|---------|
-| Base     | Great | Fair   | Fair  | Good  | Fair  | Fair    | Two-Hand | -       |
-| Sickle   | Good  | Low    | Fair  | Fair  | -     | -       | One-Hand | -       |
-| Straight | -     | -      | -     | Great | -     | -       | Two-Hand | -       |
-| Arc      | -     | -      | -     | -     | -     | -       | Two-Hand | -       |
-| Crecent  | -     | -      | -     | -     | -     | -       | Two-Hand | -       |
-| Secant   |       |        |       |       |       |         | Two-Hand |         |
-| Halo     | -     | -      | -     | -     | -     | -       | Two-Hand | -       |
-| Eclipse  | -     | -      | -     | -     | -     | -       | Two-Hand | -       |
-| Helix    |       |        |       |       |       |         |          |         | 
+**Type:** Scythe – Weapon of choice of the Mort
+**Description:** The scythe is a weapon consisting of a long, curved blade attached at a sharp angle to a two-handed shaft, or “snath.” The blade is sharpened on the inner edge.
+
+| Variant  | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects                                                          |
+| -------- | ----- | ------ | ----- | ----- | ----- | ------- | -------- | ---------------------------------------------------------------- |
+| Base     | Great | Fair   | Fair  | Good  | Fair  | Fair    | Two-Hand | +Grab Reach                                                      |
+| Sickle   | Good  | Low    | Low   | Low   | Great | Low     | One-Hand | +Bleed; Breach on Grab                                           |
+| Acute    | Good  | Fair   | Low   | Low   | Great | Fair    | One-Hand | +Bleed on Dual Wield                                             |
+| Straight | Great | Great  | Fair  | High  | Good  | Good    | Two-Hand | +Breach                                                          |
+| Crescent | Good  | Fair   | High  | Great | Weak  | Good    | Two-Hand | +Grab Hold; Bleed on Splash                                      |
+| Arc      | High  | Good   | Good  | Great | Low   | Great   | Two-Hand | +Grab Reach; +Bleed                                              |
+| Halo     | High  | Low    | High  | Great | Low   | Great   | Two-Hand | +Grab Hold; Bleed on Grab; Unblockable Grab                      |
+| Eclipse  | High  | Good   | Good  | Great | Good  | Great   | Two-Hand | +Grab Reach; +Grab Hold; Unblockable Grab; Bleed on Grab; +Bleed |
+
+**Components:** Blade, snath, grip, [toe]
+
+- **Base:** A long blade on a snath.
+- **Sickle:** A short snath with a sickle-shaped blade; easy to make.
+- **Acute:** A short snath with a short blade; good for dual wielding.
+- **Straight:** The blade is upright and focuses on pierce.
+- **Arc:** A longer, curving blade, enhancing its performance.
+- **Crescent:** Two heavy blades and a sturdy snath. The unsharpened side is thick and flat.
+- **Halo:** A prestigious weapon. It features a single, oversized, crescent-shaped blade of immense thickness. The inner edge is razor sharp. The snath has a gentle curve.
+- **Eclipse:** A prestigious weapon. A bent snath with two blades, one on each end.
+
+- **Toe:** +Durability; –Pierce
+
+---
+
+## Axe
+
+Type: Axe - Weapon of Choice of the Lauril
+Description : The Axe is a weapon consisting of an axehead on a haft. the haft is short, no longer than arms lenght. the axehead is a havy mass with one shappend edge.
+
+| Variant  | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield    | Effects                                                     |
+| -------- | ----- | ------ | ----- | ----- | ----- | ----- | ------- | -------- | ----------------------------------------------------------- |
+| Base     | Good  | Weak   | Good  | Low   | Fair  | Great | Low     | One-Hand | +Dash                                                       |
+| Timber   | Fair  | Weak   | Fair  | Low   | Fair  | Great | Low     | One-Hand | +Dash on dual-wield; +Stun on ranged strike                 |
+| Lumber   | Great | Weak   | Great | Good  | Good  | Fair  | Good    | Two-Hand | Unblockable dash strike                                     |
+| Thorn    | Good  | Good   | None  | Low   | Good  | Great | Low     | One-Hand | +Dash; +Breach on dual-wield                                |
+| Songbird | Great | Good   | Great | Fair  | Great | High  | Great   | One-Hand | +Dash; +Agility; +Critical on ranged strike                 |
+| Raptor   | High  | Good   | High  | Fair  | Great | High  | Great   | One-Hand | Pursue; Unblockable on dash strike; +Dash; +Speed; +Agility |
 
 
-Components: part1, part2, [optional]
+Components: Axehead, Haft, Grip, [Lanyard],[Drop]
 
-- Base:     
-- Sickle:   
-- Straight: 
-- Arc:      
-- Crecent:  
-- Secant:   
-- Halo:     
-- Eclipse:  
-- Helix:    
+ Base: an axehead afixed to a haft
+ Timber: a smaller axehead, can be Dual Wield
+ Lumber: Heavy. a very heavy axehead. a long study haft to support it.
+ Thorn: Pierce Focus, the poll of the axehead has skikes attached
+ Songbird: Enhanced, better than the base in every way. the poll has a spike
+ Raptor: Prestige, it has a double axehead
 
-Additional Notes
+simple Lanyard: adds +Range
+Braided Lanyard: a prestegious addition. adds +Rang; Doublehit
+The drop is an ornament. usually used for showing tribal membership
+
+---
