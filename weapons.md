@@ -7,6 +7,8 @@ title: Weapons
 
 ---
 
+## Weapon Stats
+
 Rating system:
 It is a visually 5 star system, 9 tier, spread along 0-255 points. used for rated properties (stats) 
 
@@ -371,3 +373,233 @@ Braided Lanyard: a prestegious addition. adds +Rang; Doublehit
 The drop is an ornament. usually used for showing tribal membership
 
 ---
+
+## PickHammer
+
+Type: PickHammer - Weapon of Choice of the Zeur
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Whip
+
+Type: Whip - Weapon of Choice of the Minka
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Shield
+
+Type: Shield - Weapon of Choice of the Murai
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Tonfa
+
+Type: Tonfa - Weapon of Choice of the Jin
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Chucks
+
+Type: Chucks - Weapon of Choice of the Imoh
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Club
+
+Type: Club - Weapon of Choice of the Corlee
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Dart
+
+Type: Dart - Weapon of Choice of the Nink
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Knife
+
+Type: Knife - Weapon of Choice of the Rowlf
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Pitchfork
+
+Type: Pitchfork - Weapon of Choice of the Redn
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
+
+## Saw
+
+Type: Saw - Weapon of Choice of the Kapopa
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+
