@@ -442,16 +442,12 @@ The whip is a flexible weapon composed of a cord attached to a handle, terminati
 
 **Components:** Handle, Cord, Popper, [Tassel]
 
-### Variants
-
 - **Lash** — A short, compact cord favored for close-quarters combat.
 - **Ribbon** — A long, supple cord designed for entanglement rather than direct offense.
 - **Belt** — A flat, reinforced cord offering balanced speed and stability.
 - **Bola** — A cord tipped with weighted poppers, capable of tripping or disabling opponents.
 - **Chain** — A heavy metal length of links; not of Minka origin, yet adapted to their combat style.
 - **Braided** — A masterwork of interwoven strands, granting superior flexibility and strength along its entire length.
-
-### Notes
 
 - Whip-based blocks collapse after absorbing a single strike.
 - Although the **Chain** variant is not of Minka craftsmanship, it retains full Affinity bonuses when wielded by a Minka.
