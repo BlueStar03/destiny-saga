@@ -358,7 +358,6 @@ Description : The Axe is a weapon consisting of an axehead on a haft. the haft i
 | Songbird | Great | Good   | Great | Fair  | Great | High  | Great   | One-Hand | +Dash; +Agility; +Critical on ranged strike                 |
 | Raptor   | High  | Good   | High  | Fair  | Great | High  | Great   | One-Hand | Pursue; Unblockable on dash strike; +Dash; +Speed; +Agility |
 
-
 Components: Axehead, Haft, Grip, [Lanyard],[Drop]
 
  Base: an axehead afixed to a haft
@@ -374,72 +373,124 @@ The drop is an ornament. usually used for showing tribal membership
 
 ---
 
-## PickHammer
+## Pickhammer
 
-Type: PickHammer - Weapon of Choice of the Zeur
-Description : -
+**Type:** Pickhammer — Weapon of Choice of the Zeur
+**Description:** The Pickhammer is a weapon consisting of a sack filled with heavy bulk material. One end of the sack is flat; the other end tapers to a point. A harness is attached to the sack for carrying and wielding. It is mainly used for earthworks. Its durability as a weapon is limited.
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Variant | Slash | Pierce | Blunt     | Reach | Speed | Defense | Wield    | Effects                                                                                                  |
+|---------|-------|--------|-----------|-------|-------|---------|----------|----------------------------------------------------------------------------------------------------------|
+| Base    | None  | Weak   | Great     | Low   | Low   | Great   | Two-Hand | Splash on Heavy                                                                                          |
+| Slaker  | None  | None   | Good      | Low   | Fair  | Fair    | Two-Hand | Splash on Shatter                                                                                        |
+| Puncher | None  | Good   | Great     | Low   | Low   | Great   | Two-Hand | Splash on Heavy; +Breach                                                                                 |
+| Slammer | None  | High   | High      | Great | Fair  | Fair    | Two-Hand | Splash on Heavy; +Stagger                                                                                |
+| Thumper | None  | Fair   | High      | Fair  | Low   | Great   | Two-Hand | Splash on Strike; Knockback on Heavy; Breach on Charge                                                   |
+| Breaker | None  | Great  | Excellent | Good  | Fair  | Great   | Two-Hand | Splash on Strike; Unblockable Charge, Breach on Charge; Stagger on Splash; Unblockable Splash on Shatter |
 
-Components: part1, part2, [optional]
+**Components:** Bulk, Cover, Padding, Tip Cap, Harness, [Filler], [Frame], [Case]
 
-Variant Description
+- **Bulk:** The main mass of the weapon.
+- **Cover:** Thick fabrics that protect the Bulk.
+- **Padding:** Extra-thick fabrics at the blunt striking surface.
+- **Tip Cap:** A solid tip at the piercing end.
+- **Harness:** Used to hold and maneuver the weapon. It functions as a weapon sheath, negates volume, and enables quick equip.
+- **Filler:** Used instead of, or alongside, the Bulk.
+- **Frame:** Provides structure to the Cover.
+- **Case:** Adds additional structure to the Cover.
 
-Additional Notes
+**Variants**
+
+- **Base:** Solid mass covered in heavy fabrics.
+- **Slaker:** A sack filled with loose material (e.g., sand, rocks, rubble). Can be used as a pack.
+- **Puncher:** The tapered point is reinforced.
+- **Slammer:** The harness can be detached, allowing the Pickhammer to be swung with a partial detachment.
+- **Thumper:** An inner frame adds strength and durability to the weapon.
+- **Breaker:** A solid inner case, strong frame, and a fillable compartment.
+
+**Notes**
+
+- The durability of a Pickhammer is lower than that of other weapons.
+- The Frame and Case add durability.
+- The Reach for the Slammer and Breaker are for when the harness is partially attached. If fully attached, the value for both is Fair
+- The Speed for the Slammer and Breaker are for when the harness is partially attached. If fully attached, the value for both is Fair
+- Can produce effects on Shatter, not on breakage.
+- Male Zeur can dual-wield Pickhammers.
+- Male Zeur can dual-wield all two-handed weapons.
+- Male Zeur have difficulty wielding one-handed weapons.
+
+---
+
+Here’s your text with corrected grammar, consistent capitalization, and smoother phrasing while preserving the original style and formatting:
 
 ---
 
 ## Whip
 
-Type: Whip - Weapon of Choice of the Minka
-Description : -
+**Type:** Whip — Traditional Weapon of the Minka  
+**Description:**
+The whip is a flexible weapon composed of a cord attached to a handle, terminating in a popper at its tip. When mastered, it serves as both an instrument of control and a weapon of precision, capable of striking, ensnaring, and disarming foes with fluid motion.
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Variant | Slash | Pierce | Blunt | Reach     | Speed     | Defense | Wield    | Effects                                                                                        |
+| ------- | ----- | ------ | ----- | --------- | --------- | ------- | -------- | ---------------------------------------------------------------------------------------------- |
+| Base    | Good  | None   | Low   | Great     | Great     | Fair    | One-Hand | Ensnare on Grab                                                                                |
+| Lash    | Fair  | None   | None  | Good      | High      | Low     | One-Hand | +Slash when Dual-Wielded                                                                       |
+| Ribbon  | Fair  | None   | None  | Excellent | Excellent | Weak    | One-Hand | +Grab Reach; +Grab; Ensnare on Grab                                                            |
+| Belt    | Fair  | None   | Fair  | Good      | Good      | Fair    | One-Hand | Ensnare on Grab; Stagger on Charge                                                             |
+| Bola    | Fair  | None   | Good  | Fair      | Good      | Fair    | One-Hand | Ensnare on Grab; Knockdown on Charge                                                           |
+| Chain   | Good  | Fair   | Great | Fair      | Low       | Great   | One-Hand | Unblockable Charge; Knockdown on Charge; Ensnare on Parry                                      |
+| Braided | High  | Good   | Good  | Excellent | High      | Good    | One-Hand | +Grab Reach; Ensnare on Grab; +Grab; Unblockable Charge; Knockback on Charge; Ensnare on Parry |
 
-Components: part1, part2, [optional]
+**Components:** Handle, Cord, Popper, [Tassel]
 
-Variant Description
+### Variants
 
-Additional Notes
+- **Lash** — A short, compact cord favored for close-quarters combat.
+- **Ribbon** — A long, supple cord designed for entanglement rather than direct offense.
+- **Belt** — A flat, reinforced cord offering balanced speed and stability.
+- **Bola** — A cord tipped with weighted poppers, capable of tripping or disabling opponents.
+- **Chain** — A heavy metal length of links; not of Minka origin, yet adapted to their combat style.
+- **Braided** — A masterwork of interwoven strands, granting superior flexibility and strength along its entire length.
+
+### Notes
+
+- Whip-based blocks collapse after absorbing a single strike.
+- Although the **Chain** variant is not of Minka craftsmanship, it retains full Affinity bonuses when wielded by a Minka.
 
 ---
 
-## Shield
+## Shield - to be reviewd
 
-Type: Shield - Weapon of Choice of the Murai
-Description : -
+**Type:** Shield – Weapon of Choice of the Murai
+**Description:** –
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Variant | Slash | Pierce | Blunt | Reach | Speed     | Defense   | Wield    | Effects                                |
+|---------|-------|--------|-------|-------|-----------|-----------|----------|----------------------------------------|
+| Base    | Weak  | Fair   | Good  | Low   | Great     | Good      | One-Hand | +Defense on Dual Wield                 |
+| Aurora  | None  | None   | Good  | None  | High      | Fair      | One-Hand | +Defense on Dual Wield                 |
+| Nebula  | Fair  | Good   | Good  | Low   | Excellent | Great     | One-Hand | +Defense on Dual Wield                 |
+| Meteor  | None  | None   | High  | Low   | Good      | Great     | One-Hand | +Defense on Dual Wield                 |
+| Comet   | Good  | None   | Good  | Low   | Good      | Great     | One-Hand | +Defense on Dual Wield                 |
+| Galaxy  | Fair  | None   | High  | Great | Fair      | Great     | One-Hand | Range: Fair; +Defense on Dual Wield;   |
+| Eclipse | Fair  | None   | High  | Low   | Low       | Excellent | One-Hand |                                        |
+| Nova    | High  | Good   | High  | Fair  | High      | High      | One-Hand | +Defense on Dual Wield                 |
 
-Components: part1, part2, [optional]
+**Components:** Shell, Frame, Brace, Lining, Strap, [Grip], [Teather]
 
-Variant Description
+- **Base:** The front of the shell extends to a point; the back ends at the elbow.
+- **Aurora:** A small circular shield that does not extend past the forearm.
+- **Nebula:** The front of the shell extends to a point; the back extends into two points.
+- **Meteor:** The front extends into a solid mass.
+- **Comet:** The front extends into two blades.
+- **Galaxy:** A circular shield that extends past the forearm, with a tether attached.
+- **Eclipse:** A very large circular shield, about half the height of the wielder.
+- **Nova:** The front has three blades; the back ends in a point.
 
-Additional Notes
+- The hands have limited mobility. They can perform most actions but cannot wield another weapon or perform other dexterous actions.
+- The sheath does not allow quick equipping, as the shields are secured to the bracers and worn like armor.
+- When sheathed, they contribute to armor defense.
+- The **Aurora Shield** can be wielded with other weapons but cannot be sheathed.
+
+
 
 ---
 
@@ -448,15 +499,18 @@ Additional Notes
 Type: Tonfa - Weapon of Choice of the Jin
 Description : -
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Variant             | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects                                                                                        |
+|---------------------|-------|--------|-------|-------|-------|---------|----------|------------------------------------------------------------------------------------------------|
+| Base 1 (Daylight)   | Fair  | Fair   | Good  | Low   | High  | Good    | One-Hand | + Blunt with Sun;+ Defense with Nightshine                                                     |
+| Base 2 (Nightshine) | Good  | Fair   | Fair  | Low   | Good  | High    | One-Hand | + Slash with Moon;+ Speed with Daylight                                                        |
+| Morning Dew         | Low   | Low    | Fair  | Low   | Fair  | Good    | One-Hand | + blunt with Sun;+ Speed with Twilight mist                                                    |
+| Twilight Mist       | Fair  | Low    | Low   | Low   | Good  | Fair    | One-Hand | + slash with Moon;+ Defense with Morning dew                                                   |
+| High Noon           | None  | None   | Good  | Low   | Fair  | Great   | One-Hand | +critical with Sun; +Grab with Midnight Star                                                   |
+| Midnight Star       | Good  | Good   | None  | Low   | High  | Good    | One-Hand | +stagger with Moon; +Parry with High Noon                                                      |
+| Sun rise            | Good  | Good   | Great | Fair  | Good  | High    | One-Hand | + with Sun;+ with Moon Shadow                                                                  |
+| Moon Shadow         | Great | Great  | Good  | Fair  | High  | Good    | One-Hand | + with Moon;+ with Sun Rise                                                                    |
+| Day Breaker         | Good  | Good   | Good  | Fair  | High  | Good    | One-Hand | + Defense with Moon; + Blunt and Block With Sun; Unbreakable Charge and stagger with nightfall |
+| Night fall          | Good  | Good   | Good  | Fair  | High  | Good    | One-Hand | + Speed with Sun; + Slash and Piere with moon; +Critical and Grab with Daybreaker              |
 
 Components: part1, part2, [optional]
 

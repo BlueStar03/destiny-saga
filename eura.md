@@ -5,10 +5,6 @@ title: Eura
 
 # Eura
 
-I will describe The Creation of Threa.
-
----
-
 i am trying to think of an universal, primordial substance/ energy. like mana, the force, Chi. it will have the name Eura
 
 ---

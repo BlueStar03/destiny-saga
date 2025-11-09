@@ -16,7 +16,7 @@ Their builds vary widely—tall or short, slim or large, muscular or lean.
 
 ---
 
-From the very beginning, Ice and Lightning cared deeply for their creation—the Nawa. The Neo provided for their every need and desire. But this nurturing turned into dependence. The Nawa began to act only to please the Neo, knowing they would be provided for in return. They could not survive on their own.
+From the very beginning, Ice and Lightning cared deeply for their creation, the Nawa. The Neo provided for their every need and desire. But this nurturing turned into dependence. The Nawa began to act only to please the Neo, knowing they would be provided for in return. They could not survive on their own.
 
 Over time, the Neo observed how other races were thriving independently. By then, the Aetha and Dreavi—Perfects like the Nawa—already walked Threa. The Pures—Lor, Aria, Dis Com, and Ma Hir—had also begun to grow and shape civilizations of their own.
 
@@ -32,7 +32,7 @@ The Nawa became Lost.
 
 ---
 
-As the First Age progressed, more races came into being. The first Unions—Mort, Lauril, Zeur, Minka, Jin, and Murai—and the second Unions—Imoh, Corlee, Rowlf, Nink, Redn, and Kapopa—joined the growing world alongside the Pures (Lor, Aria, Dis Com, and Ma Hir) and the Perfects (Aetha, Dreavi, and the Nawa themselves).
+As the First Age progressed, more races came into being. The first Unions: Mort, Lauril, Zeur, Minka, Jin, and Murai, and the second Unions: Imoh, Corlee, Rowlf, Nink, Redn, and Kapopa, joined the growing world alongside the Pures (Lor, Aria, Dis Com, and Ma Hir) and the Perfects (Aetha, Dreavi, and the Nawa themselves).
 
 The Nawa drifted from one population to another, always assuming the forms of those they lived among.
 
