@@ -465,10 +465,10 @@ The whip is a flexible weapon composed of a cord attached to a handle, terminati
 
 ---
 
-## Tonfa - WIP
+## Tonfa - to be reviewd
 
 Type: Tonfa - Weapon of Choice of the Jin
-Description : -
+Description : A one-handed weapon consisting of a main shaft and a perpendicular grip
 
 | Variant             | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects                                                                                        |
 |---------------------|-------|--------|-------|-------|-------|---------|----------|------------------------------------------------------------------------------------------------|
@@ -483,11 +483,24 @@ Description : -
 | Day Breaker         | Good  | Good   | Good  | Fair  | High  | Good    | One-Hand | + Defense with Moon; + Blunt and Block With Sun; Unbreakable Charge and stagger with nightfall |
 | Night fall          | Good  | Good   | Good  | Fair  | High  | Good    | One-Hand | + Speed with Sun; + Slash and Piere with moon; +Critical and Grab with Daybreaker              |
 
-Components: part1, part2, [optional]
+Components: Shaft, Grip, [Joint]
 
-Variant Description
+- **Daylight**
+- **Nightshine**
+- **Morning Dew**
+- **Twilight Mist**
+- **High Noon**
+- **Midnight Star**
+- **Sun rise**
+- **Moon Shadow**
+- **Day Breaker**
+- **Night fall**
 
-Additional Notes
+- Day Tonfas: Daylight, Morning Dew, High Noon, Sun Rise, Day Breaker
+- Night Tonfas: Nighshine, Twilight Mist, Midnight Star, Moon Shadow, Night Fall
+- Day tonfas are more common. a common item for the Jin.
+- Night Tonfas are more limited. carried by Jin Shadows, a secret protective army.
+- a joint can be added to the grip, allowing double wielding.
 
 ---
 
