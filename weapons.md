@@ -55,29 +55,6 @@ example:
 
 ---
 
-## Weapon Template
-
-Type: {Type} - Weapon of Choice of the {people}
-Description : -
-
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-
-Components: part1, part2, [optional]
-
-Variant Description
-
-Additional Notes
-
----
-
 ## Razor
 
 Type: **Razor — Weapon of Choice of the Lor**
@@ -486,11 +463,9 @@ The whip is a flexible weapon composed of a cord attached to a handle, terminati
 - When sheathed, they contribute to armor defense.
 - The **Aurora Shield** can be wielded with other weapons but cannot be sheathed.
 
-
-
 ---
 
-## Tonfa
+## Tonfa - WIP
 
 Type: Tonfa - Weapon of Choice of the Jin
 Description : -
@@ -652,4 +627,27 @@ Variant Description
 
 Additional Notes
 
+---
 
+## Weapon Template
+
+Type: {Type} - Weapon of Choice of the {people}
+Description : -
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes
+
+---
