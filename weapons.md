@@ -504,26 +504,43 @@ Components: Shaft, Grip, [Joint]
 
 ---
 
-## Chucks
+## Chucks – Weapon of Choice of the Imoh (To Be Reviewed)
 
-Type: Chucks - Weapon of Choice of the Imoh
-Description : -
+**Description:** –
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Variant    | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
+|------------|-------|--------|-------|-------|-------|---------|----------|---------|
+| Base       | None  | None   | Good  | Fair  | Great | Fair    | One-Hand |         |
+| Echo       |       |        |       |       |       |         | One-Hand |         |
+| Dazzel     |       |        |       |       |       |         | One-Hand |         |
+| Heavy      |       |        | Great |       |       |         | One-Hand |         |
+| Spiked     |       | Great  |       |       |       |         | One-Hand |         |
+| Hook       | Great |        |       |       |       |         | One-Hand |         |
+| Reinforced |       |        |       |       |       |         | One-Hand |         |
+| Champion   |       |        |       |       |       |         | One-Hand |         |
 
-Components: part1, part2, [optional]
+**Components:** Stocks, Connector, [Third Segment]
 
-Variant Description
+---
 
-Additional Notes
+### **Variant Descriptions**
+
+* **Base**
+* **Echo**
+* **Dazzel**
+* **Heavy**
+* **Spiked**
+* **Hook**
+* **Reinforced**
+* **Champion**
+
+---
+
+### **Additional Notes**
+
+* **Imoh-Forged:** The `Base`, `Echo`, `Dazzel`, and `Champion` variants are forged by the Imoh.
+* **Foreign-Forged:** The `Heavy`, `Spiked`, `Hook`, and `Reinforced` variants are not of Imoh origin.
+* **[Third Segment]:** This optional component can be added to make any variant a "triple chuck."
 
 ---
 
@@ -532,15 +549,16 @@ Additional Notes
 Type: Club - Weapon of Choice of the Corlee
 Description : -
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Variant    | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
+|------------|-------|--------|-------|-------|-------|---------|----------|---------|
+| Base       | None  | None   | Good  | Fair  | Great | Fair    | One-Hand |         |
+| Duster     | Weak  | None   | Good  | None  | Good  | None    | One-Hand |         |
+| Billy      |       |        |       |       |       |         | One-Hand |         |
+| Batson     |       |        |       |       |       |         | Two Hand |         |
+| Piper      |       |        |       |       |       |         | One-Hand |         |
+| Spiker     |       |        |       |       |       |         | Two Hand |         |
+| Wrencher   |       |        |       |       |       |         | Two Hand |         |
+| The Mauler |       |        |       |       |       |         | Two Hand |         |
 
 Components: part1, part2, [optional]
 
