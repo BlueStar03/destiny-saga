@@ -523,7 +523,7 @@ Components: Shaft, Grip, [Joint]
 
 ---
 
-### **Variant Descriptions**
+**Variant Descriptions**
 
 * **Base**
 * **Echo**
@@ -544,9 +544,9 @@ Components: Shaft, Grip, [Joint]
 
 ---
 
-## Club
+## Club  (To Be Reviewed)
 
-Type: Club - Weapon of Choice of the Corlee
+Type: Club - Weapon of Choice of the Corlee 
 Description : -
 
 | Variant    | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
@@ -568,20 +568,21 @@ Additional Notes
 
 ---
 
-## Dart
+## Dart (To Be Reviewed)
 
 Type: Dart - Weapon of Choice of the Nink
 Description : -
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Variant   | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield    | Effects |
+|-----------|-------|--------|-------|-------|-------|-------|---------|----------|---------|
+| Base      | None  | Good   | None  | Low   | Good  | High  | Weak    | One-Hand |         |
+| Pin       | None  | Fair   | None  | Weak  | Fair  | Good  | Weak    | One-Hand |         |
+| Leaf      |       |        |       | Weak  | Fair  | Good  | Weak    | One-Hand |         |
+| Lance     | Good  | Fair   | None  | Low   | Good  | Good  | Weak    | One-Hand |         |
+| Needle    | None  | High   | None  | Low   | High  | High  | Weak    | One-Hand |         |
+| Rod       | None  | None   | Good  | Low   | Fair  | Good  | Weak    | One-Hand |         |
+| Javelin   | None  | Good   | Fair  | Fair  | Low   | Good  | Low     | Two-Hand |         |
+| Fléchette | Fair  | High   | None  | Low   | High  | High  | Low     | One-Hand |         |
 
 Components: part1, part2, [optional]
 
@@ -591,20 +592,22 @@ Additional Notes
 
 ---
 
-## Knife
+## Tooth (To Be Reviewed)
 
-Type: Knife - Weapon of Choice of the Rowlf
+Type: Tooth - Weapon of Choice of the Rowlf
 Description : -
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Variant         | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
+|-----------------|-------|--------|-------|-------|-------|---------|----------|---------|
+| Jrrn (Horn)     |       |        |       |       |       |         | One-Hand |         |
+| Ff-ng (Fang)    |       |        |       |       |       |         | One-Hand |         |
+| Tss-g (Tusk)    |       |        |       |       |       |         | One-Hand |         |
+| T-lnn (Talon)   |       |        |       |       |       |         | One-Hand |         |
+| On-tlr (Antler) |       |        |       |       |       |         | One-Hand |         |
+| St-ng (Sting)   |       |        |       |       |       |         | One-Hand |         |
+| M-gss (Beak)    |       |        |       |       |       |         | One-Hand |         |
+| Rrrm (Ram)      |       |        |       |       |       |         | One-Hand |         |
+| T-grr (Dagger)  |       |        |       |       |       |         | One-Hand |         |
 
 Components: part1, part2, [optional]
 
