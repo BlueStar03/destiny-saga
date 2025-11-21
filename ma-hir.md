@@ -478,7 +478,7 @@ A second seaflare is lit, I see the abyss getting brighter.
 
 "Blue." Someone is shouting Blue. I can hear her. My commander is yelling Blue.
 
-It's safe. I can return. But is it? It hasn’t blown up. I am still here. "Every yard, every foot, every inch counts." I keep pushing. It is my job to make it safe. Two or three more seaflares have been lit. I hear everyone down there yelling, "Blue. Blue." It is safe. It is safe now.
+It's safe enough. I can return. It is far enough. But is it? It hasn’t blown up. I am still here. "Every yard, every foot, every inch counts." I keep pushing. It is my job to make it safe. Two or three more seaflares have been lit. I hear everyone down there yelling, "Blue. Blue." It is safe. It is safe now.
 
 I now just need to kick off from the charge. I have trained for this many times. Kick off from the charge and swim back to safety befo... 
 ... 
