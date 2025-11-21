@@ -448,23 +448,117 @@ a bit of clarity with [sharks], [Plesiosaurs]  and [Sea turtles]
 ---
 
 a narrative:
-deep in the dark blue abyss, the sound of clanging metal echoes in these waters. Hammers striking red hot Silver. Each strike shaping the silver into a spear. A team, striking red hot silver, each one being shaped into a spear to arm our warriors. Everyone strains to move under the immense pressure at these depths. Each step feels like we are carrying a boulder in our shoulders. And the suits we wear isn’t helping either. But we are glad to be wearing them. The superheated current that flows out of the vents is invisible to the eye. But the silver smiths know how to wield that heat. They cover the silver in a hardening dust, they then dip it in what appears like nothing. They are just holding the slab of silver in front of them. But the silver starts to glow. It glows red hot, then white hot. The white hot glow of the silver briefly illuminated this dark abyss, then the smith goes back to striking the hot malleable metal. These suits, these heavy, bulky suits, keep us cooler than the molten metal inside the super heated waters of this forge. After much clanging, the white hot silver dims, and our lanterns once again are the only things that can be seen in this dark abys. The guards patrol around the forges. Making sure their tethers are well anchored as they move about. We all are well anchored to the seafloor. Our tethers stretch into the darkness, beyond what we can see. They stretch high above the abysmal cliff, a team is keeping our tethers safe. They are keeping us safe. The clanging of metal suddenly stopped. Someone yelled…. Depth charge.
+Deep in the dark blue abyss, the sound of clanging metal echoes in these waters. Hammers striking red-hot silver. Each strike shapes the silver into a spear. A team works in unison, shaping the metal to arm our warriors.
+
+Everyone strains to move under the immense pressure at these depths. Each step feels like we are carrying a boulder on our shoulders. And the suits we wear aren’t helping either, but we are glad to be wearing them. The superheated current that flows out of the vents is invisible to the eye, but the silversmiths know how to wield that heat. They cover the silver in a hardening dust, then dip it into what appears to be nothing. They are just holding the slab of silver in front of them, yet it starts to glow. It glows red-hot, then white-hot.
+
+The white-hot glow of the silver briefly illuminates this dark abyss, then the smith goes back to striking the hot malleable metal. These suits—these heavy, bulky suits—keep us cooler than the molten metal inside the superheated waters of this forge. After much clanging, the white-hot silver dims, and our lanterns once again are the only things that can be seen in this dark abyss.
+
+The guards patrol around the forges, making sure their tethers are well anchored as they move about. We are all well anchored to the seafloor. Our tethers stretch into the darkness, beyond what we can see. They stretch high above the abysmal cliff where a team is keeping our tethers safe. They are keeping us safe.
+
+The clanging of metal suddenly stops. Someone yells, "Depth charge!"
 
 ---
 
-I heard someone said depth charge. I look around, trying to find out who said depth charge. But I already knew the answer. Our commander had yelled depth charged. I look up to the darkness above us. We all did, trying to see were the depth charge was, someone lit a seaflare, pushing the darkness back and reviling where it was. Above me. Red. My commander yelled red. She yelled red. She yelled red. Seventeen. She yelled seventeen. Seventeen. That’s me. …. That’s….. I trained for this. I took a deep breath, I removed my tether from the anchor. I started to swim up. Towards the charge. It can detonate at any second, it can blow up at any moment. And I was swimming toward it. As fast and as hard as I could. I swam with all my might until I crashed on it. But my job wasn’t done. In fact, it just started. I needed to push the charge as far and as fast as possible. Every yard, every foot, every inch counted, before this depth charge decides to blow up, I have to move it as far and as fast as possible. Away from the forge, from the smiths, away from everyone. A second seaflare was lit, I saw the abys getting brighter. Blue. I heard blue. Some is shouting blue. I can hear her. My commander is yelling blue. Its safe. I can return. But is it? It hasn’t blown up. I am still here. Every yard, every foot, every inch counts. I keep pushing. It is my job to make it safe. Two or three more seaflares have been lit. I hear everyone down there yelling blue. It is safe. It is safe now. I now just need to kick off from the charge. I have train for this many times. Kick off from the charge and swim back to safety befo…………
-……………………………………
+"Depth charge." I hear someone say depth charge. I look around, trying to find out who said depth charge. But I already know the answer. Our commander yelled depth charge. I look up into the darkness above us. We all do, trying to see where the depth charge is. Someone lights a seaflare, pushing the darkness back and revealing where it is.
+
+Above me.
+
+"Red." My commander yells Red. She yells Red. She yells Red.
+
+"Seventeen." She yells Seventeen.
+
+"Seventeen." That’s me. That’s... I trained for this. I take a deep breath, I remove my tether from the anchor. I start to swim up. Towards the charge. It can detonate at any second, it can blow up at any moment. And I am swimming toward it. As fast and as hard as I can.
+
+I swim with all my might until I crash into it. But my job isn't done. In fact, it has just started. I need to push the charge as far and as fast as possible. Every yard, every foot, every inch counts. Before this depth charge decides to blow up, I have to move it as far and as fast as possible. Away from the forge, from the smiths, away from everyone.
+
+A second seaflare is lit, I see the abyss getting brighter.
+
+"Blue." I hear Blue.
+
+"Blue." Someone is shouting Blue. I can hear her. My commander is yelling Blue.
+
+It's safe. I can return. But is it? It hasn’t blown up. I am still here. "Every yard, every foot, every inch counts." I keep pushing. It is my job to make it safe. Two or three more seaflares have been lit. I hear everyone down there yelling, "Blue. Blue." It is safe. It is safe now.
+
+I now just need to kick off from the charge. I have trained for this many times. Kick off from the charge and swim back to safety befo... 
+... 
+...
+...
 
 ---
 
-I lit one more seaflare. Hoping she can see it. I yelled blue as loud as I could. We all did. Hoping she could hear us. She saved us. Then, it exploded. The blast wave knocked all of us down to floor. The seabed shook. The pools of magma splashed. The superheated currents went all over the place. I got hit, but the suit did its job. Ill survive. We all survived. Thanks to her.
+I light one more seaflare. Hoping she can see it. I yell, "Blue," as loud as I can. We all do. Hoping she can hear us. She saved us.
+
+Then, it explodes.
+
+The blast wave knocks all of us down to the floor. The seabed shakes. The pools of magma splash. The superheated currents go all over the place. I get hit, but the suit does its job. I'll survive. We all survived. Thanks to her.
 
 ---
 
-After what felt like an eternity, I heard the loud thud. I quickly turned and identified the impact site. If there was a chance, I needed to act quickly. I unanchored my tether and rushed to the site. Sixteen, eighteen. Ready. I yelled as I rushed to the impact site. They know what to do. We have drilled this moment countless times. I took off the sleeves and the headgear of my suit. The superheated currents haven’t settled yet. If there was still a chance, I gladly assume the risk. I lit one more seaflare and threw it in front of me, as i kept rushing to the site. The seaflare illuminated the impact site. There she was.  After what felt like an eternity, I finally reached her. Water flows into her lungs, good, she still breathes. But weakly. Her suit is gone, it took much of the blast. I hope it was enough. I turn her around and start prepping her. Two more arrived at the site. Sixteen and eighteen are ready for their part. I finished wrapping her, making sure the cover was secured. My own tether vibrated. Good, they are ready on top. I make sure her tether is firmly secured. I get ready to give the command, then. every inch counts. She said, every inch counts commander. I turn back to her, she has a faint smile. I put my hand on her shoulder. Yes Layla, thank you. I secure the seaflare on her cover. I turn around and yell GO. Sixteen, eighteen and myself, pull on our tethers as hard as we can. Seventeen, Layla, gets pulled away from us, away from the forge, into the dark abyss. We can see her seaflare raise upon the abysmal cliff. It keeps raising as we keep pulling on our tethers. As her seaflare grows dim, we see two more seaflares join her. They got her. she is safe. We keep pulling until there is no more give on the tethers. She reached the top. I there is a chance, is on their hands now. Sixteen’s, eighteen’s and my tethers start retracting. The team on top is pick back all the extra slack. We anchor ourselves back again. I grab the pieces of my suit that I discarded earlier and put them back on. i return to my post and receive the damage report. Nothing major, but two batches of spears will have to be reforged. My tether started to vibrate, and again, and one last time. I remove my tether from the anchor and swim up to the middle of the forge. At the top of my lungs, I yell GREEN!!!. I repeat GREEN!!! Two more times. Everyone cheers. She is stable. Layla will pull thru. she is safe. we all are. Thanks to her.  Some time later, once it was confirmed the superheated current had settled back, the clang of metal once more echoed thru this abysmal water. And once more I resumed my watch.
+After what feels like an eternity, I hear the loud thud. I quickly turn and identify the impact site. If there is a chance, I need to act quickly. I unanchor my tether and rush to the site.
+
+"Sixteen, Eighteen. Ready!" I yell as I rush to the impact site. They know what to do. We have drilled this moment countless times.
+
+I take off the sleeves and the headgear of my suit. The superheated currents haven’t settled yet. If there is still a chance, I gladly assume the risk. I light one more seaflare and throw it in front of me as I keep rushing to the site. The seaflare illuminates the impact site.
+
+There she is.
+
+After what feels like an eternity, I finally reach her. Water flows into her lungs. Good, she still breathes. But weakly. Her suit is gone; it took much of the blast. I hope it was enough. I turn her around and start prepping her. Two more arrive at the site. Sixteen and Eighteen are ready for their part. I finish wrapping her, making sure the cover is secured.
+
+My own tether vibrates. Good, they are ready on top. I make sure her tether is firmly secured. I get ready to give the command, then...
+
+"Every inch counts."
+
+She says, "Every inch counts, Commander."
+
+I turn back to her; she has a faint smile. I put my hand on her shoulder. "Yes, Layla. Thank you."
+
+I secure the seaflare on her cover. I turn around and yell, "GO!"
+
+Sixteen, Eighteen, and myself pull on our tethers as hard as we can. Seventeen—Layla—gets pulled away from us, away from the forge, into the dark abyss. We can see her seaflare rise upon the abysmal cliff. It keeps rising as we keep pulling on our tethers. As her seaflare grows dim, we see two more seaflares join her.
+
+They got her. She is safe.
+
+We keep pulling until there is no more give on the tethers. She reached the top. If there is a chance, it is in their hands now. Sixteen’s, Eighteen’s, and my tethers start retracting. The team on top is taking up all the extra slack. We anchor ourselves back again.
+
+I grab the pieces of my suit that I discarded earlier and put them back on. I return to my post and receive the damage report. Nothing major, but two batches of spears will have to be reforged.
+
+My tether starts to vibrate. And again. And one last time. I remove my tether from the anchor and swim up to the middle of the forge. At the top of my lungs, I yell, "GREEN!"
+
+I repeat, "GREEN!" two more times.
+
+Everyone cheers. She is stable. Layla will pull through. She is safe. We all are. Thanks to her.
+
+Some time later, once it is confirmed the superheated current has settled back, the clang of metal once more echoes through this abysmal water. And once more I resume my watch.
 
 ---
 
-The day has been quiet so far. We are getting ready to send down their lunch meal. But then a message on the commander’s tether. Depth charge. We all get ready to assist the abysmal crew. The master smith line confirms the depth charge. These tethers are the lifeline of everyone below. The impenetrable darkness of the abyss prevents of from actually knowing what is happening, but we need to get ready. We sent out scouts to track down the ship that released them. Red. Red comes from the abysmal commander’s line. Seventeen is the next command. We unhook line seventeen, giving her all the slack she needs. All we can do is wait now. Seventeen’s line keeps unrolling. Until it stops. A low rumble can be felt. we know the depth charge exploded. seventeen’s line sat still, and the only one without tension, all the other ones shook violently, they were still attached, but had no idea of seventeen’s condition. We got the medic ready. Just in case. A message form lines sixteen and eighteen. We need and emergency pull on seventeen. We reposition sixteen’s, eighteens and the commander’s line on the emergency pulley. We then cut seventeen’s line and attached it to the emergency pulley. the signal is sent to the commander that we are ready. Once the three from the abyss started to pull, we started to pull as well, to bring seventeen back up. Me and a partners grabbed additional tethers, lit some seaflares, and headed down to the abyss. As we climbed down, we use seventeens tether as a guide in the abysmal darkness. Eventually we saw the seaflare attached to her, there she was, steadily raising, as she is being pulled up. I go to her and assess the situation. She is breathing, she is conscious. But she does have damage on her. Her left arm is bloodied. I do my best to dress her arm as she continues to be pull up. I provide initial care to her wounds, try to dress them without slowing her ascent. The abysmal darkness gives way as we keep ascending. Soon eventually we reach the cliff edge. The medics soon get to her.  The doctor makes her evaluation. Her left arm is shattered, Seventeen’s days as an abysmal guard are over, but she will pull thru. Our commander contemplated the situation. The master smith communicated that some armament loss, but the forges were intact. The abysmal commander communicated all personnel is accounted for. Our scouts were able to track down the ship that released the charges but had sailed away. With seventeen’s condition being stable. Our commander massaged the abysmal commander: All’s Good, All’s Well, All’s Clear.
+The day has been quiet so far. We are getting ready to send down their lunch meal. But then, a message on the commander’s tether.
 
-We reset the tethers, made sure the every one was still attached, still safe. then we went back to normal, signaled the commander that it was lunch time and lowered their meals.
+"Depth charge."
+
+We all get ready to assist the abyssal crew. The Master Smith's line confirms the depth charge. These tethers are the lifeline of everyone below. The impenetrable darkness of the abyss prevents us from actually knowing what is happening, but we need to get ready. We send out scouts to track down the ship that released them.
+
+"Red."
+
+Red comes from the Abyssal Commander’s line. "Seventeen" is the next command. We unhook line Seventeen, giving her all the slack she needs. All we can do is wait now. Seventeen’s line keeps unrolling. Until it stops.
+
+We feel a low rumble. We know the depth charge exploded.
+
+Seventeen’s line sits still—the only one without tension. All the other ones shake violently; they are still attached, but we have no idea of Seventeen’s condition. We get the medic ready. Just in case.
+
+A message from lines Sixteen and Eighteen. We need an emergency pull on Seventeen. We reposition Sixteen’s, Eighteen’s, and the Commander’s lines on the emergency pulley. We then detach Seventeen’s line from the anchor and attach it to the emergency pulley. The signal is sent to the Commander that we are ready.
+
+Once the three from the abyss start to pull, we start to pull as well, to bring Seventeen back up.
+
+A partner and I grab additional tethers, light some seaflares, and head down into the abyss. As we climb down, we use Seventeen’s tether as a guide in the abyssal darkness. Eventually, we see the seaflare attached to her. There she is, steadily rising as she is being pulled up.
+
+I go to her and assess the situation. She is breathing; she is conscious. But she does have damage on her. Her left arm is bloodied. I do my best to dress her arm as she continues to be pulled up. I provide initial care to her wounds, trying to dress them without slowing her ascent. The abyssal darkness gives way as we keep ascending.
+
+Soon, eventually, we reach the cliff edge. The medics soon get to her. The doctor makes her evaluation. Her left arm is shattered. Seventeen’s days as an abyssal guard are over, but she will pull through.
+
+Our commander contemplates the situation. The Master Smith communicates that there is some armament loss, but the forges are intact. The Abyssal Commander communicates all personnel are accounted for. Our scouts were able to track down the ship that released the charges, but it had sailed away.
+
+With Seventeen’s condition being stable, our commander signals the Abyssal Commander: "All’s Good. All’s Well. All’s Clear."
+
+We reset the tethers, making sure everyone is still attached, still safe. Then we go back to normal, signal the Commander that it is lunch time, and lower their meals.
