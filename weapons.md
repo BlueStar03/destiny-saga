@@ -555,6 +555,7 @@ Description : -
 | Duster     | Weak  | None   | Good  | None  | Good  | None    | One-Hand |         |
 | Billy      |       |        |       |       |       |         | One-Hand |         |
 | Batson     |       |        |       |       |       |         | Two Hand |         |
+| Crowston   |       |        |       |       |       |         | One-Hand |         |
 | Piper      |       |        |       |       |       |         | One-Hand |         |
 | Spiker     |       |        |       |       |       |         | Two Hand |         |
 | Wrencher   |       |        |       |       |       |         | Two Hand |         |

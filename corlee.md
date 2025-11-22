@@ -37,7 +37,19 @@ There are two broad populations. By far the largest are the commoners. They just
 
 ---
 
-The Corlee are a matriarchal kleptocracy. They are stateless. They live within various existing nations, but they maintain their own cultural identity. there are two broad populations, The commoners, and the families. The commoners are by far the largest. They are simply everyday people, living through their lives. following any laws and rules in whatever city or nation they live in. The Families is where power and corruption lie. They form vast trade networks that influence local economies. While there are some honest merchants. a fair number engage in illicit activities, bribe racketeering, arson, extortion, counterfeit, elimination and more. There are multiple roles within the Families, Goons are the muscle, the foot soldiers. The enforcers lead the goons. Regents control various enforcers. The Donna is the head of the family. Mentors advise the Donna. Additionally, there are Covers that help hide and legitimize the families' activities. Covers are not members of the families but may be coerced to participate. then there are fixers, same as goons, but not members of the families, fixers are used to keep some distance with whatever the fixers are tasked to do.
+The Corlee are a matriarchal kleptocracy. They are stateless. They live within various existing nations, but they maintain their own cultural identity. there are two broad populations, The commoners, and the families. The commoners are by far the largest. They are simply everyday people, living through their lives. following any laws and rules in whatever city or nation they live in. The Families is where power and corruption lie. They form vast trade networks that influence local economies. While there are some honest merchants. a fair number engage in illicit activities, bribe racketeering, arson, extortion, counterfeit, elimination and more. 
+
+There are multiple roles within the Families, 
+- Goons are the muscle, the foot soldiers. 
+- Enforcers lead the goons. 
+- Regents control various enforcers. 
+- The Donna is the head of the family. 
+- Mentors advise the Donna. 
+
+Additionally, there are two more non family roles
+
+- Covers that help hide and legitimize the families' activities. Covers are not members of the families but may be coerced to participate. 
+- Fixers, same as goons, but not members of the families, fixers are used to keep some distance with whatever the fixers are tasked to do. Fixers can even be Non Corlee
 
 ---
 
@@ -61,6 +73,37 @@ Prestigious Shawl - Weight light, Defense fair, Slash fair, Pierce fair, blunt, 
 
 ---
 
-Since the Corle females are the head of the household, the breadwinners. the bosses. They don't take much part in child rearing. their husbands take care of the children and the household. Mothers are father figures and fathers are mother figures.
+Since the Corlee females are the head of the household, the breadwinners. the bosses. They don't take much part in child rearing. their husbands take care of the children and the household. Mothers are father figures and fathers are mother figures.
 
 ---
+
+Variants
+
+- Club
+- Buster Club (brass knuckle)
+- Billy Club (Short Club)
+- Batson Club (baseball bat)
+- Crowbain Club (Crowbar)
+- Piper Club (pipe club)
+- Spiker Club (like a mace, morningstar)
+- Wrencher Club (like a wrench)
+- Mauler (a very large club)
+- Breaker (The Donna's Mauler)
+
+---
+
+while they do not have nations, they do have influence across the land. A Marketplace is the largest influence, typically by a single powerful family. The Medci Marketplace is one of the largest in Threa. there are smaller families, working for more powerful. Their influence are called Shops. The Rotsi Shop, Forents Shop and Lirudce Shop are part of the Medci Marketplace. Shops are handled by either small families, or Regents. the small families are lead by a Donnelle. 
+
+A market and associated shop may or may not respect the existing borders. The Medci Marketplace operates across warring kingdoms. 
+
+---
+
+Commoners are not bound to the families. But there are benefits living within a marketplace. first, a corlee can serve as a cover. while they may not like it, are protected by the family. also, the illicit trade is routed thru watever work they do, providing financial benefit. even if not being a cover, a variety of goods flows constantly thru the marketplace, a better selection at low prices. The famalies also control unwanted crime. sometimes even crime the local goverment doesnt care, or conduct themselves. The Families have an incentive in maintaining their trade networks, so roads and halfway points are well maintained.
+
+---
+
+Marie Adloni is an enforcer. Her Stall, or post, is at Greendirt Town. Greendirt is the central hub for 7 local farms. She and her goons collect "Tribute" from the farms. The harvest collected as "Tribute" will be handed to a cover and transported away, and be traded in the Borga marketplace. What is left of the harvest in the farms is still available for their own local uses. Note, Greendirt Town and the 7 farms are not corlee. they are Lor, and part of a Lor Kingdom. Marie and her goons are "tax collectors", "hired" by the mayor. 
+
+---
+
+[Meta :Naming - as design principle, Corlee names are to be based on italian names, with particular focus mafia movie characters. the name Corlee is after the Corleone Family in the Godfather movies. Medci Family is after House of Medici, a powerful italian family ]
