@@ -53,7 +53,7 @@ The world of Threa is imbued with the Essence of its creators: Eura. The Element
 
 The Aetha and the Dreavi who continue to uphold the original charge given to them by the Elements are known as Spirits, as their work often goes unseen by the people of Threa. It makes no difference whether one is Aetha or Dreavi—both are equals in their duty to care for the world.
 
-To fulfill this duty, they have organized themselves into distinct roles, or Charges: Cardinals, Seasons, Realm, Bastion, Familiar, Wilds, and Scuttle.
+To fulfill this duty, they have organized themselves into distinct roles, or Charges: Cardinals, Seasons, Reach, Bastion, Familiar, Wilds, and Scuttle.
 
 Then there are those who no longer follow the original charge—these are known as the Unbound, in contrast to the others who remain bound to their roles.
 
@@ -62,7 +62,7 @@ Then there are those who no longer follow the original charge—these are known 
 Cardinal Spirits
 The Spirits divide Threa into four cardinal directions: North, West, South, and East. Each of these regions is overseen by a Cardinal Spirit—either an Aetha or a Dreavi.
 
-Currently, the North and South Cardinals are Dreavi, while the East and West Cardinals are Aetha. Each Cardinal oversees everything within their domain: every Season, Realm, Bastion, Familiar, Wilds, and Scuttle under their direction answers to them.
+Currently, the North and South Cardinals are Dreavi, while the East and West Cardinals are Aetha. Each Cardinal oversees everything within their domain: every Season, Reach, Bastion, Familiar, Wilds, and Scuttle under their direction answers to them.
 
 In turn, the Cardinals answer only to the Elements themselves—even though the Elements are now absent.
 
@@ -95,16 +95,16 @@ A Tribunal where cases for frost are made, snowstorms are overturned, Auroras ar
 
 ---
 
-Realm Spirits
-Each cardinality is further divided into Realms—vast regions defined by dominant features such as mountains, forests, islands, canyons, and sometimes even entire kingdoms. Each Realm is overseen by one Realm Spirits, who are responsible for managing the balance and function of their domain.
+Reach Spirits
+Each cardinality is further divided into Reaches—vast regions defined by dominant features such as mountains, forests, islands, canyons, and sometimes even entire kingdoms. Each Reach is overseen by one Reach Spirits, who are responsible for managing the balance and function of their domain.
 
-The Bastion, Familiar, Wilds, and Scuttle Spirits within a Realm report to its Realm Spirit, who in turn answers to the Cardinal Spirit of the cardinality in which the Realm resides.
+The Bastion, Familiar, Wilds, and Scuttle Spirits within a Reach report to its Reach Spirit, who in turn answers to the Cardinal Spirit of the cardinality in which the Reach resides.
 
-Aetha tend to prefer high-elevation Realms—mountains, cliffs, and highlands—while Dreavi are more commonly found in low-elevation and aquatic Realms, such as lakes, rivers, and harbors.
+Aetha tend to prefer high-elevation Reaches—mountains, cliffs, and highlands—while Dreavi are more commonly found in low-elevation and aquatic Reaches, such as lakes, rivers, and harbors.
 
 ---
 
-Guardian Spirits: these spirits have a specific charge. they answer to the Realm Spirit and the Cardinal of where their charge is located at.
+Guardian Spirits: these spirits have a specific charge. they answer to the Reach Spirit and the Cardinal of where their charge is located at.
 
 - Wilds Spirits: their charge are natural features, like trees, hills, cave, even creature populations, schools of fish.
 
@@ -112,7 +112,7 @@ Guardian Spirits: these spirits have a specific charge. they answer to the Realm
 
 - Familiar Spirits: their charge are people. it can be a single person, a family, their descendant, or a lineage.
 
-the Realm Spirits, or even Cardinals, are the ones who assign the charge to a guardian spirit. if the charge ceases to be, they may be assign a new charge.
+the Reach Spirits, or even Cardinals, are the ones who assign the charge to a guardian spirit. if the charge ceases to be, they may be assign a new charge.
 
 ---
 
@@ -238,7 +238,7 @@ When he went to the town to collect the goats for the day, the baker looked worr
 
 From the Scuttle Spirit's Perspective
 
-Elia, a Dreavi boy, is relaxing under a tree. His peace is abruptly interrupted when the Realm Spirit of the mountain visits him. She is asking for a simple request—just some water. Elia plans to get some from the village well, so he heads there.
+Elia, a Dreavi boy, is relaxing under a tree. His peace is abruptly interrupted when the Reach Spirit of the mountain visits him. She is asking for a simple request—just some water. Elia plans to get some from the village well, so he heads there.
 
 When he arrives, he decides to rest by the chimney on a roof. He makes himself hard to see and rests for a while. It is almost dusk when the town's herd boy arrives. Elia notices that he seems down. Elia follows him to the seamstress. The herd boy wants his shirt mended. Elia thinks this is good gossip and is about to leave when the seamstress mentions the Moon Spirit.
 
@@ -263,3 +263,4 @@ Elia is surprised. She then says, "This is my mountain. I know everything that h
 ---
 
 a couple of things. On his way to bakery in the morning, he passed by the boy's house and saw the bundle. he dismissed it. When Elia was in the bakery, making the soft rolls, it is when his conscious got him and decided to mend the shirt. it is then that Elia tells himself "It better be a tasty apple," as his excuse to mend the shirt. then he went to the seamstress to get some thread. when he unbundled the shirt and saw the hard bread, is when he says "Really? This is what he offers?" feeling a bit insulted, that the boy expected a mended shirt in exchange for a stale piece of bread. he had at least expected the apple. Then, upon observing the house, he realized it wasn't just stale bread but his dinner. so, he mended the shirt and exchanged the hard bread for a soft roll. he did not realized that he put the hard bread with the rest of the soft rolls, so when he handed the soft rolls to the mountain spirit, the hard bread was there too.
+
