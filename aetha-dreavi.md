@@ -53,7 +53,7 @@ The world of Threa is imbued with the Essence of its creators: Eura. The Element
 
 The Aetha and the Dreavi who continue to uphold the original charge given to them by the Elements are known as Spirits, as their work often goes unseen by the people of Threa. It makes no difference whether one is Aetha or Dreavi—both are equals in their duty to care for the world.
 
-To fulfill this duty, they have organized themselves into distinct roles, or Charges: Cardinals, Seasons, Reach, Bastion, Familiar, Wilds, and Scuttle.
+To fulfill this duty, they have organized themselves into distinct roles, or Charges: Cardinals, Seasons, Reach, Keeper, Familiar, Wilds, and Scuttle.
 
 Then there are those who no longer follow the original charge—these are known as the Unbound, in contrast to the others who remain bound to their roles.
 
@@ -62,7 +62,7 @@ Then there are those who no longer follow the original charge—these are known 
 Cardinal Spirits
 The Spirits divide Threa into four cardinal directions: North, West, South, and East. Each of these regions is overseen by a Cardinal Spirit—either an Aetha or a Dreavi.
 
-Currently, the North and South Cardinals are Dreavi, while the East and West Cardinals are Aetha. Each Cardinal oversees everything within their domain: every Season, Reach, Bastion, Familiar, Wilds, and Scuttle under their direction answers to them.
+Currently, the North and South Cardinals are Dreavi, while the East and West Cardinals are Aetha. Each Cardinal oversees everything within their domain: every Season, Reach, Keeper, Familiar, Wilds, and Scuttle under their direction answers to them.
 
 In turn, the Cardinals answer only to the Elements themselves—even though the Elements are now absent.
 
@@ -98,7 +98,7 @@ A Tribunal where cases for frost are made, snowstorms are overturned, Auroras ar
 Reach Spirits
 Each cardinality is further divided into Reaches—vast regions defined by dominant features such as mountains, forests, islands, canyons, and sometimes even entire kingdoms. Each Reach is overseen by one Reach Spirits, who are responsible for managing the balance and function of their domain.
 
-The Bastion, Familiar, Wilds, and Scuttle Spirits within a Reach report to its Reach Spirit, who in turn answers to the Cardinal Spirit of the cardinality in which the Reach resides.
+The Keeper, Familiar, Wilds, and Scuttle Spirits within a Reach report to its Reach Spirit, who in turn answers to the Cardinal Spirit of the cardinality in which the Reach resides.
 
 Aetha tend to prefer high-elevation Reaches—mountains, cliffs, and highlands—while Dreavi are more commonly found in low-elevation and aquatic Reaches, such as lakes, rivers, and harbors.
 
@@ -108,7 +108,7 @@ Guardian Spirits: these spirits have a specific charge. they answer to the Reach
 
 - Wilds Spirits: their charge are natural features, like trees, hills, cave, even creature populations, schools of fish.
 
-- Bastion Spirits: their charge are developed places. like roads, houses, towns, and castles.
+- Keeper Spirits: their charge are developed places. like roads, houses, towns, and castles.
 
 - Familiar Spirits: their charge are people. it can be a single person, a family, their descendant, or a lineage.
 
@@ -158,9 +158,9 @@ Some people even believe in Spirits that don’t exist—such as Sun and Moon Sp
 
 Some traditions still contain remnants of the truth—though the original meanings are often lost. For example, in some regions, people bow to the four corners. This likely began as a tribute to the four Cardinals, but over time, the practice has been reinterpreted. Now, people say it honors four heroes, four beasts, or four kings—depending on local legend.
 
-In other cases, people set out offering plates near trees to honor a "tree spirit." But in reality, there may be no Wilds Spirit bound to that tree at all. Instead, a Bastion Spirit may be bound to the nearby road—and it is that Spirit who accepts the offering left for a spirit that doesn’t exist.
+In other cases, people set out offering plates near trees to honor a "tree spirit." But in reality, there may be no Wilds Spirit bound to that tree at all. Instead, a Keeper Spirit may be bound to the nearby road—and it is that Spirit who accepts the offering left for a spirit that doesn’t exist.
 
-Similarly, so-called "haunted houses" might actually have a Bastion Spirit bound to them, or they could simply be eerie, abandoned places with no Spirit presence at all.
+Similarly, so-called "haunted houses" might actually have a Keeper Spirit bound to them, or they could simply be eerie, abandoned places with no Spirit presence at all.
 
 On rare occasions, a Wilds Spirit may indeed be bound to a tree, and a child who frequently plays there may encounter it. In some cases, the Spirit may reveal itself, forming a quiet friendship with the child—one that lasts a lifetime. Even as the child grows into adulthood or old age, they may still return to the tree to visit their Spirit friend.
 
@@ -178,9 +178,9 @@ Occasionally, a Scuttle will take something truly important. When that happens, 
 
 The stewardship of the Aetha and the Dreavi is mostly unseen and unknown by the people of Threa. This isn’t a strict rule, but rather a preference. If they were widely known, the people of Threa might begin to plead with them for favors—asking for more rain, requesting a famine upon their enemies, offering undue reverence, or worse.
 
-Their presence could also make them targets. If a castle were under siege, invaders might attempt to eliminate the Bastion Spirit protecting the castle, or the Familiar bound to the royal lineage.
+Their presence could also make them targets. If a castle were under siege, invaders might attempt to eliminate the Keeper Spirit protecting the castle, or the Familiar bound to the royal lineage.
 
-Still, there are occasions when they choose to reveal themselves to a few. A Bastion might greet a new family moving into their hut or befriend a lone traveler on their road. A Wilds Spirit might play with children who visit their hill, assist fishers along their river, or scare off youths who stray too close to their cave.
+Still, there are occasions when they choose to reveal themselves to a few. A Keeper might greet a new family moving into their hut or befriend a lone traveler on their road. A Wilds Spirit might play with children who visit their hill, assist fishers along their river, or scare off youths who stray too close to their cave.
 
 Their work continues quietly—not absent, just unseen.
 
@@ -263,4 +263,5 @@ Elia is surprised. She then says, "This is my mountain. I know everything that h
 ---
 
 a couple of things. On his way to bakery in the morning, he passed by the boy's house and saw the bundle. he dismissed it. When Elia was in the bakery, making the soft rolls, it is when his conscious got him and decided to mend the shirt. it is then that Elia tells himself "It better be a tasty apple," as his excuse to mend the shirt. then he went to the seamstress to get some thread. when he unbundled the shirt and saw the hard bread, is when he says "Really? This is what he offers?" feeling a bit insulted, that the boy expected a mended shirt in exchange for a stale piece of bread. he had at least expected the apple. Then, upon observing the house, he realized it wasn't just stale bread but his dinner. so, he mended the shirt and exchanged the hard bread for a soft roll. he did not realized that he put the hard bread with the rest of the soft rolls, so when he handed the soft rolls to the mountain spirit, the hard bread was there too.
+
 
