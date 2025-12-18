@@ -5,44 +5,52 @@ title: Index
 
 # Index
 
+
+
+---
+
 ## World
 
-- [Creation](creation)
-- [World of Threa](threa-world)
-- [Elements](elements)
+- [Creation](creation.md)
+- [World of Threa](threa-world.md)
+- [Elements](elements.md)
+- [Eura](eura.md)
+- [Weapons](weapons.md)
 
 ## Peoples
 
-- [Nawa](nawa)
-- [Aetha and Dreavi](aetha-dreavi)
-- [Lor](lor)
-- [Aria](aria)
-  - [Zephyr Code](zephyr_code)
-- [Dis Com](dis-com)
-- [Ma Hir](ma-hir)
-- [Frill](frill)
-- [Duga](duga)
-- [Mort](mort)
-- [Lauril](lauril)
-- [Zeur](zeur)
-- [Minka](minka)
-- [Jin](jin)
-- [Murai](murai)
-- [Imoh](imoh)
-- [Corlee](corlee)
-- [Rowlf](rowlf)
-- [Nink](nink)
-  - [Ninklish](ninklish)
-- [Redn](redn)
-- [Kapopa](kapopa)
+- [Nawa](nawa.md)
+- [Aetha and Dreavi](aetha-dreavi.md)
+- [Lor](lor.md)
+- [Aria](aria.md)
+  - [Zephyr Code](zephyr_code.md)
+- [Dis Com](dis-com.md)
+- [Ma Hir](ma-hir.md)
+- [Frill](frill.md)
+- [Duga](duga.md)
+- [Mort](mort.md)
+- [Lauril](lauril.md)
+- [Zeur](zeur.md)
+- [Minka](minka.md)
+- [Jin](jin.md)
+- [Murai](murai.md)
+  - [Murai Honorifics](murai-honorific.md)
+- [Imoh](Imoh.md)
+- [Corlee](corlee.md)
+- [Rowlf](rowlf.md)
+- [Nink](nink.md)
+  - [Ninklish](ninklish.md)
+- [Redn](redn.md)
+- [Kapopa](kapopa.md)
 
 ## Stories
 
-- [Niro's Story](niro-story-1)
-- [Niro's Story 2](niro-story-2)
-- [Niro's Story 3](niro-story-3)
-- [Lyndi's Chronicle](lyndis-chronicle)
-- [Keala's Story](keala-story)
+- [Niro's Story](niro-story-1.md)
+- [Niro's Story 2](niro-story-2.md)
+- [Niro's Story 3](niro-story-3.md)
+- [Lyndi's Chronicle](lyndis-chronicle.md)
+- [Lyndi's Chronicle draft 2](lyndi-chronicle-draft-2.md)
+- [Keala's Story](keala-story.md)
 
 ---
 

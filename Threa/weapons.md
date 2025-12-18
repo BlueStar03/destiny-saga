@@ -431,7 +431,7 @@ The whip is a flexible weapon composed of a cord attached to a handle, terminati
 
 ---
 
-## Shield - to be reviewd
+## Shield - to be reviewed {#shield-id}
 
 **Type:** Shield – Weapon of Choice of the Murai
 **Description:** –
@@ -462,6 +462,8 @@ The whip is a flexible weapon composed of a cord attached to a handle, terminati
 - The sheath does not allow quick equipping, as the shields are secured to the bracers and worn like armor.
 - When sheathed, they contribute to armor defense.
 - The **Aurora Shield** can be wielded with other weapons but cannot be sheathed.
+
+
 
 ---
 

@@ -136,7 +136,7 @@ That said, there are times when a man’s touch is specifically needed for certa
 Much of the Communication the Echoes carry are Poems. Zephyr Ops encodes messages in poems. to an untrained reader, they appear like surreal poems .
 The lines
 
-> Above Goat's Laught
+> Above Goat's Laugh
 >
 > Up the mountain road, the moon whispers
 > uproar tic drop silence
@@ -144,6 +144,8 @@ The lines
 
 may appear like nonsense, but to Whisper, it read "Flash Priority, Clear Skies, North from my position, between 11:58am and 12:02pm.
 it is a complex cipher of markers, triggers, decoys, coded words and algorithms that Murmurs write their reports with.
+
+[zephyr_code](zephyr_code.md)
 
 ---
 
