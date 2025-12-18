@@ -5,9 +5,15 @@ title: Weapons
 
 # Weapons
 
+- [Stats](#stat-id)
+- [Razor](#razor-id)
+- [ninklish](ninklish.md)
+- [Octave](ninklish.md#Octave)
+- [Weapon Stats {#stat-id}](#Weapon%20Stats%20{%20stat-id})
+
 ---
 
-## Weapon Stats
+## Weapon Stats {#stat-id}
 
 Rating system:
 It is a visually 5 star system, 9 tier, spread along 0-255 points. used for rated properties (stats) 
@@ -55,7 +61,7 @@ example:
 
 ---
 
-## Razor
+## Razor {#razor-id}
 
 Type: **Razor — Weapon of Choice of the Lor**
 Description: The Razor is a three-edged blade with its handle embedded in one of the edges. It is shaped like a curved, three-edged triangle. It is defined by its **inner edge**, **outer edge**, and **top edge**. The inner edge curves gently inward, forming a concave base where the handle is embedded near the bottom point, close to where the inner and outer edges meet. Beneath the handle, a sharp point forms at the junction of the inner and outer edges — the **bottom point**.

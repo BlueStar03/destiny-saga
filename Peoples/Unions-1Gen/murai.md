@@ -242,7 +242,11 @@ The Murai are an egalitarian meritocratic Theocracy. Whichever station one is bo
 
 In each Murai Realm, there is one, selected from their birth, or close enough, to embody all that is good. To one they go to war for, to defend and protect, the one above all, the enlighten one
 
-[weapons](weapons.md#shield-id)
+-[weapons](weapons#shield-id)
+-[weapons](weapons)
+-[weapons](weapons)
+-[Shield - to be reviewed {#shield-id}](weapons.md#Shield%20-%20to%20be%20reviewed%20{%20shield-id})
+-[Shield - to be reviewed {#shield-id}](weapons#Shield%20-%20to%20be%20reviewed%20{%20shield-id})
 
 ---
 
