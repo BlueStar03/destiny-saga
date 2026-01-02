@@ -103,6 +103,34 @@ Preferred by Juggernauts, it delivers area splash damage and unblockable splash 
 
 ---
 
+Type: Rifle - Weapon of Choice of the Dis Com.       
+Description: The Rifle is a weapon that balances all three damage types. it is made of two major parts, the carriage and the blade. the carriage itself is made of the guard, the grip and the buttstock. The buttstock provides the blunt damage surface, the grip helps in maneuvering, while the guard provides defensive capabilities. the blade is embedded in the guard. it has a long edge for reliable slash damage, and it ends in a sturdy point for pierce damage.      
+      
+| Variant  | Slash | Pierce | Blunt     | Reach | Speed | Defense | Wield    | Effects                                             |      
+| -------- | ----- | ------ | --------- | ----- | ----- | ------- | ---------| --------------------------------------------------- |      
+| Base     | Good  | Good   | Good      | Good  | Good  | Good    | 2-handed |                                                     |      
+| Pistol   | Fair  | Fair   | Low       | Low   | Great | Low     | 1-handed | +speed on dual wield                                |      
+| Carbine  | Great | Fair   | Low       | Fair  | High  | Fair    | 1-handed | +Bleed, +Bleed on dual wield                        |  
+| Shotgun  | Fair  | Fair   | High      | Good  | Fair  | Great   | 2-handed | +Stagger, +Stun, +Stagger on dual wield             |  
+| Sniper   | Good  | High   | Good      | High  | Good  | Great   | 2-handed | +Critical rate on pierce, +Critical damage, +Breach |   
+| Launcher | Fair  | Fair   | Excellent | Good  | Low   | High    | 2-handed | Splash on strike, +Splash, unblockable on splash    |      
+| Assault  | High  | High   | High      | Good  | Good  | Great   | 2-handed | +Breach rate, +Stun rate, +Bleed Rate, +critical on stealth, +stager on block, Speedburst on parry |      
+    
+Components : Carriage (Guard, Grip, Buttstock), Blade, [Sling]     
+      
+      
+- Base Rifle: The basic design, featuring a blade that curves to a point.      
+- Pistol Rifle: easy to produce, fast to use and dual wieldable. Essentially just the grip with minimal guard; no buttstock, and fitted with a short blade. Commonly used as a sidearm.      
+- Carbine Rifle: focus on slash and speed, A shorter version of the rifle; it sacrifices reach for increased speed. - Shotgun Rifle: Focus on Blunt. A thicker, heavier carriage with a short guard; the blade is mostly embedded in the guard. Can be dual-wielded, gaining extra stagger effects on blunt strikes.      
+- Sniper Rifle: Prestigious with a focus on pierce. Features a longer, sturdier guard to support an extended, more sharply curved blade with a fine tip.       
+- Launcher Rifle: prestigious heavy weapon  Primarily just the heavy carriage, with an extremely heavy buttstock and guard; the thick, heavy blade adds even more mass, with only a small edge exposed. Preferred by Juggernauts.   
+- Assault Rifle: the pinnacle of the Dis Com Armory. this prestigious weapon excels in close quarters combat. all damage types have an increase rate on their effects.    
+    
+    
+Sling - It is its own weapon sheath. Enabled quick equip and negates its volume in inventory   
+
+---
+
 Dis Com Armor Sets
 
 | Set            | Class  | Defense   | Slash | Pierce | Blunt | Mobility | Effects                                                                                |

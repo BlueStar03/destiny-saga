@@ -39,3 +39,41 @@ A Shadows weapon of choice are tonfas. they have blunt non lethal, and bladed le
 Besides their covert operations, Jin are good farmers and merchants. They grow crops and raise animals not just for themselves, but for nearby populations. they tend to be referred as the breadbasket of their region. They also contract out other forms of resorse extraction to other, like lumbering and mining. they do act towards sustanable aproches, reather than exploitative.
 
 ---
+
+## Tonfa - to be reviewd
+
+Type: Tonfa - Weapon of Choice of the Jin
+Description : A one-handed weapon consisting of a main shaft and a perpendicular grip
+
+| Variant             | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects                                                                                        |
+|---------------------|-------|--------|-------|-------|-------|---------|----------|------------------------------------------------------------------------------------------------|
+| Base 1 (Daylight)   | Fair  | Fair   | Good  | Low   | High  | Good    | One-Hand | + Blunt with Sun;+ Defense with Nightshine                                                     |
+| Base 2 (Nightshine) | Good  | Fair   | Fair  | Low   | Good  | High    | One-Hand | + Slash with Moon;+ Speed with Daylight                                                        |
+| Morning Dew         | Low   | Low    | Fair  | Low   | Fair  | Good    | One-Hand | + blunt with Sun;+ Speed with Twilight mist                                                    |
+| Twilight Mist       | Fair  | Low    | Low   | Low   | Good  | Fair    | One-Hand | + slash with Moon;+ Defense with Morning dew                                                   |
+| High Noon           | None  | None   | Good  | Low   | Fair  | Great   | One-Hand | +critical with Sun; +Grab with Midnight Star                                                   |
+| Midnight Star       | Good  | Good   | None  | Low   | High  | Good    | One-Hand | +stagger with Moon; +Parry with High Noon                                                      |
+| Sun rise            | Good  | Good   | Great | Fair  | Good  | High    | One-Hand | + with Sun;+ with Moon Shadow                                                                  |
+| Moon Shadow         | Great | Great  | Good  | Fair  | High  | Good    | One-Hand | + with Moon;+ with Sun Rise                                                                    |
+| Day Breaker         | Good  | Good   | Good  | Fair  | High  | Good    | One-Hand | + Defense with Moon; + Blunt and Block With Sun; Unbreakable Charge and stagger with nightfall |
+| Night fall          | Good  | Good   | Good  | Fair  | High  | Good    | One-Hand | + Speed with Sun; + Slash and Piere with moon; +Critical and Grab with Daybreaker              |
+
+Components: Shaft, Grip, [Joint]
+
+- **Daylight**
+- **Nightshine**
+- **Morning Dew**
+- **Twilight Mist**
+- **High Noon**
+- **Midnight Star**
+- **Sun rise**
+- **Moon Shadow**
+- **Day Breaker**
+- **Night fall**
+
+- Day Tonfas: Daylight, Morning Dew, High Noon, Sun Rise, Day Breaker
+- Night Tonfas: Nighshine, Twilight Mist, Midnight Star, Moon Shadow, Night Fall
+- Day tonfas are more common. a common item for the Jin. 
+- Night Tonfas are more limited. carried by Jin Shadows, a secret protective army. (Jin Shadows are basically ninjas)
+- a joint can be added to the grip, allowing double wielding. (think energy swords from halo)
+- essentially, 4 tonfas can be wielded. two double tonfas in each hand

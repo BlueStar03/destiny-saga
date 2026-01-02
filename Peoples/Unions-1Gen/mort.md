@@ -88,3 +88,32 @@ While the territory around the dead volcano does offer value to other races, the
 The land around the volcano is very desirable. the volcanic soil is very fertile. More than excellent for farming. there are also plenty of mineral resources. The Dis Com protect the Mort lands in exchange of use of mining and farming land.
 
 ---
+
+## Scythe
+
+**Type:** Scythe – Weapon of choice of the Mort
+**Description:** The scythe is a weapon consisting of a long, curved blade attached at a sharp angle to a two-handed shaft, or “snath.” The blade is sharpened on the inner edge.
+
+| Variant  | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects                                                          |
+| -------- | ----- | ------ | ----- | ----- | ----- | ------- | -------- | ---------------------------------------------------------------- |
+| Base     | Great | Fair   | Fair  | Good  | Fair  | Fair    | Two-Hand | +Grab Reach                                                      |
+| Sickle   | Good  | Low    | Low   | Low   | Great | Low     | One-Hand | +Bleed; Breach on Grab                                           |
+| Acute    | Good  | Fair   | Low   | Low   | Great | Fair    | One-Hand | +Bleed on Dual Wield                                             |
+| Straight | Great | Great  | Fair  | High  | Good  | Good    | Two-Hand | +Breach                                                          |
+| Crescent | Good  | Fair   | High  | Great | Weak  | Good    | Two-Hand | +Grab Hold; Bleed on Splash                                      |
+| Arc      | High  | Good   | Good  | Great | Low   | Great   | Two-Hand | +Grab Reach; +Bleed                                              |
+| Halo     | High  | Low    | High  | Great | Low   | Great   | Two-Hand | +Grab Hold; Bleed on Grab; Unblockable Grab                      |
+| Eclipse  | High  | Good   | Good  | Great | Good  | Great   | Two-Hand | +Grab Reach; +Grab Hold; Unblockable Grab; Bleed on Grab; +Bleed |
+
+**Components:** Blade, snath, grip, [toe]
+
+- **Base:** A long blade on a snath.
+- **Sickle:** A short snath with a sickle-shaped blade; easy to make.
+- **Acute:** A short snath with a short blade; good for dual wielding.
+- **Straight:** The blade is upright and focuses on pierce.
+- **Arc:** A longer, curving blade, enhancing its performance.
+- **Crescent:** Two heavy blades and a sturdy snath. The unsharpened side is thick and flat.
+- **Halo:** A prestigious weapon. It features a single, oversized, crescent-shaped blade of immense thickness. The inner edge is razor sharp. The snath has a gentle curve.
+- **Eclipse:** A prestigious weapon. A bent snath with two blades, one on each end.
+
+- **Toe:** +Durability; –Pierce

@@ -31,3 +31,33 @@ there is a particularity on family dynamics. lauril are effectively abandoned at
 Lauril don't have any military or police force. their territory possesses no strategic or resource value to any nearby kingdoms. Any transgression is dealt with mob justice, like public mocking. additionaly, the grandparent can discipline, like grounding or spanking. a common tool is the Hand Axe. A highly versatile tool, it is mainly used in various competitions. another common tool are windskipper leaves. if properly cared, Windskipper leaves levitate a short distance from the ground. they are used akin to a skateboard.
 
 ---
+
+## Axe
+
+Type: Axe - Weapon of Choice of the Lauril
+Description : The Axe is a weapon consisting of an axehead on a haft. the haft is short, no longer than arms lenght. the axehead is a havy mass with one shappend edge.
+
+| Variant  | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield    | Effects                                                     |
+| -------- | ----- | ------ | ----- | ----- | ----- | ----- | ------- | -------- | ----------------------------------------------------------- |
+| Base     | Good  | Weak   | Good  | Low   | Fair  | Great | Low     | One-Hand | +Dash                                                       |
+| Timber   | Fair  | Weak   | Fair  | Low   | Fair  | Great | Low     | One-Hand | +Dash on dual-wield; +Stun on ranged strike                 |
+| Lumber   | Great | Weak   | Great | Good  | Good  | Fair  | Good    | Two-Hand | Unblockable dash strike                                     |
+| Thorn    | Good  | Good   | None  | Low   | Good  | Great | Low     | One-Hand | +Dash; +Breach on dual-wield                                |
+| Songbird | Great | Good   | Great | Fair  | Great | High  | Great   | One-Hand | +Dash; +Agility; +Critical on ranged strike                 |
+| Raptor   | High  | Good   | High  | Fair  | Great | High  | Great   | One-Hand | Pursue; Unblockable on dash strike; +Dash; +Speed; +Agility |
+
+
+Components: Axehead, Haft, Grip, [Lanyard],[Drop]
+
+ Base: an axehead afixed to a haft
+ Timber: a smaller axehead, can be Dual Wield
+ Lumber: Heavy. a very heavy axehead. a long study haft to support it.
+ Thorn: Pierce Focus, the poll of the axehead has skikes attached
+ Songbird: Enhanced, better than the base in every way. the poll has a spike
+ Raptor: Prestige, it has a double axehead
+
+simple Lanyard: adds +Range
+Braided Lanyard: a prestegious addition. adds +Rang; Doublehit
+The drop is an ornament. usually used for showing tribal membership
+
+---

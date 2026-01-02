@@ -8,6 +8,10 @@ This is a description of a race of people that live in the world of Threa, the F
 
 ---
 
+![Frill](frill___design_study_by_zbule_dfdtzog.png)
+
+---
+
 Appearance-wise, the Frills are quite standard looking, with five-fingered hands and feet and a wide range of builds and heights. The color of their skin ranges with various tints and shades of cyan. Their hair and eye are colored in shades and tints of blue Additionally, their hair clumps into sections that appear like spikes. Typically, they have three to five sections in the back, one section covering each ear, and two or three sections in the front. They may have other smaller sections.
 
 ---
@@ -97,3 +101,50 @@ Marriage and Family: How are marriages arranged in Frill society, given the rigi
 Conflict Resolution: How do the Frills handle internal conflicts, both within and between the Matriarchs' territories? Are there established laws, duels, or other traditional methods for resolving disputes? Wards have an guard branch that take care in maters of enforcement and security, they answer to the matriarch other matrons. It is the matriarch and her matrons (royal court) that make decrees as they each see fit. The matriarch can overrule any of her matrons. They are the lawmakers, judges and juries. The guards are the executioners.
 
 ---
+
+Type: Bo Staff - Weapon of Choice of the Frill.
+Description: The Bo Staff is a stick. a long thin stick.
+
+| Variant | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects                                                                                                    |
+|---------|-------|--------|-------|-------|-------|---------|----------|------------------------------------------------------------------------------------------------------------|
+| Base    | None  | None   | Good  | Great | Good  | Good    | Two-Hand | —                                                                                                          |
+| Quarter | None  | None   | Good  | Good  | Great | Fair    | Two-Hand |                                                                                                            |
+| Baton   | None  | None   | Good  | Low   | High  | Fair    | One-Hand | +Stun on Dual Wield; Stagger on Parry                                                                      |
+| Long    | None  | None   | Great | High  | Great | Good    | Two-Hand | Stagger on Block                                                                                           |
+| Pointed | None  | Good   | Great | Great | Great | Good    | Two-Hand | +Breach; +Critical                                                                                         |
+| Pillar  | None  | None   | High  | Great | Fair  | High    | Two-Hand | Stagger on Block; Knockdown on Parry; Unblockable Charge                                                   |
+| Flex    | None  | None   | High  | Great | High  | High    | Two-Hand | DoubleHit on strike; Stagger on Block; +Breach                                                             |
+| Cane    | None  | None   | Great | Fair  | Great | Great   | One-Hand | Resist Knockback; Resist Knockdown; +Stun; +Recovery; +Critical; +Defense on block                         |
+| Kane    | None  | None   | Great | Fair  | Great | Great   | One-Hand | Resist Knockback; Resist Knockdown; +Stun; +Recovery; +Critical; +Defense on block ; -blunt without spike  |
+| Spike   | Good  | Great  | Fair  | Fair  | Great | Great   | One-Hand | +Breach; +Bleed                                                                                            |
+
+Components: Shaft, Grip, Caps, [Handle] ,[engravings], [jewel], [bottom cap]
+
+- Base: A shaft slightly taller than its wielder.
+- Quarter: an inexpensive staff. the shaft is about shoulder height
+- Baton: a cheap, fast and dual wieldable. the short shaft is about forearm length  
+- Long: with a focus on reach, this tall shaft is about half the height more than the wielder
+- Pointed: a pierce capable staff. it has one end sharpened to a point.
+- Pillar: this heavy staff has a presence. it is a base staff but thicker.
+- Flex: This prestigious staff has a flexible shaft, can hit again on the rebound
+- Cane: This prestigious staff is masterfully designed with elegance and strength. Its intricately decorated handle delivers powerful strikes with unwavering force. The shaft, measuring roughly waist-high to the person who wields it, offers both control and grace in every movement. 
+- Kane: This prestigious staff is masterfully designed with elegance and strength. Its intricately decorated handle delivers powerful ... wait. Why does it twist?
+- Spike: This prestigious staff is a spiked stiletto sheathed inside the Kane.
+
+- Kane and Spike are Dual Wielded when unsheathed. no bonus thou
+- Kane and Spike are crafted together. Compared to a Cane, the material cost for the handle is higher. the material cost of the shaft is lower.
+- The Kane shaft is hollow, the spike is attached to the handle
+- Since the spike is part of the mass of the Kane, the Kane looses blunt when the spike is unsheathed.
+- DoubleHit causes a second, half power strike. can still be blocked if timed
+- the handle can be added to base, quarter, long, pointed, and flex. it is part of Cane and Spike(Kane). adds Resist Knockback.
+- The Pointed Staff has only the bootom cap
+- the bottom cap can be used to make it different from caps.
+
+Caps
+
+- Standard: +Durability
+- Rough: +Critical Rate
+- Weighted: +Stun; +Blunt; --Speed
+- Pointed: +Breach chance on strike
+- Traction: Resist Knockdown; +Recovery
+- Hooked: +Bleed Chance on Strike

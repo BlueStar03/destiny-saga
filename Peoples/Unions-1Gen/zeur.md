@@ -111,3 +111,48 @@ Karin married Rina. Karin being the Boss and Rina her Wife. they started a resta
 some years later, Karin and Tau were to pick up deliver goods to a shop. it turns out that Rina was running that shop by herself. Karin was furious at her, for stealing from her and leaving. Rina apologized and begged for forgiveness. Rina told Karin that in order to improve the restaurant busines, she made a few bets, she gambled to raise money. however, she got into a lot of debt, and the collectors were about to go after karin and the restaurant. so Rina stole the money to pay off the debt and then she fled. eventually they patched things up and remarried - merger. to show her apprsciation, Rina bought Mikke, a prize for Karin. Mikke is young, impulsive, conceited and brash, still, Karin pampered him. and while Mikke was aggressive toward Tau, Karin made it clear to him that Tau was more precious to her than Mikke. eventually, Mikke fathered a child with Karin. a girl named Jaysie.
 
 ---
+
+## Pickhammer
+
+**Type:** Pickhammer — Weapon of Choice of the Zeur
+**Description:** The Pickhammer is a weapon consisting of a sack filled with heavy bulk material. One end of the sack is flat; the other end tapers to a point. A harness is attached to the sack for carrying and wielding. It is mainly used for earthworks. Its durability as a weapon is limited.
+
+| Variant | Slash | Pierce | Blunt     | Reach | Speed | Defense | Wield    | Effects                                                                                                  |
+|---------|-------|--------|-----------|-------|-------|---------|----------|----------------------------------------------------------------------------------------------------------|
+| Base    | None  | Weak   | Great     | Low   | Low   | Great   | Two-Hand | Splash on Heavy                                                                                          |
+| Slaker  | None  | None   | Good      | Low   | Fair  | Fair    | Two-Hand | Splash on Shatter                                                                                        |
+| Puncher | None  | Good   | Great     | Low   | Low   | Great   | Two-Hand | Splash on Heavy; +Breach                                                                                 |
+| Slammer | None  | High   | High      | Great | Fair  | Fair    | Two-Hand | Splash on Heavy; +Stagger                                                                                |
+| Thumper | None  | Fair   | High      | Fair  | Low   | Great   | Two-Hand | Splash on Strike; Knockback on Heavy; Breach on Charge                                                   |
+| Breaker | None  | Great  | Excellent | Good  | Fair  | Great   | Two-Hand | Splash on Strike; Unblockable Charge, Breach on Charge; Stagger on Splash; Unblockable Splash on Shatter |
+
+**Components:** Bulk, Cover, Padding, Tip Cap, Harness, [Filler], [Frame], [Case]
+
+* **Bulk:** The main mass of the weapon.
+* **Cover:** Thick fabrics that protect the Bulk.
+* **Padding:** Extra-thick fabrics at the blunt striking surface.
+* **Tip Cap:** A solid tip at the piercing end.
+* **Harness:** Used to hold and maneuver the weapon. It functions as a weapon sheath, negates volume, and enables quick equip.
+* **Filler:** Used instead of, or alongside, the Bulk.
+* **Frame:** Provides structure to the Cover.
+* **Case:** Adds additional structure to the Cover.
+
+**Variants**
+
+* **Base:** Solid mass covered in heavy fabrics.
+* **Slaker:** A sack filled with loose material (e.g., sand, rocks, rubble). Can be used as a pack.
+* **Puncher:** The tapered point is reinforced.
+* **Slammer:** The harness can be detached, allowing the Pickhammer to be swung with a partial detachment.
+* **Thumper:** An inner frame adds strength and durability to the weapon.
+* **Breaker:** A solid inner case, strong frame, and a fillable compartment.
+
+**Notes**
+
+* The durability of a Pickhammer is lower than that of other weapons.
+* The Frame and Case add durability.
+* The Reach for the Slammer and Breaker are for when the harness is partially attached. If fully attached, the value for both is Fair
+* The Speed for the Slammer and Breaker are for when the harness is partially attached. If fully attached, the value for both is Fair
+* Can produce effects on Shatter, not on breakage.
+* Male Zeur can dual-wield Pickhammers.
+* Male Zeur can dual-wield all two-handed weapons.
+* Male Zeur have difficulty wielding one-handed weapons.

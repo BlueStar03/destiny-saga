@@ -9,6 +9,14 @@ In the World of Threa, there are 21 races. This is a description of two races th
 
 ---
 
+![](aetha___design_study_by_zbule_dfsrxtg.jpg)
+
+---
+
+![](dreavi___design_study_by_zbule_dftza3s.jpg)
+
+---
+
 In many ways, the Aetha and Dreavi are the same. They share the same culture, the same society, and view one another as equals. But one aspect clearly sets them apart: their appearance.
 
 The Aetha possess a striking and elegant appearance. Of Basal form. they have long, flowing hair in hues of gold, red, yellow, orange, and crimson. Male skin tones are shades of celeste, while females have pink skin. The base of their nose is triangular and black. Their eyes may be blue, yellow, red, orange, or green. They have soft, fluffy, rabbit-like ears and dove-like wings, both matching in color—males typically with wings and ears in magenta or pink, and females in blue or celeste. Their hands have four fingers, and their feet have two toes.

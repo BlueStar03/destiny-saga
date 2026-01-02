@@ -107,3 +107,76 @@ Marie Adloni is an enforcer. Her Stall, or post, is at Greendirt Town. Greendirt
 ---
 
 [Meta :Naming - as design principle, Corlee names are to be based on italian names, with particular focus mafia movie characters. the name Corlee is after the Corleone Family in the Godfather movies. Medci Family is after House of Medici, a powerful italian family ]
+
+---
+
+while they do not have nations, they do have influence across the land. A Marketplace is the largest influence, typically by a single powerful family. The Medci Marketplace is one of the largest in Threa. there are smaller families, working for more powerful. Their influence are called Shops. The Rotsi Shop, Forents Shop and Lirudce Shop are part of the Medci Marketplace. Shops are handled by either small families, or Regents. the small families are lead by a Donnelle. 
+
+A market and associated shop may or may not respect the existing borders. The Medci Marketplace operates across warring kingdoms. 
+
+---
+
+Commoners are not bound to the families. But there are benefits living within a marketplace. first, a corlee can serve as a cover. while they may not like it, are protected by the family. also, the illicit trade is routed thru watever work they do, providing financial benefit. even if not being a cover, a variety of goods flows constantly thru the marketplace, a better selection at low prices. The famalies also control unwanted crime. sometimes even crime the local goverment doesnt care, or conduct themselves. The Families have an incentive in maintaining their trade networks, so roads and halfway points are well maintained.
+
+---
+
+Marie Adloni is an enforcer. Her Stall, or post, is at Greendirt Town. Greendirt is the central hub for 7 local farms. She and her goons collect "Tribute" from the farms. The harvest collected as "Tribute" will be handed to a cover and transported away, and be traded in the Borga marketplace. What is left of the harvest in the farms is still available for their own local uses. Note, Greendirt Town and the 7 farms are not Corlee. they are Lor, and part of a Lor Kingdom. Marie and her goons are "tax collectors", "hired" by the mayor. She actually threatens the mayor, who is a Lor, to accept Marie's activities in the region. she was sent by the family to secure harvest form the farms. So Marie operates in the region without challenge by the local authorities.
+
+---
+
+continuing with the trade network. a stall [maybe workshop a better name than stall, or adjust the terminology] is a post, an operation for the family. with Marie, she took a percentage of the farms harvest. she then offload it to a cover. they just transport the harvest from one point, to another. the cover may engage in other, legitimate business, but the family has "asked" them to do this. it then arrives at a distribution center. there the enforcer, with her goons and covers, cut the harvest into something that can be sold, alongside other product that arrives there. this is then taken to vendors, be it family run or covers. because of the low production cost, and wide variety of goods the extract, corlee merchants have good selections at low prices, and always have stock.
+
+---
+
+A shop consists of a docks, backroom and stands. Docks are where product comes in. extortion, sweatshops, theft, etc. Backrooms are where products from many docks are collected. to core actions is to pack them so they can be sold and also not to be traceable. an Inn at a halfway point tend to be the covers for backrooms. then are the stands, the merchants that receive and sell the product. it may be run by a goon or a cover. local goons may deal with the competition. Docks, Backroom and Stands are run by enforcers. their goons do take some of the work, labor. but they also use covers, willing or not, including menial labor, like the actual packers while goons oversee them. transport is always done by covers. from the dock to backroom, and from backroom to the stands. they may, at times have a goon escort. all this is on shop, run by a regent, or a Donnelle. Marie operates a Dock
+
+---
+
+then there are shop to shop movements. it is possible for product from one shop to go to another shop. depending on the agreement of the shopkeepers. a family can control multiple shops, making transactions between shops seamless. all the shops controlled by, either a single Donna, or a group of Donnelles, is a market.  
+
+---
+
+Goons: the muscle
+Capri: the lead goons, answer to a Dulcine or Donnelle
+Donnelle: head of a small family. just her Capri and Goons. one shop. if they join a larger family, they become Dulcine. 
+Dulcine: a local boss that manages a shop.
+Donna: controls multiple shops, a market. 
+Matrina: advicor to the Donna
+Sicar: an expert assassin, made available by a Donna
+
+---
+
+commoners live in the shadow of the families. most do not want to be associated with them. but cant deny the benefits they bring. a commoner may start as a cover for the family. some may want to actively participate, and become Goons. once they advance to capri, they have it made.  
+  
+The families dont actively act against those who dont want to "help out" but from time to time, may make an example of someone not willing to do a "favor" for them.   
+  
+then there are does that seek out the protection of the families, but aren't Corlee. they are used as Fixers. they are like goons, but can handle dirtier work. mainly be able to deny involvement. Fixers can never be part of the family, never be made.   
+  
+Sicars are expert assassins. while goons and especially fixers, may have to deal with someone, but are a bit messy. Sicars can handle more complex assignments: leave no trace, send a message, looks like an accident. etc. because their services are expensive, only families lead by Donnas have access to them. Donnelles cant afford them. Sicars may have their own crew of goons, covers and fixers, or commandeer the resources of a shop.  sicars also have an apprentice, usually their firstborn daughter.   
+  
+Outside the families, commoners aren't much different as other peoples. because of their statelessness, they live under the laws of others. besides merchants, other jobs they tend to have are heavy, hard working labor, like construction, mining, lumber, blacksmith. 
+
+---
+
+## Club  (To Be Reviewed)
+
+Type: Club - Weapon of Choice of the Corlee 
+Description : -
+
+| Variant    | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
+|------------|-------|--------|-------|-------|-------|---------|----------|---------|
+| Base       | None  | None   | Good  | Fair  | Great | Fair    | One-Hand |         |
+| Duster     | Weak  | None   | Good  | None  | Good  | None    | One-Hand |         |
+| Billy      |       |        |       |       |       |         | One-Hand |         |
+| Batson     |       |        |       |       |       |         | Two Hand |         |
+| Crowston   |       |        |       |       |       |         | One-Hand |         |
+| Piper      |       |        |       |       |       |         | One-Hand |         |
+| Spiker     |       |        |       |       |       |         | Two Hand |         |
+| Wrencher   |       |        |       |       |       |         | Two Hand |         |
+| The Mauler |       |        |       |       |       |         | Two Hand |         |
+
+Components: part1, part2, [optional]
+
+Variant Description
+
+Additional Notes

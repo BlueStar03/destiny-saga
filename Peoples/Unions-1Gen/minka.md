@@ -40,3 +40,37 @@ Ladies, Dames, and Maids. Ladies are the ruling class, Maids are everyone else. 
 At the Eve of War, the last week of the Peace Season, the current Victor tribe hosts the queens and their Dames (Warriors) at their capital village. They feast to celebrate the upcoming War Season. a week after, the War Season begins. The Dames and a few Maids leave their towns and villages and enter the jungle. once inside they form warbands. they consist of no more than 15 a mix of Dames and Maids, but mostly dames They all wear something of the color of their tribe, an armband, sash, ribbons or anything. the maids perform one of to functions, the healer or runner. healers tend the wounded, not just their own warband or tribe, but all wounded. runners move across the jungles, delivering messages, orders and supplies. Both wear distinctive armbands and are off limits from all dames.
 
 ---
+
+## Whip
+
+**Type:** Whip — Traditional Weapon of the Minka  
+**Description:**
+The whip is a flexible weapon composed of a cord attached to a handle, terminating in a popper at its tip. When mastered, it serves as both an instrument of control and a weapon of precision, capable of striking, ensnaring, and disarming foes with fluid motion.
+
+| Variant | Slash | Pierce | Blunt | Reach     | Speed     | Defense | Wield    | Effects                                                                                        |
+| ------- | ----- | ------ | ----- | --------- | --------- | ------- | -------- | ---------------------------------------------------------------------------------------------- |
+| Base    | Good  | None   | Low   | Great     | Great     | Fair    | One-Hand | Ensnare on Grab                                                                                |
+| Lash    | Fair  | None   | None  | Good      | High      | Low     | One-Hand | +Slash when Dual-Wielded                                                                       |
+| Ribbon  | Fair  | None   | None  | Excellent | Excellent | Weak    | One-Hand | +Grab Reach; +Grab; Ensnare on Grab                                                            |
+| Belt    | Fair  | None   | Fair  | Good      | Good      | Fair    | One-Hand | Ensnare on Grab; Stagger on Charge                                                             |
+| Bola    | Fair  | None   | Good  | Fair      | Good      | Fair    | One-Hand | Ensnare on Grab; Knockdown on Charge                                                           |
+| Chain   | Good  | Fair   | Great | Fair      | Low       | Great   | One-Hand | Unblockable Charge; Knockdown on Charge; Ensnare on Parry                                      |
+| Braided | High  | Good   | Good  | Excellent | High      | Good    | One-Hand | +Grab Reach; Ensnare on Grab; +Grab; Unblockable Charge; Knockback on Charge; Ensnare on Parry |
+
+**Components:** Handle, Cord, Popper, [Tassel]
+
+### Variants
+
+- **Lash** — A short, compact cord favored for close-quarters combat.
+- **Ribbon** — A long, supple cord designed for entanglement rather than direct offense.
+- **Belt** — A flat, reinforced cord offering balanced speed and stability.
+- **Bola** — A cord tipped with weighted poppers, capable of tripping or disabling opponents.
+- **Chain** — A heavy metal length of links; not of Minka origin, yet adapted to their combat style.
+- **Braided** — A masterwork of interwoven strands, granting superior flexibility and strength along its entire length.
+
+### Notes
+
+- Whip-based blocks collapse after absorbing a single strike.
+- Although the **Chain** variant is not of Minka craftsmanship, it retains full Affinity bonuses when wielded by a Minka.
+
+---

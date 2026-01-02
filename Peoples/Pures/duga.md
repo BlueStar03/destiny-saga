@@ -237,5 +237,53 @@ Band: One Family
 Drift: more than one family
 crowd: at least half unrelated.
 
+---
+
+Type: Blade - Weapon of Choice of the Duga.     
+Description: The Blade shines in slash and speed. it is a plate shaped like a leaf, affixed to a handle. The long edges of the plate are sharpened, ending on a point. It serves both as a weapon and a tool for the Duga.
+
+| Variant   | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects                                          |
+|-----------|-------|--------|-------|-------|-------|---------|----------|--------------------------------------------------|
+| Base      | Good  | Fair   | Low   | Fair  | Great | Fair    | One-Hand | —                                                |
+| Field     | Fair  | Low    | Low   | Fair  | Good  | Fair    | One-Hand | —                                                |
+| Shovel    | Fair  | Low    | Good  | Fair  | Good  | Good    | Two-Hand | +Stun; +Stagger; Stun on Charge                  |
+| Cutter    | Fair  | Good   | Low   | Low   | High  | Low     | One-Hand | +Speed on Dual Wield                             |
+| Cleaver   | Great | None   | Great | Good  | Good  | Good    | Two-Hand | Unblockable Charge;                              |
+| Slicer    | High  | Great  | Fair  | Great | High  | Fair    | Two-Hand | Bleed on Charge                                  |
+| Anchor    | Great | Good   | High  | Good  | Low   | High    | Two-Hand | Stagger on Block; Knockdown on Parry             |
+| Sharp     | Great | Good   | Low   | Fair  | High  | Fair    | One-Hand | +Slash on Double Wield; +Defense on Double Wield |
+| Lost      | Fair  | Low    | Low   | Good  | Fair  | Low     | One-Hand | Forgotten Memories             |
+| Forgotten | High  | Great  | Great | Good  | High  | Great   | One-Hand | +Speed on Dual Wield; +Breach on Slash; Lost Memories           |
+
+Components: Plate, Handle, Rivets, [Joint], [Spine engraving]
+
+- Base: Just a plate and the handle. all around good for slashing really fast
+- Field: an inexpensive blade, a thin rectangular plate with one sharp edge. good for clearing foliage. 
+- Shovel: Less expensive and a bit more usefull. a smaller plate and a longer handle. just sharp enough to pierce dirt
+- Cutter:  small, cheap, fast and dual wieldable. a small handle and a small plate. good enough to cut fruit.
+- Cleaver: with a focus on blunt, this blade uses a rectangular plate. only one side is sharp. good for prepping meats
+- Slicer: focusing on slash and speed. it has a long, curving plate. it is sharp in one edge
+- Anchor: This heavy thing. it is a thick triangular plate. so thick, the handle is affixed inside of it. Drive it to the ground and no one can move it.
+- Sharp: an enhancement over the base, it is sharper in every way.
+- Lost: this [false] prestigious blade is the first blade crafted by a duga, as far as they remember. its nothing special, but holds so much potential
+- Forgotten: This prestigious blade is a flurry of slashes. But it's like it has lost something
+
+- the joint on the handle enables blades to be jointed at the handles. this enables a double blade. dual wield effects still apply while double wielding. 
+- a Lost Blade is the first Forgotten Blade a Duga remembers ever making. it is a False Forgotten.
+- Forgotten Memories: (+++Slash, +++Pierce, +++Blunt, +++Speed, +++Defense) On Dual Wield with a Forgotten Blade
+- Lost Memories: (+Slash, +Pierce, +Blunt, +Speed, +Defense) On Double Wield with a Lost Blade
 
 
+---
+
+on the lost and forgotten. without going deep into lore, the duga suffer of a condition in which they will forget their loved ones, like their parents. their parent pass down the art of blade forging. in order to bypass the amnesia, one most forge a blade alone. they are taught to forge the prestigious forgotten blade. but being inexperienced, a false weapon is crafted instead. this first one however, is a lost blade. any subsequent unskilled crafted forgotten will be false weapons. but this first one, the memory that anchors their skill, is the lost blade. once they become skilled enough, they may finally craft a true prestigious forgotten blade. formidable on its own. but a lost that is paired with a forgotten will perform like the prestige it was supposed to be. and if joined, the forgotten gets unique effects.
+
+---
+
+now, for gameplay wise. any lost will work with any forgotten. lost blades are truly rare. only the memory bound first blade is a lost one, all else are false forgotten. however, dual wielding two forgottens is effectively the same as a lost and forgotten pair, since the lost will perform like a forgotten. But the double wield bonus is inaccessible without a lost.  
+  
+one more thing. False weapons dont have effects. prestigious weapons have many strong effects. so one way to tell them apart is the lack of effects. however, A lost blade does have an effect. lets call it Forgotten memories. and lets call the effect on the forgotten blade, Lost Memories.
+
+---
+
+Clarity on dual wield and double wield. Dual wield, there is a weapon in each hand. A double wield is effectively one weapon made of two weapons. Think Darth moul, with giant spatulas. His double bladed light saber is double wield. When they split apart, one light saber in each hand, it is dual wielding. Duga blades can be equipped with links that allow two blades to be joined at the handles. Dual wield effect apply on double wield, but double wield effects apply only on double wield. Forgotten memories is a dual wield effect and Lost memories is a double wield effect. So, while a dual lost and forgotten pair is comparable to a dual forgotten pair. A double lost and forgotten is superior than a double forgotten pair, making it the best possible blade. 

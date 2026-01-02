@@ -322,6 +322,46 @@ The weapon of choice is the spear:
 
 ---
 
+Type: Spear - Weapon of Choice of the Ma Hir.     
+Description: The Spear is a weapon that excels at pierce damage. it is basically a point on a stick. simple.  
+    
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield    | Effects                               |
+|---------|-------|--------|-------|-------|-------|-------|---------|----------|---------------------------------------|
+| Base    | Fair  | Good   | Fair  | Great | Good  | Good  | Good    | Two-Hand | —                                     |
+| Short   | Low   | Fair   | Low   | Fair  | Fair  | Great | Low     | One-Hand | +Critical Rate on Dual Wield          |
+| Long    | Fair  | Great  | Fair  | High  | Good  | Fair  | Good    | Two-Hand | +Critical Rate                        |
+| Heavy   | Weak  | Fair   | Great | Good  | Fair  | Low   | Great   | Two-Hand | Splash on Charge; +Breach Rate        |
+| Glaive  | Great | Good   | Fair  | Great | Weak  | Fair  | Good    | Two-Hand | Bleed on charge                       |
+| Harpoon | Fair  | Good   | Weak  | Great | High  | Good  | Fair    | One-Hand | Recall; Breach on Ranged Strike       |
+| Halberd | Great | High   | Good  | Great | Low   | Good  | Great   | Two-Hand | +Pierce, +critical, +breach, + bleed, Splash on charge, unblockable on charge.   |  
+
+
+Components : Tip, Shaft, grip, butt, [flag], [split], [bottom tip], [tether]   
+    
+    
+- Base : just a spear tip fitted on a shaft.    
+- Short Spear: easy to produce, fast to use and dual wieldable. a tip on a shorter staff
+- Long Spear: Enhanced, focus on reach. a tip on a longer shaft
+- Heavy: This heavy variant is like a base spear with a thicker shaft and heavy tip. help carry momentum with each thrust. 
+- Glaive : with a focus on slash, the tip is now a blade. 
+- Harpoon: with superior range, Spears are good to be thrown, but the harpoon spear can fly further. it is a short shaft, but long, barbed, hooked tip. a handy tether to reel in what it hit.
+- Halberd: a prestigious weapon, the tip has a good amounts of points and edges, causing damage with every swing
+
+- split shaft - allows the shaft to be split and recombined. the split creates short spears
+- bottom tip - replaces the butt with a second tip. many blunt attacks become pierce or slash.
+- if the spear is split, and there is no second tip, the second weapon is effectively a quarter bo staff
+- tether can be added to other spears. if it is added to anything besides a harpoon, it is a -speed penalty
+
+- tips: alternate tips that can be used on base, Short, Long Heavy and second tip
+  - Standard: +breach
+  - Bident: + defense
+  - Trident: +speed
+  - Crescent: +slash; +bleed
+
+- the Ma Hir are and underwater people. as such, they have surface and marine materials available. among the marine material include: Veridia, Theel, Hardened Silver and Thecalavium 
+
+---
+
 on weapon construction:
  the base, short, ,long and halberd spears can have their tips changed to bident and trident tips. further increasing pierce damage.
 the bottom of the spear can be replaced with a second tip. and the two handed spears can be built to split into two short spears, the second tip is required for this modification, it does lower the spear's defense

@@ -176,3 +176,30 @@ The Weapon that the Lor use is the Razor, a three edge blade with the handle emb
 | Honor    | Great | Good   | None  | Good  | Good  | Good    | One Hand   | +Speed +Defense on Dual Wield                |
 
 ---
+
+Type: Razor — Weapon of Choice of the Lor
+Description: The Razor is a three-edged blade with the handle embedded in one of its edges. It is shaped like a curved, three-edged triangle. It is defined by its inner edge, outer edge, and top edge. The inner edge curves gently inward, forming a concave base where the handle is embedded near the bottom point, close to where the inner and outer edges meet. Beneath the handle, a sharp point forms at the junction of the inner and outer edges, the bottom point. The outer edge is the longest, curving outward in a smooth or pronounced convex arc. This is the main cutting edge. The top edge connects the ends, curving inward (concave) in either a sharp or gentle arc, defining two pronounced points where it meets the inner and outer edges. The top point is where to top and outer edges meet. The inner point is where the top and inner edges meet. The outer and top edges are sharpened, the inner edge may be left dull.
+
+| Variant  | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield      | Effects                                                                |
+| -------- | ----- | ------ | ----- | ----- | ----- | ------- | ---------- | ---------------------------------------------------------------------- |
+| Base     | Good  | Fair   | None  | Fair  | Fair  | Good    | One-Handed |                                                                        |
+| Straight | Fair  | Low    | Low   | Fair  | Fair  | Fair    | One-Handed |                                                                        |
+| Saber    | Good  | Good   | None  | Fair  | Good  | Good    | One-Handed | Stagger on Parry                                                       |
+| Rapier   | Fair  | Good   | None  | Good  | Good  | Low     | One-Handed | +Breach rate; +Breach on charged pierce                                |
+| Claymore | Good  | Weak   | Fair  | Fair  | Low   | Great   | Two-Handed | Splash on charged strike                                               |
+| Dagger   | Fair  | Fair   | None  | Low   | Great | Low     | One-Handed | +Speed on dual wield; concealable                                      |
+| Honor    | Great | Good   | None  | Good  | Good  | Good    | One-Handed | +Speed and +Defense on dual wield; Bleed on charged dual-wield; +Bleed |
+
+Components: Razorplate, Handle, [Tassel], [Edge Ornaments]
+
+Variant Descriptions
+
+- Straight: Cheap to build. It eliminates the top edge; the inner edge is straight. Due to the low production quality, the razorplate stays thick, which increases its mass. It is mass fielded to armies.
+- Saber: Enhanced variant. Both inner and outer edges curve in parallel and are the same length; the top edge is short and curves in gently.
+- Rapier: Fast with a focus on piercing. The top edge is collapsed. The outer edge is straight, then curves near the handle, then straightens to meet the inner edge, forming a point.
+- Claymore: Heavy, with a focus on blunt damage. Both inner and outer edges curve inward with the same gentle arc and length. They flare at the end; the handle on the inner edge is longer. The top edge curves outward, allowing mass to concentrate at the top. The edges can have a wider bevel, allowing more mass.
+- Dagger: Cheap, fast, and suitable for dual wielding. The blade is much shorter. There is no top edge; the inner edge is straight; the outer edge curves back to the inner edge. The handle covers half the inner edge due to the smaller size. Easily concealable. Peasants use this because it serves both as a tool and a weapon.
+- Honor: A prestigious, dual-wieldable weapon carried by those trusted by the King. The outer edge has a pronounced outward curve. The top edge curves deeply inward, creating sharp points. A fourth edge is added, splitting the bottom point in two. The tassel adds flair to each strike. The edge ornaments tell the story of its wielder. Important officers and nobles wield this weapon.
+
+- Concealable: can be quick equipped without needing a weapon sheath, as it fits into pockets, beneath a belt, or other discreet locations.
+

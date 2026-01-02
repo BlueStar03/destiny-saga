@@ -493,3 +493,38 @@ Chainmail Cape Liner: Chainmail that lines existing capes or can be used on its 
 Plated Cape: Metal plates layered into a cape. Properly shaped, they can enhance flight.
 
 Feather Steel Cape: Metal plates shaped like thick feathers. Layering these plates improves cape flexibility, counteracting the added weight of the feathers.
+
+---
+
+Type: Boomerang - Weapon of Choice of the Aria.
+Description: The boomerang is a curved airfoil that has the capability to return when thrown
+
+| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield      | Effects                                                        |
+|---------|-------|--------|-------|-------|-------|-------|---------|------------|----------------------------------------------------------------|
+| Base    | Good  | Fair   | None  | Low   | Good  | Good  | Fair    | One Hand   | —                                                              |
+| Stick   | None  | None   | Good  | Low   | Fair  | Fair  | Fair    | One Hand   | —                                                              |
+| Winged  | Fair  | Fair   | Fair  | Low   | High  | High  | Fair    | One Hand   | +Slash on Dual Wield                                           |
+| Ring    | Great | None   | Low   | Low   | Great | Good  | Fair    | One Hand   | +Bleed on Slash                                                |
+| Disc    | Great | None   | Great | Low   | Great | Good  | Good    | One Hand   | Stagger on Block                                               |
+| Cross   | Fair  | Great  | None  | Low   | Great | Good  | Fair    | One Hand   | +Critical Rate                                                 |
+| Thunder | Great | Fair   | Great | Good  | Low   | Low   | Great   | Two Hand   | Unblockable Charge, Splash on Charge, Stagger on Ranged Strike |
+| Zephyr  | Fair  | None   | None  | Weak  | High  | High  | Weak    | One Hand   | +speed on dual wield, stagger on first strike, Stagger chance on ranged strike |
+| Silence | High  | Great  | Good  | Low   | High  | High  | Good    | One Hand   | On Stealth (Unblockable, undetectable, critical, +critical)    |
+
+Components: Elbow, Wings, [Jewel]
+
+- Base: a V-shaped airfoil with a sharp edge.
+- Stick: Cheap to make, the more typical type; an airfoil with a slight bend and no sharp edge.
+- Winged: an enhanced and dual wieldable boomerang a W-shaped airfoil that offers a longer range.
+- Ring: a circular edge focused on slash, sometimes with an optional bar for a handle; lacking points, it does not cause pierce damage.
+- Disc: a solid circle whose additional mass causes blunt damage; like the Ring variant, it has no pierce damage.
+- Cross: features four points, providing improved pierce capability.
+- Thunder: A heavy, large airfoils that don’t travel as far but excel in close combat.
+- Zephyr: A boomerang with a focus on speed. is has two elbows, making an z shaped airfoil. the aim is to pummel the opponent to prevent them from moving.
+- Silence: A prestigious boomerang. is has two elbows, making an S shaped airfoil. It is silent in flight, making it impossible to detect until hit.
+  
+---
+
+Unblockable: when hit with this effectt, the opponent is force out any defensive stance.
+undetectable: will not cause alert, even if seen until hit.
+On Stealth: the user is on a stealth pose: crawling, sneaking, hidden, and not yet detected.

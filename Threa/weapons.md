@@ -677,15 +677,15 @@ Additional Notes
 Type: {Type} - Weapon of Choice of the {people}
 Description : -
 
-| Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
-|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
-| Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
-| -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+| Type | Variant | Slash | Pierce | Blunt | Reach | Range | Speed | Defense | Wield | Effects |
+|------|---------|-------|--------|-------|-------|-------|-------|---------|-------|---------|
+|      | Base    | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+|      | -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+|      | -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+|      | -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+|      | -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+|      | -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
+|      | -       | -     | -      | -     | -     | -     | -     | -       | -     | -       |
 
 Components: part1, part2, [optional]
 
@@ -694,3 +694,21 @@ Variant Description
 Additional Notes
 
 ---
+
+## Archetype
+
+| Icon | Meaning    |
+|------|------------|
+| ⭐    | Base       |
+| 🏭    | Production |
+| ✨    | Enhanced   |
+| 📏    | Reach      |
+| ⚡    | Speed      |
+| 👐    | Dual       |
+| ✂️    | Slash      |
+| 📌    | Pierce     |
+| 🔨    | Blunt      |
+| 🎯    | Range      |
+| 🪨    | Heavy      |
+| 👑    | Prestige   |
+| 🎭    | False      |

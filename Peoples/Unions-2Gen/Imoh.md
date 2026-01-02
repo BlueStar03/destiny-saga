@@ -49,3 +49,41 @@ slashing Chucks: good slash, high blunt, none pierce, good speed, fair reach, go
 Metal Chucks: none slash, excellent blunt, none pierce, high speed, fair reach, high defense, one hand wield. effect: high critical rate, knockback on critical
 
 ---
+
+## Chucks – Weapon of Choice of the Imoh (To Be Reviewed)
+
+**Description:** –
+
+| Variant    | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
+|------------|-------|--------|-------|-------|-------|---------|----------|---------|
+| Base       | None  | None   | Good  | Fair  | Great | Fair    | One-Hand |         |
+| Echo       |       |        |       |       |       |         | One-Hand |         |
+| Dazzel     |       |        |       |       |       |         | One-Hand |         |
+| Heavy      |       |        | Great |       |       |         | One-Hand |         |
+| Spiked     |       | Great  |       |       |       |         | One-Hand |         |
+| Hook       | Great |        |       |       |       |         | One-Hand |         |
+| Reinforced |       |        |       |       |       |         | One-Hand |         |
+| Champion   |       |        |       |       |       |         | One-Hand |         |
+
+**Components:** Stocks, Connector, [Third Segment]
+
+---
+
+**Variant Descriptions**
+
+* **Base**
+* **Echo**
+* **Dazzel**
+* **Heavy**
+* **Spiked**
+* **Hook**
+* **Reinforced**
+* **Champion**
+
+---
+
+### **Additional Notes**
+
+* **Imoh-Forged:** The `Base`, `Echo`, `Dazzel`, and `Champion` variants are forged by the Imoh.
+* **Foreign-Forged:** The `Heavy`, `Spiked`, `Hook`, and `Reinforced` variants are not of Imoh origin.
+* **[Third Segment]:** This optional component can be added to make any variant a "triple chuck."
